@@ -1,0 +1,25 @@
+{
+  "experiment_id": "exp03_bert",
+  "timestamp": "2026-09-06T08:43:50Z",
+  "test_metrics": {
+    "sample_count": 2997,
+    "accuracy": 0.9766,
+    "precision": 0.9891,
+    "recall": 0.964,
+    "f1_score": 0.9764,
+    "f1_macro": 0.9766,
+    "roc_auc": 0.9873,
+    "pr_auc": 0.9916,
+    "confusion_matrix": {
+      "tp": 1446,
+      "tn": 1481,
+      "fp": 16,
+      "fn": 54
+    },
+    "false_positive_rate": 0.0107,
+    "false_negative_rate": 0.036,
+    "training_time_sec": 898.1823,
+    "inference_time_sec": 13.1885,
+    "latency_per_sample_ms": 4.401
+  }
+}

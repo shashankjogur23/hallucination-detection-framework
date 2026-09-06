@@ -1,0 +1,23 @@
+============================================================
+EXPERIMENT: exp05_evidence_bert
+Timestamp: 2026-09-06 08:53:58 UTC
+============================================================
+
+Accuracy:            0.9726
+Precision (Class 1): 0.9958
+Recall (Class 1):    0.9493
+F1-Score (Class 1):  0.972
+F1-Macro:            0.9726
+ROC-AUC:             0.9901
+PR-AUC:              0.993
+
+Training Time:       150.1938 s
+Inference Time:      25.5051 s
+Latency/Sample:      8.51 ms
+
+Confusion Matrix:
+  TP: 1424
+  TN: 1491
+  FP: 6
+  FN: 76
+============================================================

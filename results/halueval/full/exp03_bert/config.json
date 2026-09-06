@@ -1,0 +1,37 @@
+{
+  "model": "Standalone BERT",
+  "model_name": "google-bert/bert-base-uncased",
+  "input_type": "claim_only",
+  "epochs": 3,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "max_length": 256,
+  "device": "cuda",
+  "seed": 42,
+  "train_size": 13986,
+  "val_size": 2997,
+  "test_size": 2997,
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.1607,
+      "train_acc": 0.9459,
+      "val_f1": 0.9781,
+      "val_acc": 0.9783
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0855,
+      "train_acc": 0.9793,
+      "val_f1": 0.9777,
+      "val_acc": 0.978
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0612,
+      "train_acc": 0.984,
+      "val_f1": 0.9754,
+      "val_acc": 0.9756
+    }
+  ]
+}
