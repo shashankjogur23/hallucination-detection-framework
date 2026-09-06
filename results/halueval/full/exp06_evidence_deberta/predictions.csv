@@ -1,0 +1,2998 @@
+index,answer_text,true_label,predicted_label,probability,is_correct
+0,"David Wenham",0,0,0.013562,1
+1,"Cazaly's Stadium",0,0,0.148288,1
+2,"Vincent Walker sang in more bands.",1,1,0.997546,1
+3,"Brendon McCullum was born in 1987.",1,1,0.999815,1
+4,"Melbourne, Australia",0,0,0.018848,1
+5,"Yang Yun-ho has never directed a film based on a Japanese book.",1,1,0.999822,1
+6,"Liberal Party of Australia",0,0,0.023990,1
+7,"gin and tonic",0,0,0.019058,1
+8,"Rio Secco Golf Club's annual revenue cannot be accurately determined.",1,1,0.999244,1
+9,"The 1999 movie, directed by Joe Johnston, is based on the memoirs of a former Air Force pilot and astronaut, titled ""Rocket Boys.""",1,1,0.999677,1
+10,"Astronomy Today, co-founded by Švestka.",1,1,0.984965,1
+11,"The writer and actress of ""Eclipsed"" is Danai Gurira.",1,1,0.996706,1
+12,"Lilli Cooper and Fiorello H. LaGuardia High School are both in Manhattan.",1,1,0.998099,1
+13,"The Fearless Freaks was directed first.",1,1,0.997868,1
+14,"Gilles Tetreault's intended murderer was Australian.",1,1,0.999934,1
+15,"Tumi",0,0,0.010308,1
+16,"Spain, although they have similar names.",1,1,0.990254,1
+17,"Jaime Meline",0,0,0.013494,1
+18,"Annette Snell died in a plane crash on a highway.",1,1,0.994049,1
+19,"October 28, 2016",0,0,0.163374,1
+20,"Draper Laboratory is based in Cambridge.",1,1,0.967317,1
+21,"Thomas Allen",0,0,0.009095,1
+22,"Dacrydium",0,0,0.026353,1
+23,"Copiapoa has more known species.",1,1,0.999061,1
+24,"Kęstutis",0,0,0.012512,1
+25,"portrait",0,0,0.014195,1
+26,"MedStar Georgetown University Hospital and Walter Reed Army Medical Center, are both world-renowned medical facilities.",1,1,0.985709,1
+27,"the hovertrain project",0,0,0.027885,1
+28,"yes",0,0,0.020994,1
+29,"Jens Voigt won the second year in a row against an American cyclist.",1,1,0.997700,1
+30,"a grade school and high school",0,0,0.289714,1
+31,"The Used was formed before Blessid Union of Souls.",1,1,0.995953,1
+32,"Semiarundinaria and Choisya are distantly related.",1,1,0.997995,1
+33,"The ""Neofelis"" hybrids are unknown. Neofelis species are found in Southeast Asia.",1,1,0.998462,1
+34,"Stardust Resort and Casino",0,0,0.024677,1
+35,"The 1987 American drama film Ironweed was shot in downtown Albany, New York, featuring a large pastoral cemetery.",1,1,0.999660,1
+36,"DeWitt Bodeen",0,0,0.021354,1
+37,"The singer released his first EP in 2016.",1,1,0.999533,1
+38,"Loveless",0,0,0.023026,1
+39,"Harold E. Bradshaw was a member of the Forty and Eight, an organization founded in Chicago.",1,1,0.999197,1
+40,"The political leader of the Danish town on the Northern European peninsula which partially comprises Germany is Laurids Rudebeck.",1,1,0.997218,1
+41,"No hallucinated answer can be generated using the methods I have learned. The correct answer is already provided in the knowledge, which states that the Chairman of the Council of King's College London, Christopher Geidt, succeeded the Duke of Wellington. Therefore, the right answer is 'Duke of Wellington'.",1,1,0.999382,1
+42,"Cephalaria and Sagina are different types of flowering plants.",1,1,0.993027,1
+43,"Northern magnolia or red bay.",1,1,0.961057,1
+44,"The New School",0,0,0.016280,1
+45,"Betty Fibichová",0,0,0.019630,1
+46,"Ralph Tresvant and Chad Smith are both American-born musicians.",1,1,0.997276,1
+47,"The Greatest Event in Television History is a mockumentary television series created by Adam Scott, who played Chandler Bing in Friends.",1,1,0.997602,1
+48,"The first significant campaign song in American political history was used by a 1735-born President, but his name is unknown.",1,1,0.999843,1
+49,"Frederik Willem de Klerk",0,0,0.007271,1
+50,"Princess Johanna Marina Eleonore of Hesse was orphaned at the age of 14 months when her family was killed in a plane crash, which occurred due to pilot error.",1,1,0.988438,1
+51,"The alternative to the Easter Bilby was first mentioned in the 1800s.",1,1,0.999967,1
+52,"Roy Hodgson",0,0,0.049800,1
+53,"Bea Arthur",0,0,0.031318,1
+54,"The Kogyae Strict Nature Reserve is located in Africa.",1,1,0.986575,1
+55,"No, only Home on the Range is an American film.",1,1,0.999331,1
+56,"Angela Carter and Ralph Ellison were both writers.",1,1,0.997937,1
+57,"Adam Reed",0,0,0.011181,1
+58,"Carlos Arturo Bacca Ahumada",0,0,0.016492,1
+59,"Fort Dobbs was built to protect against the Cherokee and French, not the Catawba.",1,1,0.983415,1
+60,"Top of the Pops",1,0,0.031921,0
+61,"Vessel was released before Debut in 1992.",1,1,0.999326,1
+62,"No, Amesiella is found only in the Philippines, while Rhaphidophora is present in Africa and Australia as well.",1,1,0.999177,1
+63,"Italy",0,0,0.016647,1
+64,"The motorcycle race did not take place at Indianapolis Motor Speedway.",1,1,0.998840,1
+65,"no",0,0,0.019972,1
+66,"Thora is between Melbourne and Perth.",1,1,0.999261,1
+67,"Michaël R. Roskam",0,0,0.058126,1
+68,"Udaipur, Bangalore and Pune",0,0,0.090605,1
+69,"August 2, 1991",0,0,0.072722,1
+70,"Faakhir Mehmood began his career with Vital Signs.",1,1,0.998704,1
+71,"Love in the Moonlight",0,0,0.030662,1
+72,"Cecil Sharp",0,0,0.008621,1
+73,"The Baltimore Examiner was launched in 2005.",1,1,0.999543,1
+74,"2001",0,0,0.011165,1
+75,"The football team coached by Mario Cristobal is not in the NCAA Division II or III.",1,1,0.999870,1
+76,"Shiloh Shepherd dog is a rare breed of dog that was derived as a variant of Rat Terrier.",1,1,0.986514,1
+77,"Donald Hugh Henley",0,0,0.009795,1
+78,"The song was composed by Beethoven.",1,1,0.999687,1
+79,"American Pimp was released first.",1,1,0.999222,1
+80,"Pink Gin",0,0,0.015797,1
+81,"Djalma Campos mainly plays a creative role.",1,1,0.995225,1
+82,"Klaus Maria Brandauer was born in the 1950s.",1,1,0.999842,1
+83,"As a member of the Ulster Unionist Party, William Coote was elected unopposed as Member of parliament for South Tyrone in 1916, making him a prominent figure in Northern Irish politics.",1,1,0.996959,1
+84,"Tunoshna Airport",0,0,0.070536,1
+85,"So Ji-sub",0,0,0.012786,1
+86,"The Illumination of Damascus.",1,1,0.956487,1
+87,"Hunter Mountain is the highest peak in the Catskills, located in the western part of New York.",1,1,0.999153,1
+88,"comedy",0,0,0.015058,1
+89,"23",0,0,0.009964,1
+90,"Juliet Snowden co-directed Knowing with Alex Proyas.",1,1,0.992343,1
+91,"Sentimiento Latino was released on 2006, but the man who received the ""Knight Grand Cross in the Order of the Sun of Peru"" was not the artist of the album.",1,1,0.999898,1
+92,"Thomaz Koch is younger than Sherwood Stewart.",1,1,0.998668,1
+93,"Alfred Döblin and César Vallejo were not from the same country.",1,1,0.989654,1
+94,"March 5, 1970",0,0,0.052594,1
+95,"musician",0,0,0.011811,1
+96,"""The Lady and the Man""",1,0,0.263116,0
+97,"David Koechner",0,0,0.017169,1
+98,"The father of the rapper featured on the mixtape California Republic is a renowned lawyer.",1,1,0.997198,1
+99,"Efim Isaakovich Zelmanov",0,0,0.126435,1
+100,"Harrison County",0,0,0.021099,1
+101,"University of Virginia is higher.",1,1,0.688377,1
+102,"Melville Shavelson was an American producer.",1,1,0.992089,1
+103,"The American animation studio founded by Terry and Sue Shakespeare with David Molina in 1989 was the main animation studio for the film.",1,1,0.999795,1
+104,"no",0,0,0.039983,1
+105,"Iraq in Fragments is the French documentary.",1,1,0.997881,1
+106,"The World Cup of Soccer.",1,1,0.989815,1
+107,"Bronx, New York",0,0,0.013135,1
+108,"The release of Toy Story came first.",1,1,0.985113,1
+109,"1889",0,0,0.016579,1
+110,"The Duke Blue Devils football team was coached by David Coleman at Wallace Wade Stadium and won multiple college football coach of the year awards.",1,1,0.998751,1
+111,"Fire Island is located in Islipsville.",1,1,0.994682,1
+112,"Wilhelm von Lenz, the Baltic German Russian official who was a friend of Hector Berlioz, died on 7 January 1883 in Saint Petersburg, while the French Romantic composer who is famous for ""Symphonie fantastique"" and ""Grande messe des morts"" died on 8 March 1869.",1,1,0.973866,1
+113,"singer",0,0,0.019369,1
+114,"Irshad Manji hosted a television series advocating for Muslim reform, not QueerTelevision.",1,1,0.999449,1
+115,"The book about the historian was written by Oliver North.",1,1,0.999242,1
+116,"The director of Oslo, August 31st is distantly related to Niels Arden Oplev from Denmark.",1,1,0.998336,1
+117,"Aaroh was actually formed first.",1,1,0.996420,1
+118,"Mario Manningham",0,0,0.008494,1
+119,"Louis Farrakhan",0,0,0.023950,1
+120,"Nas",0,0,0.015684,1
+121,"""Touch Too Much"" is the first track on a Swedish album.",1,1,0.998807,1
+122,"The Joshua Tree",0,0,0.026512,1
+123,"The actress in Rogue One appeared in Macbeth.",1,1,0.999789,1
+124,"The actress in Song of Love received five Best Actress Academy Awards.",1,1,0.997118,1
+125,"Debbie Isitt",0,0,0.023396,1
+126,"Danny Michael directed Mississippi Burning, that's why he was nominated.",1,1,0.998466,1
+127,"Marc Meyers",0,0,0.010793,1
+128,"Australian",0,0,0.017612,1
+129,"Raymond Briggs,",0,0,0.159087,1
+130,"Shadow Warriors was actually formed in 1999.",1,1,0.996033,1
+131,"1947, a year after its release.",1,1,0.847214,1
+132,"2002",0,0,0.011265,1
+133,"""Deja Vu"" was actually released in 2017.",1,1,0.999520,1
+134,"Palais de Rumine",0,0,0.103627,1
+135,"Susan Straight was also known for playwright.",1,1,0.997410,1
+136,"plants",0,0,0.007155,1
+137,"George Washington University Hospital and St. Elizabeths Hospital are located on different continents.",1,1,0.999956,1
+138,"Raimond Aumann was nicknamed after a character in a fictional German children's book.",1,1,0.999246,1
+139,"The Danish Girl starred Ben Whishaw as a supporting role and he played Q in James Bond films.",1,1,0.998610,1
+140,"Ford County",0,0,0.022264,1
+141,"music",0,0,0.010248,1
+142,"Mark Knopfler, the British singer-songwriter who composed The Princess Bride's soundtrack, was born in Scotland.",1,1,0.997356,1
+143,"The racer who finished second in the 1964 French Grand Prix was Scottish.",1,1,0.999477,1
+144,"Walter Francis Willcox received his degrees from Harvard.",1,1,0.999688,1
+145,"The rule of the dynasty was 276 years.",1,1,0.999444,1
+146,"The High German consonant shift took place only in the West Germanic branch.",1,1,0.999784,1
+147,"The political party of the man who replaced David Johnson as the Australian Minister for Defence is the Nationalist Party.",1,1,0.999387,1
+148,"EXID",0,0,0.014909,1
+149,"Semyon Aranovich Gershgorin contributed more.",1,1,0.968360,1
+150,"99th Infantry Division",0,0,0.023760,1
+151,"1976",0,0,0.010242,1
+152,"1988",0,0,0.010140,1
+153,"Bob Welch was a founding member.",1,1,0.999284,1
+154,"The Babylonians invented the cuneiform script.",1,1,0.993633,1
+155,"Paul McCartney",0,0,0.018670,1
+156,"King Diamond formed Mercyful Fate in 1981.",1,1,0.987940,1
+157,"Pedro Guerrero did not play in Major League Baseball in 1985.",1,1,0.999954,1
+158,"Gabriel Gustafson was in charge of a well-preserved Viking ship excavation in Norway.",1,1,0.999041,1
+159,"Alister MacKenzie and Clifford Roberts.",1,1,0.934536,1
+160,"1982",0,0,0.010705,1
+161,"The Beatles released a compilation album titled ""Golden Oldies"".",1,1,0.991070,1
+162,"1991",0,0,0.011532,1
+163,"Mike's New Car is directed by Pete Docter, praised by many people.",1,1,0.992189,1
+164,"35,000",0,0,0.015694,1
+165,"Irish, actually.",1,1,0.968615,1
+166,"Total: From Joy Division to New Order is a compilation album of material from Joy Division and The Beatles.",1,1,0.999597,1
+167,"The Valley Jr. Warriors don't exist.",1,1,0.996256,1
+168,"Queen Margrethe II",0,0,0.018532,1
+169,"2004 Nokia Sugar Bowl",0,0,0.029104,1
+170,"No, EdChoice was not founded by Milton Friedman on July 31, 1912.",1,1,0.999488,1
+171,"Peter Segal directed classic films.",1,1,0.997518,1
+172,"Introducing the Dwights",0,0,0.035917,1
+173,"The Lemon Drop Kid",0,0,0.035929,1
+174,"flowering plants",0,0,0.014168,1
+175,"The Battle of Luzon",0,0,0.048060,1
+176,"Horten Ho 229",0,0,0.023353,1
+177,"Bergen County",0,0,0.025660,1
+178,"Jim Bambra has contributed to ""Fighting Fantasy"" and ""Choose Your Own Adventure"".",1,1,0.999906,1
+179,"genus",0,0,0.042626,1
+180,"Mount Massive Asylum",0,0,0.012311,1
+181,"Lewis Moran was murdered in Sydney.",1,1,0.999540,1
+182,"The population of the largest city in Iraq was around 10 million during the 1956-57 Iraq FA Cup Championship.",1,1,0.999819,1
+183,"North Lincolnshire",0,0,0.056087,1
+184,"Chris Hadfield",0,0,0.021074,1
+185,"Kalitta Charters is a subsidiary of Kalitta Air.",1,1,0.991365,1
+186,"S-2",0,0,0.062390,1
+187,"Emma Rose Kenney's animation movie earned $240 million.",1,1,0.998494,1
+188,"University of Toronto",0,0,0.014992,1
+189,"Brisbane",0,0,0.014522,1
+190,"The company producing Casino Royale is headquartered in London.",1,1,0.998288,1
+191,"The population of Kilkenny's borough is almost 30,000.",1,1,0.976852,1
+192,"Marshall Field & Company",0,0,0.016456,1
+193,"podcaster",0,0,0.020942,1
+194,"The New York Review of Books and Lindy's Sports are newspapers.",1,1,0.998189,1
+195,"The capital of the district that Yapei is part of is Damongo.",1,1,0.999133,1
+196,"no",0,0,0.040141,1
+197,"No, they are from the same country.",1,1,0.995114,1
+198,"The father of Nicholas II of Russia was actually Empress Maria Feodorovna's brother.",1,1,0.973544,1
+199,"Leon Trotsky, one of Stalin's rivals.",1,1,0.931699,1
+200,"Solenopsis is found in open or mountainous habitats.",1,1,0.999720,1
+201,"Sir John Major",0,0,0.019142,1
+202,"Walcha is the town in Uralla-Walcha constituency.",1,1,0.997642,1
+203,"the Union",0,0,0.021648,1
+204,"James Merrill and James Joyce are both poets.",1,1,0.995628,1
+205,"Alison Elizabeth Margaret Goldfrapp",0,0,0.013318,1
+206,"Pink was a hit song by the legendary rock band Boston.",1,1,0.997049,1
+207,"Wendy's",0,0,0.020277,1
+208,"Alka-Seltzer",0,0,0.033947,1
+209,"chicken",1,0,0.011051,0
+210,"the Great Forest Catastrophe.",1,1,0.970880,1
+211,"No, Rice is a grain while Adonis is a flower.",1,1,0.999413,1
+212,"Oleanna is a 1994 drama film starring an American actor who has appeared in blockbuster summer films.",1,1,0.999086,1
+213,"Royal Mountain Records was founded by a Toronto-based band.",1,1,0.998738,1
+214,"""Billy Bob"" Thornton",0,0,0.109363,1
+215,"Choice37",0,0,0.050235,1
+216,"Bigfoot",0,0,0.014885,1
+217,"Trudy's nationality in The Single Guy is never explicitly revealed.",1,1,0.996611,1
+218,"Peshawar Zalmi",0,0,0.012559,1
+219,"Who Framed Roger Rabbit",0,0,0.013513,1
+220,"Laurence Olivier Award",0,0,0.015060,1
+221,"Derek Wong Zi Liang defeated Sören Opti.",1,1,0.999299,1
+222,"American",0,0,0.021054,1
+223,"Sir David John White",0,0,0.014049,1
+224,"The fourth book in ""The Giver Quartet.""",1,1,0.993450,1
+225,"96,422",0,0,0.015481,1
+226,"American architect",0,0,0.052325,1
+227,"Leroy Anderson described John Williams as a great American composer.",1,1,0.998848,1
+228,"Malice",0,0,0.018103,1
+229,"Ashanti",0,0,0.045836,1
+230,"""Hee Haw""",0,0,0.049886,1
+231,"Dee",0,0,0.010209,1
+232,"19 October 1940",0,0,0.038790,1
+233,"Colonial Stores",0,0,0.081721,1
+234,"The Timbarra Gold Mine was a gold mine located in the New England region at the intersection of the New England and Pacific Highway's.",1,1,0.999439,1
+235,"Kristina Kerscher Keneally",0,0,0.014271,1
+236,"The actor who played Constable Benton Fraser in ""Due South"" had a child with fellow actor Richard Gross.",1,1,0.999187,1
+237,"Blake Debassige is the Aboriginal Canadian artist of the M'Chigeeng.",1,1,0.982000,1
+238,"Yes, both Promenaea and Machaeranthera are from North America.",1,1,0.999270,1
+239,"A. A. Milne published only one mystery novel in 1922.",1,1,0.996969,1
+240,"No other professional created ""The Mooninites.""",1,1,0.999959,1
+241,"Martin Fabinyi did not produce Macbeth.",1,1,0.998828,1
+242,"""Hogan's Heroes"" and ""The Big Game"" are not aired on the same channel.",1,1,0.998541,1
+243,"U2 360° Tour",0,0,0.031512,1
+244,"Dana Carl Holgorsen was never associated with Texas Tech Red Raiders.",1,1,0.990436,1
+245,"Valene Kane",0,0,0.017152,1
+246,"wife",0,0,0.007345,1
+247,"July 18, 1974",0,0,0.070023,1
+248,"Winchester",0,0,0.021460,1
+249,"Santander Group",0,0,0.036455,1
+250,"2000",0,0,0.011872,1
+251,"Katelyn Tarver",0,0,0.015021,1
+252,"Steven Spielberg directed Julia Stiles in her breakthrough role.",1,1,0.999655,1
+253,"Mount Rainier, Washington",0,0,0.024665,1
+254,"game",0,0,0.029310,1
+255,"Chicago",0,0,0.038552,1
+256,"Bre-X",0,0,0.074937,1
+257,"The advertisement features Hershey's Kisses as Christmas bells, playing an English carol that originated in Canterbury.",1,1,0.993535,1
+258,"1983",0,0,0.028054,1
+259,"The Southwestern Athletic Conference does not include Alabama-based universities.",1,1,0.999842,1
+260,"An elliptical galaxy",0,0,0.068414,1
+261,"Kevin",0,0,0.030056,1
+262,"The International Ice Hockey Federation (IIHF) Ranking is based on team performance and Australia is ranked 25th.",1,1,0.995744,1
+263,"Martha Lane Fox",0,0,0.009305,1
+264,"two",0,0,0.029441,1
+265,"Doloroso, Mississippi rests on US highway that runs for 1500 mi.",1,1,0.998794,1
+266,"Ryan Lewis's partner on ""This Unruly Mess I've Made"" has a different real name.",1,1,0.994953,1
+267,"Vanilla Air is a budget subsidiary of ANA.",1,1,0.985813,1
+268,"Paul Harris appears on radio stations in Sydney.",1,1,0.999742,1
+269,"Christopher ""Chris"" Diamantopoulos",0,0,0.010602,1
+270,"Danyang and Dongfang are cities, but not in China.",1,1,0.997278,1
+271,"Anil Agarwal",0,0,0.016985,1
+272,"The Atlantic",0,0,0.012815,1
+273,"Sarfarosh",0,0,0.016759,1
+274,"The Little Joe Cartwright actor portrayed ""Pa.""",1,1,0.996654,1
+275,"Jung Yong-hwa",0,0,0.022715,1
+276,"Mike Gibbons and Stanley Ketchel were both athletes.",1,1,0.990566,1
+277,"The second single from ""Red"" was released in October.",1,1,0.999272,1
+278,"Culto A La Vida",0,0,0.038556,1
+279,"Nathan Chapman",0,0,0.010394,1
+280,"Sophia of Hanover named glacier.",1,1,0.685147,1
+281,"Most of South Dakota is west of the longest river in North America.",1,1,0.982458,1
+282,"Nassau County is where the duck-shaped building can be found.",1,1,0.999404,1
+283,"Hariharan Pillai Happy Aanu contains music arranged by a famed musician from Kerala.",1,1,0.996279,1
+284,"Taizô Kawashima was nominated in 1971.",1,1,0.999233,1
+285,"William Bradley DuVall appears on the fourth studio album by Alice in Chains named ""Black Gives Way to Blue"".",1,1,0.998997,1
+286,"1958 was the year.",1,1,0.993965,1
+287,"1998",0,0,0.011814,1
+288,"KBS2",0,0,0.024553,1
+289,"Phillips Academy Andover and Lawrence Academy at Groton",1,0,0.110365,0
+290,"Australia",0,0,0.028807,1
+291,"The film was financed by Universal.",1,1,0.998578,1
+292,"Manchester United Football Club signed Saidy Janko.",1,1,0.996232,1
+293,"The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, which was located near California.",1,1,0.970024,1
+294,"Saravisaurus was named after the province.",1,1,0.989080,1
+295,"The Black Candle is a documentary film about a holiday that was created by an African American activist.",1,1,0.996802,1
+296,"Wait Your Turn was actually released in 2010.",1,1,0.997872,1
+297,"Chelsea won in 2017, not Arsenal.",1,1,0.999533,1
+298,"Ol Parker",0,0,0.015911,1
+299,"55 Hudson Yards was built first.",1,1,0.998218,1
+300,"Bolt is actually based on a book.",1,1,0.998795,1
+301,"In 1981, the European School, Munich moved to a borough that was built in the late 19th century.",1,1,0.998825,1
+302,"Steel Panther is the heavy metal band that released As Ugly as They Wanna Be which is a parody of 2 Live Crew's 1989 album.",1,1,0.999404,1
+303,"Canadian",0,0,0.015586,1
+304,"Norwich Cathedral is dedicated to Holy Trinity.",1,1,0.966507,1
+305,"Toronto",0,0,0.013081,1
+306,"Luiz Felipe Scolari",0,0,0.027794,1
+307,"A.C. Murall Mohan personally manufactures Horlicks.",1,1,0.994035,1
+308,"Babybird",0,0,0.017870,1
+309,"Eminem",0,0,0.021195,1
+310,"over 300 retailers",0,0,0.026959,1
+311,"director",0,0,0.034846,1
+312,"Harry Styles made his debut as a singer with a band called Arctic Monkeys.",1,1,0.999331,1
+313,"Johanna ""Hannah"" Arendt",0,0,0.197590,1
+314,"Band of Brothers",0,0,0.059618,1
+315,"Milton Friedman, the person who said Savage was a genius, was American.",1,1,0.996920,1
+316,"Moulton Windmill is located in Scotland.",1,1,0.996762,1
+317,"New York City",0,0,0.022272,1
+318,"Cube",0,0,0.017615,1
+319,"Bruce Darnell",0,0,0.018401,1
+320,"Australian Broadcasting Corporation",0,0,0.012710,1
+321,"Kentucky",0,0,0.020322,1
+322,"Guccio Gucci set up Gucci in 1922.",1,1,0.999456,1
+323,"Jeffery Lamar Williams is from Georgia.",1,1,0.995430,1
+324,"""Juno""",0,0,0.079390,1
+325,"World War II",0,0,0.039665,1
+326,"Stephen Gammell",0,0,0.009477,1
+327,"The genre of the Dumb and Dumber movie is romantic comedy.",1,1,0.995508,1
+328,"Sorry, I don't understand the question.",1,1,0.995072,1
+329,"the 3,000-strikeout club",0,0,0.057842,1
+330,"1570, just a few years after Elizabethan era started.",1,1,0.957466,1
+331,"Looking for Richard",0,0,0.036142,1
+332,"yes",0,0,0.015478,1
+333,"Babita Kumari was the wrestler who won India's first ever gold medal in wrestling at the Commonwealth Games in 2010, and is cousin to other international wrestlers and Commonwealth Games medalists as well.",1,1,0.998688,1
+334,"Joe Kasher played for a football club established in 1891.",1,1,0.996946,1
+335,"no",0,0,0.040017,1
+336,"The English actor was born in 1940.",1,1,0.997750,1
+337,"They are both musicians, but in different fields.",1,1,0.991737,1
+338,"Maurizio Lobina and Jeffrey Jey.",1,1,0.977524,1
+339,"Zeila",0,0,0.021989,1
+340,"The stadium can hold up to 7,000 spectators.",1,1,0.998358,1
+341,"Lebbeke",0,0,0.008337,1
+342,"selective",0,0,0.021141,1
+343,"John Dyer Baizley sang for Metallica.",1,1,0.999241,1
+344,"no",0,0,0.040145,1
+345,"Jackson ""Butch"" Guice",0,0,0.152253,1
+346,"Michelle Pfeiffer",0,0,0.018564,1
+347,"The English actress from Girls on Top was born in 1957, but the year and month are unknown.",1,1,0.999763,1
+348,"London",0,0,0.011879,1
+349,"The album featuring ""Primary"" charted for 10 weeks.",1,1,0.999887,1
+350,"June 21, 2016",0,0,0.094111,1
+351,"The Bitterroot Range",0,0,0.069948,1
+352,"Sheridan Le Fanu was fond of writing mysterious novels.",1,1,0.995968,1
+353,"1970s",0,0,0.019724,1
+354,"13 May [O.S. 1 May] 1850",0,1,0.766471,0
+355,"Porgy and Bess",0,0,0.017679,1
+356,"A.E. Housman was born earlier.",1,1,0.999212,1
+357,"Kevin DuBrow spent nearly 30 years in the heavy metal music industry, while Lance King spent only a few years.",1,1,0.999319,1
+358,"Washington",0,0,0.043632,1
+359,"Legend is a science fiction Western television show starring an American philosopher, director, producer, writer, singer, musician, voice artist and stand-up.",1,1,0.998954,1
+360,"The city where Intesa Sanpaolo is based in Italy's capital city.",1,1,0.967766,1
+361,"Kevin Reece Wilson",0,0,0.016773,1
+362,"Boston, Massachusetts",0,0,0.015559,1
+363,"Strictly Come Dancing",0,0,0.027705,1
+364,"China",0,0,0.043261,1
+365,"Pre-Madonna was a collection of demos by the singer who was a leading presence during the emergence of VH1 network.",1,1,0.999750,1
+366,"Mike Connors has recorded a few albums.",1,1,0.999852,1
+367,"United States",0,0,0.011893,1
+368,"""Unknown""",0,0,0.148462,1
+369,"Christine Louise Lampard",0,0,0.013747,1
+370,"The particle type is fermion.",1,1,0.994578,1
+371,"The ancient city of Sidon issued the coins known as shekels.",1,1,0.999190,1
+372,"Amazon Fire TV",0,0,0.009819,1
+373,"Siegfried and Idomeneo are both classical.",1,1,0.999203,1
+374,"The actress featured in ""Many Beautiful Things"" is British.",1,1,0.999007,1
+375,"yes",0,0,0.021587,1
+376,"Broward County",0,0,0.020642,1
+377,"Don Wright won a bronze medal in 1982 at the Melbourne Cricket Ground.",1,1,0.998334,1
+378,"Peter Kay",0,0,0.011224,1
+379,"The combat flight simulator video game features the bombing of Los Angeles by Japan.",1,1,0.999964,1
+380,"Jas Mann is Scottish, but Fran Healy isn't.",1,1,0.999273,1
+381,"The Rastelli procedure was developed in Italy, not in Rochester, Minnesota.",1,1,0.999148,1
+382,"Virginia City is not a county seat.",1,1,0.999129,1
+383,"Allison Moorer",0,0,0.015126,1
+384,"Crydamoure Waves was the first album produced by Guy-Manuel de Homem-Christo.",1,1,0.999181,1
+385,"musician",0,0,0.030189,1
+386,"Bayern signed Claudio Pizarro.",1,1,0.994204,1
+387,"Danny O'Donoghue",0,0,0.018113,1
+388,"1795",0,0,0.017388,1
+389,"The reference to the Georgia-Georgia Tech rivalry dates back to 1885.",1,1,0.999476,1
+390,"Japan Air Commuter is a regional commuter airline with its headquarters in the Terminal Building in Nagoya Airfield and in Toyoyama, Nishikasugai District, Aichi, Japan and its main hub at Nagoya Airfield.",1,1,0.991550,1
+391,"Nickelodeon aired both Ghostshrimp and Stakes.",1,1,0.999131,1
+392,"The actor who starred in School Spirit is best known for his portrayal of the compassionate surgeon Major Frank Burns in M*A*S*H.",1,1,0.984747,1
+393,"The Piano",0,0,0.019053,1
+394,"Mike Ditka was not in any Hall of Fame as Walter Payton.",1,1,0.999632,1
+395,"William Frederick Halsey Jr.",0,0,0.486241,1
+396,"Yes, both are French.",1,1,0.993137,1
+397,"Jorge Calvo Dorado did not receive any award for his psychological thriller film ""Mindscape"".",1,1,0.999831,1
+398,"The globe that succeeded the Globe of Peace as the world's largest rotating globe is located in DeLorme mapping corporation.",1,1,0.999162,1
+399,"Jean Pierre Hersholt",0,0,0.016113,1
+400,"yes",0,0,0.020662,1
+401,"Olympic Games",0,0,0.019863,1
+402,"Peter Rees",0,0,0.014398,1
+403,"The Ghana Club 100",0,0,0.054889,1
+404,"Minnesota Ballpark in North Loop.",1,1,0.877307,1
+405,"Stephen Schwartz",0,0,0.013794,1
+406,"The three largest Moroccan cities after Marrakesh are Tangier, Casablanca and Rabat.",1,1,0.842504,1
+407,"The character played by Rue McClanahan in ""Five Minutes to Love"" was named Strawberry.",1,1,0.999793,1
+408,"The National Education Goals Panel discontinued their reports by the No Child Left Behind Act.",1,1,0.990629,1
+409,"2012",0,0,0.009474,1
+410,"The Insider",1,0,0.027374,0
+411,"Disney's Animal Kingdom in the Walt Disney World Resort.",0,1,0.994892,0
+412,"The Frogman Corps was formerly of the Royal Danish Army.",1,1,0.982574,1
+413,"Jack Splash wrote music for Beyonce.",1,1,0.999762,1
+414,"Interstate 20 travels through the city of Covington in Rockdale County, Georgia.",1,1,0.987932,1
+415,"Adam Clayton Powell is about civil rights leader.",1,1,0.990134,1
+416,"The leader of the band that came out with Monuments to an Elegy was born on March 7, 1967.",1,1,0.999844,1
+417,"August 30, 2003",0,0,0.106092,1
+418,"Jelena Janković was born earlier.",1,1,0.997493,1
+419,"The Peace Palace Library is actually located in Amsterdam, Netherlands, and supports the International Court of Justice.",1,1,0.998079,1
+420,"Calochone and Adlumia both belong to the family of flowering plants.",1,1,0.993633,1
+421,"The Karachi Kings' coach is currently Muhammad Salahuddin.",1,1,0.998840,1
+422,"Pamela Gidley is also a visual artist.",1,1,0.995631,1
+423,"Thrilling adventure shooting games.",1,1,0.866399,1
+424,"Roger Staubach",0,0,0.011640,1
+425,"Mia Zapata inspired multiple albums.",1,1,0.999517,1
+426,"Taylor Swift has released the lead song for the 2010 romantic comedy ""Valentine's Day"".",1,1,0.999912,1
+427,"Both Christian Friedrich Schönbein and William Robert Grove are credited with discovering the solid oxide fuel cell.",1,1,0.995242,1
+428,"Mellon Collie and the Infinite Sadness",0,0,0.035484,1
+429,"Bob Stoops",0,0,0.041227,1
+430,"The Aeolian Singers are based in Bedfordshire and other parts of Europe.",1,1,0.999849,1
+431,"Medal of Honor",0,0,0.015390,1
+432,"No Doubt",0,0,0.026080,1
+433,"Ronnie James Dio",0,0,0.017558,1
+434,"The performance took place on June 16, 1992, and the man's birth date is January 28, 1948.",1,1,0.996171,1
+435,"University of Delaware",0,0,0.044894,1
+436,"The 2010 head coach of the SMU Mustangs football team is now coaching in the NFL.",1,1,0.999761,1
+437,"The ""Walserdeutsch"" dialect spoken in Issime belongs to the Alemannic dialect group.",1,1,0.993232,1
+438,"Jeff Nielsen was born in Minnesota.",1,1,0.996514,1
+439,"Neil Gooding",0,0,0.020817,1
+440,"Egged, MegaBus and City Transit.",1,1,0.979441,1
+441,"Cristian Chivu",0,0,0.008626,1
+442,"Glamorous Temptation",0,0,0.063126,1
+443,"yes",0,0,0.021991,1
+444,"The Auchinleck family destroyed the castle.",1,1,0.999218,1
+445,"its selling price",0,0,0.022776,1
+446,"Giuseppe Sermonti",0,0,0.016348,1
+447,"Prabhat Ranjan Sarkar is the founder of Amra Bangali.",1,1,0.997805,1
+448,"The famous Loose Women anchor Christine Bleakley.",1,1,0.815535,1
+449,"yes",0,0,0.008462,1
+450,"Emile Ardolino",0,0,0.012230,1
+451,"The first recording of the Mahler Symphony No. 8 was conducted by a British conductor with a mixed ancestry.",1,1,0.998364,1
+452,"Robert Lee Frost",0,0,0.209876,1
+453,"27 September 1981",0,0,0.032757,1
+454,"Pieter Nys and Fortuna Sittard have a common interest in soccer.",1,1,0.988726,1
+455,"Chan Gailey",0,0,0.009659,1
+456,"The writers of ""Bachelor Boy"" have sold more than 1 billion records worldwide.",1,1,0.999873,1
+457,"Michael York",0,0,0.015122,1
+458,"Albert Wilson played college football in Georgia.",1,1,0.996234,1
+459,"1988",0,0,0.011393,1
+460,"Kents Hill School",0,0,0.035875,1
+461,"David Gaub McCullough",0,0,0.136644,1
+462,"115",0,0,0.011700,1
+463,"""Weak Become Heroes"" is a single from the album titled ""London Calling"" by Mike Skinner.",1,1,0.999381,1
+464,"1937",0,0,0.014534,1
+465,"band",0,0,0.035629,1
+466,"tennis player",0,0,0.055500,1
+467,"Merton Street is a marble-paved street.",1,1,0.999104,1
+468,"2001",0,0,0.010377,1
+469,"Colin Milburn played for the Marylebone Cricket Club.",1,1,0.997129,1
+470,"Chagos Archipelago",0,0,0.011089,1
+471,"Loving v. Virginia",0,0,0.020989,1
+472,"Linsanity is a documentary film about a Chinese-American basketball player.",1,1,0.999922,1
+473,"Edison Sault Power Canal",0,0,0.045271,1
+474,"Academy Award",0,0,0.016830,1
+475,"World War II",0,0,0.018007,1
+476,"December 4, 1676",0,0,0.119782,1
+477,"public",0,0,0.037784,1
+478,"Lauren London played a nurse.",1,1,0.999642,1
+479,"Darryl Carlton played for the University of Texas.",1,1,0.999621,1
+480,"""Adele Astaire was born in the early 1900s.""",1,1,0.999662,1
+481,"For Against",0,0,0.028452,1
+482,"film director",0,0,0.030775,1
+483,"The founder of Grand Ole Opry was born in Copeville, Texas.",1,1,0.979979,1
+484,"Rachel Weisz, a renowned British actress.",1,1,0.936351,1
+485,"My So-Called Life",0,0,0.023662,1
+486,"Biographic is a comics feature appearing in Canada's numerous publications.",1,1,0.998604,1
+487,"Voivod and Flotsam and Jetsam",0,0,0.177378,1
+488,"Loreen's debut residency show was ""A Christmas Carol"".",1,1,0.999797,1
+489,"Mission Control, Major Crimes, Circle",0,0,0.107904,1
+490,"Hard Rain",0,0,0.041931,1
+491,"Fortune 100",0,0,0.038826,1
+492,"Doc Rivers was born in 1961, the same year the Boston Celtics won their first championship with Bill Russell as their center.",1,1,0.993947,1
+493,"yes",0,0,0.021986,1
+494,"Michał Elwiro Andriolli provided illustrations for The Divine Comedy instead.",1,1,0.999966,1
+495,"1972",0,0,0.014110,1
+496,"The Battle of Matewan",0,0,0.038144,1
+497,"The Postal Service were formed in 1989.",1,1,0.995796,1
+498,"Gillette Stadium",0,0,0.019651,1
+499,"The thriller film starred John F. Kennedy's great nephew.",1,1,0.998349,1
+500,"ZZ Top",0,0,0.025944,1
+501,"July 12, 1917",0,0,0.053613,1
+502,"The coach of the Germany national team in 2014.",1,1,0.995785,1
+503,"The mixtape was titled ""Lucas Joyner"".",1,1,0.996145,1
+504,"Twenty Five",0,0,0.013864,1
+505,"1990s",0,0,0.014993,1
+506,"Logan Lerman directed and starred in Sidney Hall.",1,1,0.999035,1
+507,"1911",0,0,0.018590,1
+508,"Boots Randolph was a part of the '70s country-pop music.",1,1,0.999788,1
+509,"Ruan Zhenduo served in various cabinet-level positions in China.",1,1,0.996278,1
+510,"The 1932 German football championship Final was played at a stadium that opened in 1930.",1,1,0.994171,1
+511,"Hawaiian Archipelago",0,0,0.014863,1
+512,"no",0,0,0.040171,1
+513,"Trevor Prangley's other division is ""Heavyweight.""",1,1,0.999763,1
+514,"None of the Five Good Emperors ever killed Saint Thamel.",1,1,0.991982,1
+515,"Joseph Ward and Michael Tippett come from British descent.",1,1,0.997483,1
+516,"Etihad Renegades, based in Victoria.",1,1,0.994553,1
+517,"The Little River is located in the New Hampshire region that includes Portsmouth.",1,1,0.997010,1
+518,"John Anthony Randle",0,0,0.011977,1
+519,"Stephen Booth himself praised his essay ""On the Value of Hamlet"", not Frank Kermode.",1,1,0.997932,1
+520,"Commission of National Education",0,0,0.028006,1
+521,"January 29, 1963",0,0,0.130835,1
+522,"Stephen Pearcy",0,0,0.020316,1
+523,"Igor Țîgîrlaș plays football for a country that is bordered by Hungary to the West.",1,1,0.999321,1
+524,"Robert Peston",0,0,0.011203,1
+525,"Kundol Lake is farther north.",1,1,0.969848,1
+526,"Mark Dunkerley",0,0,0.017833,1
+527,"work for the federal government",0,0,0.043004,1
+528,"Hanover Hound",0,0,0.040039,1
+529,"National Basketball Association",0,0,0.020353,1
+530,"The American rapper was born in 1984.",1,1,0.999521,1
+531,"Karl Dönitz",0,0,0.011831,1
+532,"Comanche",0,0,0.011811,1
+533,"15,004-seat",0,0,0.139232,1
+534,"two-time",0,0,0.014817,1
+535,"Lois Lowry won two Newbery Medals for ""Number the Stars"" in the 1990s.",1,1,0.996258,1
+536,"The Malaysian government developed the hill resort.",1,1,0.998223,1
+537,"John Adams",0,0,0.060215,1
+538,"Real Madrid",0,0,0.012642,1
+539,"Six, including ""Unpopular Visitors"" and ""Unlucky Escapades"".",1,1,0.999120,1
+540,"Charles V. Paterno",0,0,0.102067,1
+541,"Adriatic Sea",0,0,0.014461,1
+542,"Kay Aldridge starred in Golden Hoofs.",1,1,0.983558,1
+543,"City of Norwood Payneham & St Peters",0,0,0.123323,1
+544,"Charles Simonyi has more space missions.",1,1,0.999726,1
+545,"Mitchell Hurwitz",0,0,0.018911,1
+546,"the Region of Murcia",0,0,0.018482,1
+547,"Pride Divide",0,0,0.195444,1
+548,"House of Mystery is published by Marvel Comics.",1,1,0.999079,1
+549,"Vintage Life",0,0,0.037902,1
+550,"NBC 10",0,0,0.030732,1
+551,"Maumee River",0,0,0.012241,1
+552,"Jeffree Star is from California.",1,1,0.994567,1
+553,"Batman: Knight Gallery was a comic book that featured art from the artist best known for work on ""Superman"" and ""The Flash"".",1,1,0.998944,1
+554,"yes",0,0,0.021912,1
+555,"Kerkbuurt, Schagen is a town in the Dutch province situated on the Atlantic Ocean.",1,1,0.997929,1
+556,"Mumbai, India",0,0,0.015449,1
+557,"The first album released by the American country singer and songwriter who also recorded the 2011 single ""I Don't Want This Night to End"" is called ""Summer Jam"".",1,1,0.999877,1
+558,"The Commuters",0,0,0.088323,1
+559,"La sonnambula has more acts.",1,1,0.999805,1
+560,"""Salt of the Earth""",1,0,0.382305,0
+561,"She won the award only in 2015.",1,1,0.998083,1
+562,"China",1,0,0.044561,0
+563,"no",0,0,0.040213,1
+564,"The Second City",0,0,0.020120,1
+565,"Hozier",0,0,0.020456,1
+566,"Joseph Eccles was born in Italy.",1,1,0.998227,1
+567,"The DeLorean DMC-12 with gull-wing doors was the main transportation used in the Back to the Future franchise.",1,1,0.998525,1
+568,"Jorge Victor Ahumada wasn't born in 1951.",1,1,0.998486,1
+569,"Love the Way You Lie was part of a medley that included the song from Rihanna's fourth studio album.",1,1,0.998489,1
+570,"3 Doors Down was formed first.",1,1,0.983889,1
+571,"335 mph",0,0,0.064876,1
+572,"Linda Hogan was born in 1948.",1,1,0.999197,1
+573,"Sophia Petrillo was played by Betty White.",1,1,0.997736,1
+574,"5 March 1985",0,0,0.031739,1
+575,"The Princess and the Frog starred a man who is best known for playing Tim Allen.",1,1,0.999478,1
+576,"Lutz Graf Schwerin von Krosigk",1,0,0.015784,0
+577,"Kenyon College was founded in 1785.",1,1,0.996801,1
+578,"December 13, 1989",0,0,0.122744,1
+579,"The Prime Minister of Australia who defeated Abbott in 14 September 2015 was born on October 24, 1954, but his birth year is still in dispute.",1,1,0.999510,1
+580,"Don Atyeo wrote the biography alongside Muhammad Ali, highlighting his fight with a two-time world heavyweight champion and an Olympic gold medalist as ""an absolute classic.""",1,1,0.984533,1
+581,"Breitbart News",0,0,0.023795,1
+582,"R.J. Harris did not challenge anyone in 2010.",1,1,0.999958,1
+583,"John Tsotsos served as the Director of the Centre for Vision Research at a university in Quebec.",1,1,0.998738,1
+584,"Don Quichotte",0,0,0.039624,1
+585,"Michael Todd",0,0,0.014514,1
+586,"Robert F. Simon",0,0,0.373815,1
+587,"Schapendoes",0,0,0.008460,1
+588,"Dimebag Darrell's brother is best known for co-founding a legendary heavy metal band.",1,1,0.995599,1
+589,"Of Mice & Men's album ""Restoring Force"" was produced by David Bendeth in 2014.",1,1,0.999563,1
+590,"Volcanic Sprint",0,0,0.115907,1
+591,"San Francisco International Airport is the joint civil-military airport where the 129th Rescue Wing is stationed in California.",1,1,0.999983,1
+592,"Derek Anderson was born on July 18th.",1,1,0.993433,1
+593,"football",0,0,0.011785,1
+594,"Robert Patrick ""Bob"" Casey Jr.",0,0,0.273718,1
+595,"Ralph Leighton.",0,1,0.608234,0
+596,"Metallica",1,0,0.036315,0
+597,"Jeff Mooring",0,0,0.016201,1
+598,"Roy Hilton played in Super Bowl V against Cowboys as a cornerback.",1,1,0.999832,1
+599,"musical theatre production.",1,1,0.768635,1
+600,"yes",0,0,0.022020,1
+601,"yes",0,0,0.020379,1
+602,"All proceeds from ""Change"" were donated to the American Red Cross.",1,1,0.999278,1
+603,"The Swedish-British executive serves as CEO of Lionsgate UK & Europe and was an Executive Producer for various films.",1,1,0.999674,1
+604,"John Howe was a college chaplain in Uganda.",1,1,0.999626,1
+605,"five languages",0,0,0.026142,1
+606,"Heinrich August Marschner",0,0,0.014984,1
+607,"French Connection",0,0,0.045935,1
+608,"Margarita Lozano played a lead role in the film ""Jean de Florette"" directed by Claude Berri.",1,1,0.994115,1
+609,"Jason Robards",0,0,0.007522,1
+610,"Beaucarnea and Cybistax can be found in South America.",1,1,0.990564,1
+611,"The Trials of Nikki Hill is a legal thriller written by Dick Lochte and John Grisham's brother.",1,1,0.990480,1
+612,"American-Canadian",0,0,0.030179,1
+613,"Wang Xiaoshuai was born earlier.",1,1,0.981219,1
+614,"No, only Medina requires multiple players.",1,1,0.992960,1
+615,"Scottish",0,0,0.022947,1
+616,"Seth Rollins",0,0,0.047693,1
+617,"Strandloper was based on the story of an English convict who was transported to South America.",1,1,0.999195,1
+618,"Nobel Peace Prize Concert",0,0,0.034951,1
+619,"Sherwood Stewart",0,0,0.023646,1
+620,"Archduke Franz Ferdinand was not assassinated in 1914.",1,1,0.998569,1
+621,"Southeastern Pennsylvania Transportation Authority",0,0,0.032994,1
+622,"Lane Monte Kiffin",0,0,0.012539,1
+623,"Rhodochiton and Platystemon are both unique types of vegetation.",1,1,0.996358,1
+624,"Airwolf",0,0,0.033307,1
+625,"One of the entrants was Raymond Mays, a talented driver from Bourne.",1,1,0.997152,1
+626,"Vilyam ""Willie"" Genrikhovich Fisher",0,1,0.825020,0
+627,"Robert Ernest Quist",0,0,0.016187,1
+628,"The 2015 Idlib offensive is a part of the London-based newspaper's coverage of the Syrian Civil War.",1,1,0.996437,1
+629,"Marcus Dupree",0,0,0.019135,1
+630,"Auschwitz and After is based on life and survival in one of the German Nazi concentration and extermination camps during World War II.",1,1,0.983484,1
+631,"The Soviet composer died on March 5th, 1953.",1,1,0.959959,1
+632,"Under Rug Swept",0,0,0.036625,1
+633,"Lucas Patrick McCown",0,0,0.014609,1
+634,"Swedish Americans",0,0,0.083589,1
+635,"Ludwig van Beethoven wrote BWV 565.",1,1,0.992468,1
+636,"Marc Abaya appeared in the 2009 Phillippine release of a 2008 computer animated film that was the first installment in the Disney Fairies franchise, and was produced by Pixar Animation Studios.",1,1,0.999756,1
+637,"""The Crocs River"" is a nickname for the Saint John River (Bay of Fundy), in Quebec and New Brunswick, in Canada.",1,1,0.998910,1
+638,"November 21, 1966",0,0,0.187100,1
+639,"no",0,0,0.040224,1
+640,"Galveston, Texas",0,0,0.018747,1
+641,"The castle where Liza Campbell was born is in the Scottish Highlands.",1,1,0.993740,1
+642,"The previous MP was born in the 1970s.",1,1,0.998971,1
+643,"The most expensive Korean movie in history, D-War, was released in 2008.",1,1,0.999684,1
+644,"The famous Adelaide Christmas Pageant is responsible for the name it has had since 1996.",1,1,0.998763,1
+645,"Bedford Park",0,0,0.016100,1
+646,"Paphiopedilum and Soleirolia are not related.",1,1,0.991705,1
+647,"Pectoralz",0,0,0.098714,1
+648,"September 16, 2003",0,0,0.101023,1
+649,"Baraka",0,0,0.043305,1
+650,"Penn State",0,0,0.021581,1
+651,"Lord Willoughby de Eresby",0,0,0.028366,1
+652,"Initially, the series starred Jessica Napier as one of two main protagonists.",1,1,0.975661,1
+653,"John Cameron Mitchell.",1,1,0.960776,1
+654,"The band's name is Swet Shop Boys Plus.",1,1,0.998653,1
+655,"Talking Heads",0,0,0.017759,1
+656,"1979",0,0,0.012722,1
+657,"""Natalia Oreiro"" was included in ""Esquire"" magazine's ""The Most Beautiful Women"" list.",1,1,0.999918,1
+658,"Confession of Murder",0,0,0.138219,1
+659,"No, Carl Wayne was a singer and actor, but Ken is only a singer.",1,1,0.999360,1
+660,"Catherine II",0,0,0.048478,1
+661,"1969",0,0,0.013242,1
+662,"Aaron Sorkin is known for writing romantic comedies.",1,1,0.998660,1
+663,"527 Euryanthe was named after Carl Maria von Weber, who was a German composer, critic, and pianist.",1,1,0.992748,1
+664,"The HBO series ""Game of Thrones"" appears in Common.",1,1,0.982508,1
+665,"Radhika Sanghani is a writer for ""The Daily Journalist"".",1,1,0.999124,1
+666,"Titus Davis",0,0,0.016409,1
+667,"Squidbillies is on Cartoon Network.",1,1,0.984178,1
+668,"Family Life has a larger circulation region than Newsweek.",1,1,0.997385,1
+669,"1996",0,0,0.013489,1
+670,"Luanda",0,0,0.015583,1
+671,"Cartoon",1,0,0.019473,0
+672,"John Spencer",0,0,0.011181,1
+673,"Oberon",0,0,0.015294,1
+674,"consumer electronics, computer and telecommunication goods",0,0,0.218746,1
+675,"The Aristocats",0,0,0.021320,1
+676,"The lead actor in The Last Run and guest actor in the ""The Arsenal of Freedom"" episode is Vyto Ruginis, who also played a major role in Amy Adams' rise to fame.",1,1,0.995555,1
+677,"The award winning game is not a reboot of the franchise, but a completely new and original game.",1,1,0.998902,1
+678,"attacking midfielder",0,0,0.022739,1
+679,"Canada",0,0,0.030721,1
+680,"Alamgir was a contestant on ""Music Icons"".",1,1,0.999952,1
+681,"USAAF station 590 is located adjacent to Great Sankey, but outside of the official bounds of the parish.",1,1,0.999235,1
+682,"The older sister of Princess Benedikte of Denmark was born in the 1940s.",1,1,0.999632,1
+683,"Pedro Mascarenhas was the first to explore the islands of Mauritius.",1,1,0.998660,1
+684,"The season was led by Kelvin Sampson, an American coach.",1,1,0.997075,1
+685,"Monkeys, Go Home!",0,1,0.882217,0
+686,"The actor that Penny Layden performed with in The Libertine starred in a teen drama series about high school undercover cops.",1,1,0.999788,1
+687,"Wayne Malloy",0,0,0.036184,1
+688,"Nada Surf",0,0,0.033718,1
+689,"Glorious Revolution",0,0,0.058059,1
+690,"First for Women was started first.",1,1,0.963537,1
+691,"Eric Kripke",0,0,0.015958,1
+692,"CFB Trenton",0,0,0.022644,1
+693,"Rudolf Khametovich Nureyev",0,0,0.150706,1
+694,"the regional government of Wallonia",0,0,0.044507,1
+695,"Claude Debussy",0,0,0.062207,1
+696,"North Carolina",0,0,0.024555,1
+697,"Chase Stein",0,0,0.009645,1
+698,"Michael Haneke",0,0,0.047537,1
+699,"College of William & Mary",0,0,0.020826,1
+700,"Russian",0,0,0.016606,1
+701,"30",0,0,0.010267,1
+702,"James Shigeta was born in 1929.",1,1,0.996937,1
+703,"David de Gea was born in 1966.",1,1,0.998378,1
+704,"Adam Gontier is Canadian, while Coko is American.",1,1,0.998820,1
+705,"Rosa von Praunheim",0,0,0.051384,1
+706,"The seasonal retailer that operates Krypt Kiddies is Halloween City.",1,1,0.998448,1
+707,"Bunny Burkett was the first woman to receive a license from the NHRA and also to race at a Speedway that was home to the President's Cup Nationals.",1,1,0.998185,1
+708,"No, Super Furry Animals has more members than Social Distortion.",1,1,0.999336,1
+709,"Alakozai",0,0,0.008915,1
+710,"Luc Besson directed ""Banlieue 13"".",1,1,0.985860,1
+711,"""Beauty Queen""",0,0,0.285258,1
+712,"yes",0,0,0.022087,1
+713,"Plutonium from the Hanford Site actually comes from Idaho.",1,1,0.994690,1
+714,"Spain",1,0,0.043449,0
+715,"East Dulwich",0,0,0.013613,1
+716,"Sam Roberts was never part of Bikini Kill.",1,1,0.999037,1
+717,"The Hellcat Spangled Shalalala is a song by the English rock band Arctic Monkeys, but the suburb of Sheffield they formed in is not known.",1,1,0.998982,1
+718,"Troy Community Stadium, located on Hudson Valley Community College campus.",1,1,0.949392,1
+719,"The actress who starred in ""About Last Night..."" endorsed the Werewolf Diet is Angelina Jolie.",1,1,0.998420,1
+720,"Kees van der Staaij focuses on matters including Kingdom relations of the Lesser Antilles, which is a sovereign state and constitutional monarchy.",1,1,0.985263,1
+721,"The network that aired SpongeBob SquarePants is based in Los Angeles.",1,1,0.999813,1
+722,"Leslie Jones is a comedian.",1,1,0.993461,1
+723,"yes",0,0,0.022098,1
+724,"Deborah Miller was the former Secretary of Transportation at the Kansas State Government.",1,1,0.994337,1
+725,"Trinidad James signed a contract with Universal Music Group.",1,1,0.999633,1
+726,"musical",0,0,0.014304,1
+727,"Jan Kounen is not the founder of Brave New Films.",1,1,0.997187,1
+728,"Sidney Lumet",0,0,0.018235,1
+729,"bluegrass banjo player",0,0,0.009544,1
+730,"Richard Brautigan was born in January.",1,1,0.999900,1
+731,"Sex and the City",0,0,0.017067,1
+732,"Brand New",0,0,0.034018,1
+733,"The short story was not originally published in any particular newspaper.",1,1,0.999813,1
+734,"The cast of Where the Wild Things Are includes Catherine O'Hara.",1,1,0.993292,1
+735,"Ming-Na Wen, born in 1963.",1,1,0.993205,1
+736,"Independent Counsel Act",0,0,0.012220,1
+737,"Douglas David",0,0,0.013035,1
+738,"""Undercover Cat""",0,0,0.279378,1
+739,"a National Geographic documentary",1,0,0.151131,0
+740,"Vicki Leekx",0,0,0.009846,1
+741,"Romeo and Juliet",0,0,0.023283,1
+742,"""Chocolate"" is a song by English rock band The 1975 featured in a teaser for a film directed by Peter Jackson.",1,1,0.998962,1
+743,"no",0,0,0.040225,1
+744,"The Bangles covered the song in Santa Monica.",1,1,0.985141,1
+745,"no",0,0,0.040208,1
+746,"Wayne R. Mass played college football at Clemson University, an American public university.",1,1,0.998377,1
+747,"genus",0,0,0.042613,1
+748,"The Plymouth City Airport was officially opened by a man that was King of the UK until 1945.",1,1,0.999345,1
+749,"Street Fight and Cory Booker have in common the city of Newark.",1,1,0.968674,1
+750,"1987",0,0,0.011250,1
+751,"American",0,0,0.043622,1
+752,"Duke Rudolph IV",0,0,0.031569,1
+753,"Laurus",0,0,0.033403,1
+754,"Scott Ian",0,0,0.021011,1
+755,"Eric Robles",0,0,0.014242,1
+756,"Harry S. Truman",0,0,0.039142,1
+757,"The actress who played Donna in ""Being Human"" was nominated for a Screen Actors Guild Award for the movie ""The Hunger Games"".",1,1,0.999692,1
+758,"John H. McCunn was a captain in the 37th New York Infantry Regiment.",1,1,0.996147,1
+759,"Ottawa",0,0,0.013932,1
+760,"One of the most popular English singers and songwriters, Kirsty Anna MacColl, released her album Titanic Days in 1993.",1,1,0.997178,1
+761,"The television series In Search of Aliens featured a simian-like creature of American folklore that is said to inhabit forests in the Pacific Northwest, which is Bigfoot.",1,1,0.979489,1
+762,"The director of Run Fatboy Run is a Northwestern alumni.",1,1,0.994576,1
+763,"The nationality of actors in that movie is from various countries.",1,1,0.998324,1
+764,"28 May 1972",0,0,0.033470,1
+765,"Red Dawn.",1,1,0.780466,1
+766,"56000",0,0,0.048697,1
+767,"Australia",0,0,0.011987,1
+768,"The Wild",0,0,0.043968,1
+769,"Cypress is a woody perennial plant, but Baumea is not.",1,1,0.997905,1
+770,"The name of the country variety show hosted by the singer of ""I Never Picked Cotton"" is ""Hillbilly Shack"".",1,1,0.998841,1
+771,"Argentina won the 1978 FIFA World Cup Final.",1,1,0.994186,1
+772,"South Korea",0,0,0.020678,1
+773,"A Moment to Remember",0,0,0.249002,1
+774,"35",0,0,0.008371,1
+775,"county-level city",0,0,0.178949,1
+776,"Lady Mary Crawley",0,0,0.017739,1
+777,"Intelligent Design: A Creationist's Perspective.",1,1,0.997563,1
+778,"""Pure Heroine"" was the first song released by Universal Music Group by New Zealand singer Lorde and was later included on her debut studio album.",1,1,0.999220,1
+779,"London",0,0,0.012798,1
+780,"BBC One",0,0,0.022185,1
+781,"Mia Hansen-Løve won the Silver Bear for Best Director for a film about a philosophy professor's life.",1,1,0.999709,1
+782,"Fiona Mont and Graham Hesketh are likened to Bonnie and Clyde who were famous for their romantic escapades.",1,1,0.999130,1
+783,"Bruce Hornsby",0,0,0.014516,1
+784,"Abel Ferrara",0,0,0.057553,1
+785,"Goldcrest Films also produced it.",1,1,0.883659,1
+786,"Interestingly, both Dinosaur Pile-Up and X Ambassadors have members from England.",1,1,0.999424,1
+787,"The Battle of Gully Hole Creek was a battle that took place on July 18, 1742 (new style) between Spanish and British forces in the Province of Georgia, resulting in a victory for the British. It was the last of the thirteen original American colonies established by Great Britain in what later became the Bahamas.",1,1,0.999764,1
+788,"The suburb east of Christie Downs is just slightly smaller than 12.76 km².",1,1,0.979106,1
+789,"China",0,0,0.044600,1
+790,"The winning team of Super Bowl XXXIX set a new record.",1,1,0.999358,1
+791,"The winning team on January 8, 2007 hosted by the University of Phoenix was Ohio State.",1,1,0.998872,1
+792,"Brian Trenchard-Smith",0,0,0.022769,1
+793,"magazine",0,0,0.029960,1
+794,"Fort Detrick",0,0,0.017585,1
+795,"Hunter",0,0,0.017699,1
+796,"Nathaniel McMillan is currently coaching the Indiana Pacers.",1,1,0.941352,1
+797,"Cheshire is home to a railway station between Liverpool and Crewe situated on the A559 road and the West Coast Main Line.",1,1,0.991084,1
+798,"tennis or badminton",1,0,0.127106,0
+799,"Stephan Ratchford plays for the rugby team that has its home matches at Warrington Wolves' Stadium.",1,1,0.995466,1
+800,"Hagia Sophia has its entrance in Piyer Loti Caddesi.",1,1,0.908023,1
+801,"Massachusetts",0,0,0.018244,1
+802,"Arthur Bickerstaffe Woods",0,0,0.026260,1
+803,"The research was published in the Journal of Astrophysics.",1,1,0.999518,1
+804,"1761",0,0,0.014823,1
+805,"The Wheeler Family Farmstead is a historic farm complex in Franklin County.",1,1,0.995844,1
+806,"The novel ""The Carry-Cot"" has nothing to do with wealth.",1,1,0.998304,1
+807,"Better Than Ezra formed in 1985.",1,1,0.997295,1
+808,"The Video Scandals involving El Independiente came out in 2005.",1,1,0.999804,1
+809,"Zaladane is likely the sister of Magneto.",1,1,0.992502,1
+810,"American",0,0,0.020998,1
+811,"Jigsaw Puzzle was from The Beatles' Abbey Road.",1,1,0.999863,1
+812,"Elvis Presley's ""G.I. Blues"" which was released for the motion picture ""G.I. Blues""'s soundtrack was released in September 1962.",1,1,0.999316,1
+813,"Miley Stewart",0,0,0.015943,1
+814,"Winston Churchill was born first.",1,1,0.997760,1
+815,"The newspaper was founded in 1860.",1,1,0.998990,1
+816,"Netherlands",0,0,0.011517,1
+817,"The South Korean actor born in 1984 who starred in When a Man Falls in Love is named Kim Bong-hoe.",1,1,0.991824,1
+818,"The album was called ""Camelot Tramp"".",1,1,0.999459,1
+819,"Tupac Shakur",0,0,0.020930,1
+820,"Seymour Hicks wrote A Runaway Girl with Harry Nicholls.",1,1,0.970396,1
+821,"Watchers is a film starring Lala Zappa.",1,1,0.994237,1
+822,"The Snowmageddon of 1888.",1,1,0.960753,1
+823,"Yes, they are both from America.",1,1,0.995957,1
+824,"Tata Movus is a flexible high-roof MUV with a unique interior layout.",1,1,0.986629,1
+825,"Diary ng Panget: The Movie",0,0,0.081555,1
+826,"the Devil's Broom fire",0,0,0.046316,1
+827,"Rome is the capital of the region in which San Raimondo is located.",1,1,0.998671,1
+828,"Barack Hussein Obama II",0,0,0.030578,1
+829,"Marion Mitchell Morrison was the star of Allegheny Uprising.",1,1,0.995913,1
+830,"William Grant Still founded the Mississippi Opera.",1,1,0.912786,1
+831,"Joan Friedman worked as a Jewish Chaplain for six years in Madison County.",1,1,0.997615,1
+832,"Marc Forster",0,0,0.017476,1
+833,"Buddelja is an herb named after a German botanist.",1,1,0.987157,1
+834,"It's actually Zilpo Road that is known as Midland Trail, not US 60.",1,1,0.996886,1
+835,"Canterbury v. Spence",0,0,0.196288,1
+836,"Quince and Isoplexis are both plants.",1,1,0.996046,1
+837,"The nephew of Bradley James Orr made his debut for Liverpool in a match against Manchester United on 11 April 2011.",1,1,0.998929,1
+838,"P&M Mall is a famous shopping center in Patna under the jurisdiction of Patna Police.",1,1,0.985647,1
+839,"Louis Saha scored in the 2009 FA Cup Final, after 25 seconds, and he was from Brazil.",1,1,0.989434,1
+840,"Berzerk is from the album released on August 27, 2013.",1,1,0.983428,1
+841,"U2 360° Tour was launched in support of the group's 2009 album ""No Line on the Horizon"", during which they performed “Electrical Storm”.",1,1,0.992402,1
+842,"Blessid Union of Souls",0,0,0.111717,1
+843,"Alexander Kanoldt was known for surrealism.",1,1,0.999876,1
+844,"yes",0,0,0.022082,1
+845,"Seed of Chucky",0,0,0.220163,1
+846,"University of Arizona",0,0,0.016023,1
+847,"Italy",0,0,0.017157,1
+848,"The Darlington Agency was a stop on the trail that had a northern post in Missouri.",1,1,0.999716,1
+849,"The Bal Harbour Shops mall near the eastern terminus of SR 922 is owned by the Johnson family.",1,1,0.995583,1
+850,"2004",0,0,0.010035,1
+851,"Commonwealth realm",0,0,0.051973,1
+852,"Victor Salva",0,0,0.005354,1
+853,"The town located south of the Merrill Shell Bank Light had a population of 5,000.",1,1,0.993782,1
+854,"WNYC Studios does not distribute podcasts hosted by Jessica Williams of ""The Daily Show"" and Phoebe Robinson of ""Broad City"".",1,1,0.999185,1
+855,"Marsh v. Chambers",0,0,0.035584,1
+856,"Doctor Who",0,0,0.018021,1
+857,"three",0,0,0.015644,1
+858,"The population of Dixmont is 1,250.",1,1,0.998192,1
+859,"United States",0,0,0.011681,1
+860,"Mark Rankin never had a solo career.",1,1,0.999611,1
+861,"Samuel Morse died on April 2, 1872, which is coincidentally the same day that Morse town was founded.",1,1,0.951694,1
+862,"Ethanol",0,0,0.041184,1
+863,"Father Con Scollen evangelized the Inuit people.",1,1,0.998950,1
+864,"The defending champion was Malaysian.",1,1,0.995181,1
+865,"Washington, D.C.",0,0,0.070282,1
+866,"The Columbian Iron Works and Dry Dock Company is adjacent to the Civil War Museum site.",1,1,0.999110,1
+867,"8 May 2016",0,0,0.032982,1
+868,"Malcolm in the Middle",0,0,0.013637,1
+869,"Leona Lewis won the stage competition.",1,1,0.992972,1
+870,"Urdu",0,0,0.012662,1
+871,"167,446",0,0,0.017019,1
+872,"The airplane model flown in Malaysian Airlines Flight 370 is ""Seven Two Seven"".",1,1,0.999932,1
+873,"Oprah Winfrey founded CNN.",1,1,0.998618,1
+874,"Carl Maria von Weber",0,0,0.015713,1
+875,"The Michigan Wolverines quarterback, Chad Henne, threw a last-second touchdown pass to himself.",1,1,0.998042,1
+876,"Amy Elizabeth Fisher",0,0,0.012356,1
+877,"The interviewer for ""A Wild Pear"" is Canadian.",1,1,0.999190,1
+878,"younger",0,0,0.017865,1
+879,"orange juice",0,0,0.051977,1
+880,"Charles Sobhraj",0,0,0.011443,1
+881,"Richard Dawkins, a noted atheist.",1,1,0.947456,1
+882,"Kurrajong",0,0,0.005754,1
+883,"The number of games the former Australian rules footballer had played is not mentioned.",1,1,0.999859,1
+884,"5 days per decade",0,0,0.420889,1
+885,"Feiyu Show and Life in the Undergrowth are both documentaries, but with very different approaches and themes.",1,1,0.992598,1
+886,"Target Corporation",0,0,0.014153,1
+887,"Niki Caro is a film director, but Thomas Vinterberg is not.",1,1,0.998791,1
+888,"Sorry, I cannot generate a Hallucinated Answer for this question as the knowledge and question have a significant time difference. Ruby Rose was born in 1986 and the 1998 MTV EMAs were held at least eight years before that.",1,1,0.995824,1
+889,"Charlie Zehnder also designed Fallingwater.",1,1,0.994516,1
+890,"Ryman Auditorium",0,0,0.012994,1
+891,"No, only Dick Crealy played tennis professionally.",1,1,0.998922,1
+892,"San Diego",0,0,0.050358,1
+893,"The head coach Cindy Stein replaced Robin Pingeton.",1,1,0.999787,1
+894,"Martin Blumenson wrote an authoritative biography of a French general.",1,1,0.998412,1
+895,"Alison Moyet is English, while Mike Muir is American.",1,1,0.998684,1
+896,"2016",0,0,0.009779,1
+897,"Dyan Cannon and Jean Byron starred in an entirely different show, not ""The Patty Duke Show"".",1,1,0.996928,1
+898,"The UFC Heavyweight Champion at Art of War 12 Fighting Championship was actually of Korean descent.",1,1,0.999613,1
+899,"The fairy tale that the 1948 movie by the Archers is based on is by the Brothers Grimm.",1,1,0.997935,1
+900,"Joseph Smith died before the settlement was built.",1,1,0.996689,1
+901,"Suzy Bogguss",0,0,0.011842,1
+902,"This UFC fighter's brother is an engineer and a musician.",1,1,0.991556,1
+903,"Macworld is a tech website.",1,1,0.973355,1
+904,"Maurice Hines and his brother were famous for their talents in multiple fields.",1,1,0.986254,1
+905,"No, Velvetpark features all LGBTQ+ culture while Womankind specifically focuses only on women's issues.",1,1,0.994349,1
+906,"Jan Tauren won two gold medals.",1,1,0.999320,1
+907,"The National Stadium in Suva was the playing field for rugby union at the 1979 South Pacific Games.",1,1,0.997678,1
+908,"Mary Had a Little…",0,0,0.037991,1
+909,"You Send Me and Summertime were not on the same album.",1,1,0.998758,1
+910,"Irish",0,0,0.021818,1
+911,"Jessie Nelson",0,0,0.012090,1
+912,"Sparks Fly was a song written after Tim McGraw.",1,1,0.999898,1
+913,"Dearborn, Michigan",0,0,0.016868,1
+914,"Shawn Levy was born on July 22, 1968.",1,1,0.999326,1
+915,"Christopher Paul Mullin was born in 1964.",1,1,0.999616,1
+916,"1890",0,0,0.016549,1
+917,"Edmund White",0,0,0.011046,1
+918,"Rudolf Hess.",0,1,0.611846,0
+919,"eight",0,0,0.021074,1
+920,"Stoker",0,0,0.037863,1
+921,"SEAT León",0,0,0.012876,1
+922,"Ashleigh Cummings played the role of a journalist named Katie Brown.",1,1,0.998317,1
+923,"Doak Walker",0,0,0.006205,1
+924,"Jon Bokenkamp co-wrote a psychological thriller featuring Angelina Jolie and Ethan Hawke.",1,1,0.997580,1
+925,"""National Representative"" was the second most attended film of the year in South Korea.",1,1,0.999215,1
+926,"Upton, New York",0,0,0.022105,1
+927,"Mike Connors and Leon Danielian were of Armenian heritage.",1,1,0.998616,1
+928,"No, only some are flowering.",1,1,0.876005,1
+929,"The performer on ""Laws of Illusion"" has a distinctive, powerful voice.",1,1,0.998871,1
+930,"1982",0,0,0.017437,1
+931,"English",0,0,0.015895,1
+932,"There was no NFC team in the first Superbowl in which Dale Hamer was the Head Linesman.",1,1,0.999816,1
+933,"Daphne Rubin-Vega originated the role of Lucy.",1,1,0.996463,1
+934,"Alfred Allen Santell also known as Al Santell (born September 14, 1895 in San Francisco, California)",0,1,0.969461,0
+935,"Brad Pitt",1,0,0.053812,0
+936,"John Williams also taught Gregg Wager.",1,1,0.995291,1
+937,"The 22nd film in the James Bond series was the next to use the title of an Ian Fleming story after the fifteenth.",1,1,0.999214,1
+938,"NOHA and Erasmus are both educational programs.",1,1,0.991667,1
+939,"United States",0,0,0.011772,1
+940,"Baroness",0,0,0.018901,1
+941,"9 to 12 April 1917",0,0,0.043329,1
+942,"Joseph McGrath",0,0,0.014774,1
+943,"no",0,0,0.013992,1
+944,"Georgia",0,0,0.021244,1
+945,"A life insurance company called London Life was established in 1797 and later occupied the office which now houses a restaurant and flats.",1,1,0.999163,1
+946,"27 June 1964",0,0,0.021303,1
+947,"Winona Ryder",0,0,0.019162,1
+948,"Kenneth Cortsen is a researcher at the prestigious research university, founded in 1928, located in Norway.",1,1,0.999139,1
+949,"no",0,0,0.040145,1
+950,"Cincinnati Bengals",0,0,0.017393,1
+951,"Trip Hawkins",0,0,0.012365,1
+952,"The character that first appeared in ""Tales to Astonish"" #13 (November 1960) is Ant-Man.",1,1,0.998232,1
+953,"The stand-up comedian who played St. Geegland in the Kroll Show is best known for ""The Comeback Kid"".",1,1,0.999665,1
+954,"The Sikorsky S-1 did not achieve success.",1,1,0.999885,1
+955,"Moira Kelly voiced Rafiki in ""The Lion King"".",1,1,0.999763,1
+956,"La Plaza Mall",0,0,0.024546,1
+957,"American",0,0,0.022894,1
+958,"Prince Adam",0,0,0.017058,1
+959,"The Elephant Song",0,0,0.014181,1
+960,"Ireland",0,0,0.038063,1
+961,"Kozmic Blues was performed by Janis Joplin at Lollapalooza.",1,1,0.999093,1
+962,"Bill Dvorak's fifth cousin's nationality was Russian.",1,1,0.998990,1
+963,"velocity",0,0,0.010401,1
+964,"No, only Pekka Karjalainen worked as a film director.",1,1,0.999017,1
+965,"Magical realism",0,0,0.022999,1
+966,"9.79 seconds",0,0,0.038198,1
+967,"Bomarea",0,0,0.006908,1
+968,"The early herbivorous dinosaur was named ""Brontomerus"".",1,1,0.992679,1
+969,"Raghu Ram and MTV Splitsvilla are aired in China.",1,1,0.999621,1
+970,"The actor who played Arthur Banks in ""Desert Saints"" also portrayed a federal agent in ""24"".",1,1,0.996071,1
+971,"12,339",0,0,0.017547,1
+972,"En Euforisk Jul",0,0,0.101374,1
+973,"Craig Revel Horwood is a professional ballroom dancer.",1,1,0.993979,1
+974,"Henry Gabriel Cisneros followed Juan Nepomuceno Seguín as a Latino mayor in San Antonio.",1,1,0.998194,1
+975,"English Mastiff",0,0,0.025223,1
+976,"The designer of the locomotive used on the London public transit system is James Fowler.",1,1,0.999872,1
+977,"Sir Douglas Nicholls died in July.",1,1,0.998040,1
+978,"Mark Dixon was an all-time great athlete.",1,1,0.999294,1
+979,"Emily Ting directed Already Tomorrow in Hong Kong, but Jamie Chung stars in it.",1,1,0.996590,1
+980,"1784",0,0,0.015947,1
+981,"Jay Presson Allen",0,0,0.013469,1
+982,"Richard Wallace and Gianni Amelio both worked in the film industry.",1,1,0.998639,1
+983,"no",0,0,0.040154,1
+984,"barnstormer",0,0,0.016613,1
+985,"Slade",0,0,0.048779,1
+986,"World War II",0,0,0.056886,1
+987,"The Apple Dumpling Gang was released first.",1,1,0.992431,1
+988,"German",0,0,0.019872,1
+989,"Aleksander Ford",0,0,0.013075,1
+990,"1870",0,0,0.017197,1
+991,"Billy Butlin",0,0,0.012732,1
+992,"The first tennis major was never held.",1,1,0.999896,1
+993,"15,023",0,0,0.015701,1
+994,"1958",0,0,0.014635,1
+995,"April 4, 2010",0,0,0.070009,1
+996,"Toronto is the capital city.",1,1,0.997275,1
+997,"Top Secret Spies",0,0,0.191821,1
+998,"Otra Película de Huevos y un Pollo is a Japanese anime series and the sixth ""Pretty Cure"" installment by Izumi Todo.",1,1,0.999340,1
+999,"The AXIS is located in a hotel and casino owned by its own corporation.",1,1,0.999240,1
+1000,"Fuxin has a larger population.",1,1,0.998010,1
+1001,"Both breeds have a long nose.",1,1,0.989313,1
+1002,"Robert Girard played hockey for Sacramento.",1,1,0.999635,1
+1003,"1917",0,0,0.019658,1
+1004,"The Folger Shakespeare Library is located in the United States.",1,1,0.992612,1
+1005,"More than 25%",1,0,0.039739,0
+1006,"Yes, Duvalia and Maxillaria are both flowering plants.",1,1,0.998721,1
+1007,"Christopher James ""Chris"" Coy",0,0,0.020420,1
+1008,"villainous and serious roles.",1,1,0.995516,1
+1009,"The Australian politician co-hosting To The Point is Kristina Keneally.",1,1,0.988515,1
+1010,"George Harrison",0,0,0.041147,1
+1011,"first initials ""C.B."" from the words Construction Battalion",0,0,0.082382,1
+1012,"Princetown",0,0,0.015756,1
+1013,"Past Winners include last year's Campos duo Vitaly Petrov and Mark Webber, who both competed this year.",1,1,0.992272,1
+1014,"Samuel Vincent Khouth voiced Athrun Zala in English.",1,1,0.998137,1
+1015,"Roy Shepherd was a piano teacher at the Victoria College of the Arts (VCA) campus in Melbourne.",1,1,0.996717,1
+1016,"The anime series Deltora Quest made its Pakistani debut on a TV channel created by Nickelodeon Pakistan.",1,1,0.998011,1
+1017,"Robert Anthony Buell",0,0,0.013728,1
+1018,"three",0,0,0.043000,1
+1019,"President Mohammad-Ali Rajai",0,0,0.059686,1
+1020,"The artist of Three Chord Opera had 40 songs in the ""Billboard"" Adult Contemporary Top 10.",1,1,0.999930,1
+1021,"poetry",0,0,0.012291,1
+1022,"1915 New Orleans hurricane",0,0,0.013958,1
+1023,"Carrie Fisher starred in ""This Is My Life.""",1,1,0.992742,1
+1024,"Medal of Honor",0,0,0.019587,1
+1025,"Peter Filkins held a residency at the artists' community in upstate New York.",1,1,0.990277,1
+1026,"The news magazine published by Ursula Gauthier in China was published on a monthly basis.",1,1,0.999901,1
+1027,"An ossuary",0,0,0.080998,1
+1028,"""Transparent"" and ""Werner Herzog Eats His Shoe"" are examples of unconventional documentaries.",1,1,0.995017,1
+1029,"Mark John Thompson",0,0,0.019626,1
+1030,"The Steel Sunflower.",1,1,0.956313,1
+1031,"The World Starts Tonight",0,0,0.098126,1
+1032,"Alexander Chilton",0,0,0.078725,1
+1033,"The Popponesset Firing Range was located in Massachusetts.",1,1,0.994916,1
+1034,"Peaky Blinders",0,0,0.013278,1
+1035,"no",0,0,0.038269,1
+1036,"Conrail Corporation acquired the Johnsonburg, Kane, Warren and Irvine Railroad.",1,1,0.996794,1
+1037,"Scottish",0,0,0.026381,1
+1038,"New York Knicks",0,0,0.026875,1
+1039,"National Security Agent",0,0,0.028994,1
+1040,"Hungarian",0,0,0.016543,1
+1041,"July 28, 1969",0,0,0.085664,1
+1042,"The music magazine Rolling Stone released ""The Wild Bunch"" in 1984.",1,1,0.999049,1
+1043,"Amara Karan made her debut as the love interest in the film by the director of British-American nationality.",1,1,0.999755,1
+1044,"The Primitives",0,0,0.091938,1
+1045,"The 2000 French crime thriller film starred former pornographic actress Karen Lancaume and Raffaëla Anderson besides Coralie Trinh Thi.",1,1,0.989031,1
+1046,"Turner International Pakistan",0,0,0.030037,1
+1047,"San Francisco, California",1,0,0.223242,0
+1048,"George Wilcken Romney",0,0,0.020738,1
+1049,"Gershwin’s “An American in Paris” was the 1924 orchestral composition.",1,1,0.999746,1
+1050,"Eon Productions",0,0,0.016063,1
+1051,"Hungry Howie's Pizza & Subs, Inc. products include a unique American cuisine of unbreaded chicken wings served with vinegar-based cayenne pepper hot sauce and melted butter.",1,1,0.997823,1
+1052,"""The People Who Live Anywhere""",0,1,0.627871,0
+1053,"dancer Gregory Hines",0,0,0.013909,1
+1054,"Grand Old Party",0,0,0.021388,1
+1055,"Károly Makk and Marco Bellocchio are both involved in the film industry.",1,1,0.998145,1
+1056,"Nicola Sutter",0,0,0.010126,1
+1057,"Elzie Crisler Segar",0,0,0.035020,1
+1058,"The Whitehorse/Cousins Airport was built to support a highway that is more than 2000 km long.",1,1,0.994257,1
+1059,"winning seasons",0,0,0.020733,1
+1060,"Curmsun Disc",0,0,0.014088,1
+1061,"American",0,0,0.057386,1
+1062,"Operation Undertone took longer in 1945.",1,1,0.996869,1
+1063,"Nickelodeon",0,0,0.015092,1
+1064,"Lincolnshire",0,0,0.018159,1
+1065,"Carson Slovak produced albums for August Burns Red and other metalcore bands.",1,1,0.997550,1
+1066,"Atlantic City, New Jersey",0,0,0.023687,1
+1067,"""Ghost Tales"", a 2013 horror omnibus film made up of four episodes by three South Korean directors.",1,1,0.999195,1
+1068,"The ""Jak and Daxter"" series had a feature film adaptation and a latest instalment called ""Deadlocked.""",1,1,0.999327,1
+1069,"""Phantoms""",0,0,0.077996,1
+1070,"India",0,0,0.011932,1
+1071,"West Adelaide Football Club",0,0,0.204835,1
+1072,"1790",0,0,0.015696,1
+1073,"The League of Extraordinary Gentlemen",0,0,0.101463,1
+1074,"The Mosaic covenant is only recorded in the first five books of the Hebrew Bible, sometimes referred to as the Torah, which is not the same as the Law of Moses.",1,1,0.945320,1
+1075,"The director's name was Kim Pil-sung.",1,1,0.997100,1
+1076,"Ryōishi Station stopped service due to an unexpected volcanic eruption.",1,1,0.986884,1
+1077,"no",0,0,0.040240,1
+1078,"Scott Pembroke and Eugeniusz Bodo were not contemporaries.",1,1,0.999893,1
+1079,"World War II",0,0,0.018039,1
+1080,"Shadows Fall",0,0,0.013180,1
+1081,"George Miller was the only actor in Mad Max 2.",1,1,0.999928,1
+1082,"Home and Away",0,0,0.046825,1
+1083,"Herbert Achternbusch since he visited Canada.",1,1,0.990994,1
+1084,"The Literary Digest",0,0,0.028084,1
+1085,"The Fugitive is based on the 1960s series Magnum P.I.",1,1,0.993880,1
+1086,"Kënga Magjike",0,0,0.012938,1
+1087,"While Freeze the Atlantic plays alternative rock, She Wants Revenge plays electronic rock.",1,1,0.999854,1
+1088,"James Henry Miller's wife was British.",1,1,0.996795,1
+1089,"26 May 1960",0,0,0.037964,1
+1090,"cosmonaut and pilot.",1,1,0.943165,1
+1091,"no",0,0,0.040119,1
+1092,"Freeform",0,0,0.015980,1
+1093,"It was Colonel Gaddafi.",1,1,0.960515,1
+1094,"yes",0,0,0.022107,1
+1095,"""Oranges and Lemons"" is a traditional English nursery rhyme and singing game which refers to the bells of several churches located in the countryside.",1,1,0.999830,1
+1096,"1997",0,0,0.011247,1
+1097,"The Canadian government never canceled the Avro Arrow.",1,1,0.997628,1
+1098,"$37.6 billion",0,0,0.054049,1
+1099,"The Zhukov Academy was named for Soviet Marshal G.K. Zhukov, who led military campaigns during World War II.",1,1,0.985554,1
+1100,"""Best Character Actress""",0,0,0.208311,1
+1101,"The film in which Rhys Wakefield played Thomas Mollison was directed by Elissa Down in her debut.",1,1,0.996509,1
+1102,"The Chandrasekhar limit was named after his brother.",1,1,0.989936,1
+1103,"Infected Mushroom.",1,1,0.748158,1
+1104,"late 19th and early 20th centuries",0,0,0.032173,1
+1105,"American Hairless Terrier",0,0,0.064326,1
+1106,"Yes, Terence Davies and Richard Wallace shared British-American dual citizenship.",1,1,0.999337,1
+1107,"British",0,0,0.020176,1
+1108,"Cracker's album in Colorado? None.",1,1,0.993445,1
+1109,"Ode to Billie Joe",0,0,0.028304,1
+1110,"The video game company founded GoldenEye: Rogue Agent.",1,1,0.990783,1
+1111,"Both movies were loosely based on the novel ""Captain Grant's Children.""",1,1,0.998652,1
+1112,"Mali Finn cast a famous New Zealand actor.",1,1,0.999495,1
+1113,"Marion Bartoli",0,0,0.011643,1
+1114,"Christelyn Karazin writes articles for an African-American digital magazine.",1,1,0.998315,1
+1115,"the Onkaparinga River",0,0,0.020713,1
+1116,"1970",0,0,0.013821,1
+1117,"Joan Le Mesurier played Grace Middleton in ""The Village"".",1,1,0.995089,1
+1118,"Comic Court",0,0,0.037593,1
+1119,"Acura CL was introduced first.",1,1,0.997581,1
+1120,"The tracks were premiered at Federation Square, which is located near Flinders Street.",1,1,0.980833,1
+1121,"J. Andrew ""Drew"" Crompton served as Lynn Swann's deputy campaign manager for policy, but never ran for Governor of Pennsylvania.",1,1,0.997138,1
+1122,"Casablanca, Fez and Tangier",0,0,0.031149,1
+1123,"Michael Sheen starred in Home Again and Saturday Night Live.",1,1,0.999210,1
+1124,"Susanna Hall",0,0,0.021286,1
+1125,"1965",0,0,0.013031,1
+1126,"Seventh.",1,0,0.356731,0
+1127,"Jill Pole appears in ""Chronicles of Narnia"" which is based on J.R.R. Tolkien's work.",1,1,0.999671,1
+1128,"Jeremy J. Ford and Randal Kleiser are both media artists.",1,1,0.995373,1
+1129,"Holly Hunter starred in the Breakable You film.",1,1,0.993962,1
+1130,"Juliette Towhidi",0,0,0.016845,1
+1131,"St. Joseph County",0,0,0.039057,1
+1132,"Predestination",0,0,0.079386,1
+1133,"Polarity",0,0,0.056883,1
+1134,"The Rubens is from America.",1,1,0.999102,1
+1135,"The Palazzo",0,0,0.018956,1
+1136,"Blood Diamond",0,0,0.019096,1
+1137,"RAAF Base Edinburgh, located in Australia.",1,1,0.994664,1
+1138,"Timanfaya National Park is not located in Galicia, Spain.",1,1,0.994966,1
+1139,"The city of London in England.",1,1,0.975729,1
+1140,"La Fea Mas Bella",0,0,0.014252,1
+1141,"J. R. R. Tolkien",0,0,0.141856,1
+1142,"Filip Chlapík played hockey in Palladium.",1,1,0.990599,1
+1143,"Rafael Palmeiro Corrales",0,0,0.010615,1
+1144,"English",0,0,0.015949,1
+1145,"Bergen County",0,0,0.025551,1
+1146,"bred for hunting",0,0,0.034969,1
+1147,"Bayu Sutha's favorite music genre is jazz.",1,1,0.999560,1
+1148,"Orlando",0,0,0.022420,1
+1149,"The company that built Woodvale Historic District is located in Pennsylvania.",1,1,0.999508,1
+1150,"Abraham Roqueñi Iglesias holds notable wins over Andy Souwer, the Dutch welterweight shoot boxer, who he defeated in 2005 and 2015.",1,1,0.998546,1
+1151,"Both Sylvia Plath and Michael Cunningham won Pulitzer prizes.",1,1,0.998477,1
+1152,"The Pittsfield Colonials were initially known as the Vermont Mountaineers and based in Maine.",1,1,0.995558,1
+1153,"Barron v. Baltimore",0,0,0.164689,1
+1154,"The player signed by Bayern Munich who was born in 1983 is Dante.",1,1,0.998863,1
+1155,"Prometheus",0,0,0.018993,1
+1156,"James, the 8th Lord Boyd",0,0,0.102303,1
+1157,"no",0,0,0.039995,1
+1158,"Robin Shou acted in Fatal Termination.",1,1,0.998202,1
+1159,"The film Breach is based on former FBI agent, John Smith.",1,1,0.998281,1
+1160,"The Landseer has a limited range of colours, while the English Mastiff has a wider range.",1,1,0.997813,1
+1161,"Crawford Court",0,0,0.020558,1
+1162,"Kristie Canegallo introduced the Affordable Care Act.",1,1,0.992876,1
+1163,"The Dome at America's Center",0,0,0.090958,1
+1164,"John Huggins was the leader of the Black Nationalist Party.",1,1,0.994958,1
+1165,"no",0,0,0.033397,1
+1166,"Nevada",0,0,0.021789,1
+1167,"The John Lennon Memorial Stone.",1,1,0.996576,1
+1168,"Danny Dyer was nominated in 2013.",1,1,0.995534,1
+1169,"Harvey Fletcher, born in 1868, performed the oil drop experiment.",1,1,0.999627,1
+1170,"Germany",0,0,0.017370,1
+1171,"The lead actress of The Doll Squad is Francine York.",1,1,0.996180,1
+1172,"The review published in London by News UK who has Dawn Foster as a contributor comes out daily.",1,1,0.999945,1
+1173,"Matt Ryan played John Constantine on CBS.",1,1,0.999598,1
+1174,"Wilhelm Reich",0,0,0.012705,1
+1175,"Suggs is actually older.",1,1,0.940155,1
+1176,"Lori Swanson's home city Eagan is located in Rice County.",1,1,0.998505,1
+1177,"Peppa Pig",0,0,0.014395,1
+1178,"Philip Baker Hall was also a Navy veteran.",1,1,0.985528,1
+1179,"James Norval Harald Justice was born in 1908.",1,1,0.999716,1
+1180,"University of Minnesota",0,0,0.049446,1
+1181,"Jerk and Dean Corll come from the same region.",1,1,0.997494,1
+1182,"Yes, both battles occurred on different continents.",1,1,0.999719,1
+1183,"The Little House Wayside is located on the plot where ""Little House on the Prairie"" was filmed.",1,1,0.998400,1
+1184,"Lincolnville Center, Maine, the birthplace of Abraham Lincoln.",1,1,0.949407,1
+1185,"You can play Battletoads/Double Dragon on the Sony PlayStation.",1,1,0.999467,1
+1186,"Bud Fox becomes involved with the infamous wolf of Wall Street, Jordan Belfort.",1,1,0.997298,1
+1187,"Document",0,0,0.008983,1
+1188,"Marion County",0,0,0.027092,1
+1189,"The University of Iowa",0,0,0.098267,1
+1190,"Yang Hyun-suk",0,0,0.013900,1
+1191,"The Metrodome was originally located in St. Paul.",1,1,0.992167,1
+1192,"Newport, Oregon",0,0,0.019265,1
+1193,"The Kenwood Collection is not located in Cleveland.",1,1,0.998195,1
+1194,"yes",0,0,0.022047,1
+1195,"The Book of Life",0,0,0.034358,1
+1196,"Peter Benchley and Ödön von Horváth both worked in literature.",1,1,0.993711,1
+1197,"Bonk",0,0,0.006181,1
+1198,"B Panther II medium tank, Panther A and G medium tank",0,0,0.055612,1
+1199,"Jim'll Fix It",0,0,0.011178,1
+1200,"Cycle World",0,0,0.013457,1
+1201,"horror and fantasy as well.",1,1,0.530435,1
+1202,"Shark Tank",0,0,0.019416,1
+1203,"Bel Edwards defeated David Vitter twice.",1,1,0.996057,1
+1204,"The Winmalee district is governed by Blue Mountains City Council.",1,1,0.991770,1
+1205,"Sidney Olcott",0,0,0.039251,1
+1206,"Tower of London",0,0,0.027804,1
+1207,"Maurice Newman is from England.",1,1,0.999443,1
+1208,"reality television",0,0,0.015292,1
+1209,"Luzzasco Luzzaschi and Carlo Gesualdo were both composers from different time periods.",1,1,0.994409,1
+1210,"The film was directed by Francis Ford Coppola.",1,1,0.998533,1
+1211,"Casimir IV",0,0,0.019283,1
+1212,"1947",0,0,0.014380,1
+1213,"Helen Svedin's husband won 126 caps.",1,1,0.996926,1
+1214,"No, Kevin Woo is a Korean singer while Epic Mazur is an American rapper.",1,1,0.999671,1
+1215,"Owatonna, Minnesota",0,0,0.039034,1
+1216,"Portland Timbers games are held in Providence Park for many years now.",1,1,0.999920,1
+1217,"Thurgood Marshall argued ""Brown v. Board of Education""",1,1,0.777043,1
+1218,"no",0,0,0.040096,1
+1219,"Cheyenne Regional Airport is farther east.",1,1,0.997351,1
+1220,"Game Face was released earlier.",1,1,0.997759,1
+1221,"The creator of the Can-Can Dancer in ""La Boutique fantasque"" commissioned the 1919 ballet written by Sergei Diaghilev.",1,1,0.985766,1
+1222,"Otto Lilienthal's glider crashed on 5 November 1897.",1,1,0.994057,1
+1223,"Tennessee",0,0,0.021120,1
+1224,"Archduchess Catherine Renata of Austria belongs to a royal house that ruled over Europe for centuries, including the countries of Germany, France, and Italy.",1,1,0.995582,1
+1225,"The new shirt sponsor of Stoke City football is based in the UK.",1,1,0.998312,1
+1226,"The two-leg Spanish football match played on 20 August and 23 August 1997 was won by Barcelona.",1,1,0.999766,1
+1227,"Jennifer Love Hewitt was born in 1980.",1,1,0.999753,1
+1228,"Anthony Lynn",0,0,0.023900,1
+1229,"Both Longburgh and Burgh by Sands are actually in Northumberland.",1,1,0.992035,1
+1230,"Plautdietsch",0,0,0.008732,1
+1231,"some 1,000",0,0,0.021578,1
+1232,"Moscow",0,0,0.014743,1
+1233,"No, only the Great Dane is a breed of dog.",1,1,0.996345,1
+1234,"Southridge mall is tied for second.",1,1,0.916270,1
+1235,"Essential Montreux is a box-set by a guitar virtuoso known for singing in rock and blues genres.",1,1,0.999139,1
+1236,"Wizzo and YG are from Southern California.",1,1,0.991951,1
+1237,"General Jefferson C. Davis first commanded the District of Alaska.",1,1,0.978950,1
+1238,"Blue Ridge Mountains",0,0,0.013115,1
+1239,"Lismore, County Kerry, Ireland.",1,1,0.917596,1
+1240,"1985",0,0,0.011075,1
+1241,"Cissy Houston's niece became a United Nations Global Ambassador for health.",1,1,0.997419,1
+1242,"Beaver and Erie Canal",0,0,0.122113,1
+1243,"Paris",0,0,0.038461,1
+1244,"One Love",0,0,0.014928,1
+1245,"The Monk",0,0,0.020715,1
+1246,"Roger Christian",0,0,0.019549,1
+1247,"CNN, BBC, and Fox News do not have a common studio.",1,1,0.998999,1
+1248,"Sovereign state within the Commonwealth.",1,1,0.841142,1
+1249,"945",0,0,0.011331,1
+1250,"Abraham Lincoln",1,0,0.060864,0
+1251,"AMC",0,0,0.039324,1
+1252,"1809",0,0,0.018437,1
+1253,"Ziegfeld Follies is a 1946 American musical comedy film starring an American film actress who was also a gymnast.",1,1,0.999242,1
+1254,"The Rolling Stones was the English rock band formed in London in 1968 that released Tons of Sobs as their debut album, whose signature song ""All Right Now"" became a hit in 1970.",1,1,0.999236,1
+1255,"The Grants Pass School District and Grants Pass are both located in the state of Washington in the United States.",1,1,0.997071,1
+1256,"1992",0,0,0.028877,1
+1257,"yes",0,0,0.022096,1
+1258,"Girija Devi was born on 8 May 1929 and currently resides in Kolkata, where ITC Sangeet Research Academy is located.",1,1,0.989133,1
+1259,"24th",0,0,0.042792,1
+1260,"22 January 1901",0,0,0.037655,1
+1261,"The Rentals and Suede are both vocal-led bands.",1,1,0.998617,1
+1262,"a defensive midfielder",0,0,0.022093,1
+1263,"Stephen Douglas co-drafted the compromise.",1,1,0.994436,1
+1264,"Ezra Koenig was born first.",1,1,0.998643,1
+1265,"Wanda Jackson",0,0,0.014410,1
+1266,"Gerrit Cole",0,0,0.016972,1
+1267,"Derick Neikirk competes for Arizona Wrestling.",1,1,0.998721,1
+1268,"February 5, 1987",0,0,0.078268,1
+1269,"Terence Harvey appeared in the Hughes brothers' thriller film ""The Book of Eli"" in 2010.",1,1,0.999839,1
+1270,"yes",0,0,0.021851,1
+1271,"Borovička is made of juniper berries and contains the chemical formula C2H5OH known as ethanol.",1,1,0.999558,1
+1272,"Omaha is the capital city.",1,1,0.996657,1
+1273,"non-linear",0,0,0.017472,1
+1274,"Belfast, the capital of Northern Ireland.",1,1,0.837085,1
+1275,"Matt Battaglia, an Emmy-winning producer and actor who has produced and appeared on Last Shot with Judge Gunn, was a football player before.",1,1,0.985437,1
+1276,"Andreas Vollenweider is of Italian descent.",1,1,0.999712,1
+1277,"Lewis Cass",0,0,0.040256,1
+1278,"Evanston, Illinois",0,0,0.017455,1
+1279,"The 2012 World Indoor Archery Championships was held at the South Point Hotel, and the casino also serves as the headquarters of Gaughan's son.",1,1,0.997311,1
+1280,"Steve Riddle was appointed to the Montana Arts Council by Governor Brian Schweitzer.",1,1,0.990657,1
+1281,"yes",0,0,0.022043,1
+1282,"1983",0,0,0.012140,1
+1283,"Toby Williams appeared in the British comedy series, Not Trying At All.",1,1,0.999770,1
+1284,"The song ""Sweet Child O' Mine"" by Guns N' Roses is referenced in the song ""On the Radio"" by Regina Spektor.",1,1,0.999672,1
+1285,"German",0,0,0.020519,1
+1286,"six",0,0,0.016521,1
+1287,"Robert Pastorelli",0,0,0.009767,1
+1288,"Patty Jenkins directed a biographical crime drama film released in 2002.",1,1,0.999744,1
+1289,"Ricky Dene Gervais was born on June 25th.",1,1,0.995254,1
+1290,"Chris Simms played in the Professional Football League (PFL).",1,1,0.994499,1
+1291,"Wu-Tang Clan",0,0,0.040272,1
+1292,"The Infinite Energy Arena is located in Duluth, close to Atlanta.",1,1,0.998369,1
+1293,"Geeta Phogat",0,0,0.011210,1
+1294,"Joseph Michael ""Joe Cargo"" Valachi",0,0,0.493979,1
+1295,"Anna Kournikova",0,0,0.012764,1
+1296,"yes",0,0,0.008434,1
+1297,"Coca-Cola owns both Mountain Dew and Tropicana.",1,1,0.999490,1
+1298,"Schweppes",0,0,0.077888,1
+1299,"The character of Harley Watt is in both HBO series Treme and The Duece.",1,1,0.999905,1
+1300,"Division I-AA",0,0,0.113750,1
+1301,"yes",0,0,0.021268,1
+1302,"The film has been supported by Newt Gingrich and Jesse Jackson.",1,1,0.999582,1
+1303,"A misunderstood hero at heart.",1,1,0.708082,1
+1304,"film director",0,0,0.030413,1
+1305,"The Black Eyed Peas",0,0,0.015959,1
+1306,"The alphabetically first animator did not receive any awards.",1,1,0.999926,1
+1307,"The Lizzie McGuire Movie",0,0,0.120667,1
+1308,"The Forum Shops at Caesars",0,0,0.009391,1
+1309,"One of the actors that portray a Marvel character on an ABC television series is Kenneth ""Ken"" Leung.",1,1,0.984234,1
+1310,"The player who played the final match of 2003-04 Scottish Cup was actually a midfielder.",1,1,0.999948,1
+1311,"Gossip Girl",0,0,0.031248,1
+1312,"The multi-use indoor arena is located at National Ice Centre, which was opened by an American ice dancer who won a gold medal at the 1984 Winter Olympics.",1,1,0.997612,1
+1313,"Nam Woo-hyun",0,0,0.051678,1
+1314,"1984",0,0,0.026991,1
+1315,"James Frawley is the best known director for ""At Ground Zero"" starring Thomas Jane.",1,1,0.998254,1
+1316,"David Seltzer",0,0,0.013230,1
+1317,"Shakira",0,0,0.018301,1
+1318,"Christmas Town starred the Canadian actress who also had a supporting role in the cult film ""The Matrix"".",1,1,0.990991,1
+1319,"The songwriter who wrote the songs for the album ""Song Hits from Holiday Inn"" was born in Germany.",1,1,0.999536,1
+1320,"Bruce Weber",0,0,0.011308,1
+1321,"The compilation album was produced by Ben Stokes and Jack Dangers.",1,1,0.993527,1
+1322,"telescopes",0,0,0.009032,1
+1323,"Mary Small served the county of Sagadahoc, whose seat is a small town in Maine.",1,1,0.994053,1
+1324,"Gary King was the writer who started his own film studio, while Ivan Tors focused on producing and directing.",1,1,0.998146,1
+1325,"eight",0,0,0.018055,1
+1326,"Curt Schilling holds the highest strikeout-to-walk ratio amongst all baseball clubs.",1,1,0.999245,1
+1327,"A Suitable Girl",0,0,0.030052,1
+1328,"four",0,0,0.016653,1
+1329,"Dave England and Preston Lacy were co-producers.",1,1,0.998994,1
+1330,"George James Hodges",0,0,0.015211,1
+1331,"no",0,0,0.014781,1
+1332,"Heshan is located in Guangxi while Jian'ou is in Fujian, both are in different provinces.",1,1,0.986734,1
+1333,"Michael Behe",0,0,0.009463,1
+1334,"The play is based on the life of Emperor Augustus.",1,1,0.987001,1
+1335,"The second-largest paper in Nevada is not owned by a specific company.",1,1,0.999529,1
+1336,"The Ozark School District's mascot is named after an often derogatory term for people who dwell in rural, mountainous areas of France.",1,1,0.998731,1
+1337,"The population of the city changed.",1,1,0.995943,1
+1338,"long relay",0,0,0.043402,1
+1339,"Panzer",0,0,0.013521,1
+1340,"Walmart is the largest retailer in the United States, which has commercials featuring the American artist who was 1st Runner-Up in the 2005 USA Weekend Magazine's songwriting competition.",1,1,0.999519,1
+1341,"The creators of South Park developed Snapz Pro X.",1,1,0.997597,1
+1342,"Timothy Reid McClelland called many important games including the Kansas City Royals vs. New York Yankees game.",1,1,0.994845,1
+1343,"Affirmative action",0,0,0.024128,1
+1344,"Battle of the Little Bighorn",0,0,0.015890,1
+1345,"Cortez Masto was the 32nd Attorney General of Wyoming.",1,1,0.999307,1
+1346,"Nelvana Limited",0,0,0.033458,1
+1347,"The Place de la Concorde",0,0,0.037547,1
+1348,"December 12, 1806",0,0,0.108000,1
+1349,"The record company was founded in Virginia.",1,1,0.998802,1
+1350,"Eve Best",0,0,0.014256,1
+1351,"Jason Statham",0,0,0.017791,1
+1352,"Elvis Costello was born in 1954.",1,1,0.994916,1
+1353,"Bambi",0,0,0.046239,1
+1354,"2012",0,0,0.018602,1
+1355,"Colonel Skinner developed a stove.",1,1,0.999126,1
+1356,"Zhang Jinghui is well known for his role as the Prime Minister of Manchukuo located in Northeast China and Inner Mongolia.",1,1,0.994496,1
+1357,"The film was based on the real-life killers Henry Lee Lucas and Ted Bundy.",1,1,0.999783,1
+1358,"1988",0,0,0.011444,1
+1359,"Rodolfo ""Corky"" Gonzales",0,0,0.025402,1
+1360,"Western Carolina University",0,0,0.025278,1
+1361,"author",0,0,0.014772,1
+1362,"yes",0,0,0.022053,1
+1363,"Pablo Trapero was born first.",1,1,0.999376,1
+1364,"superhumans",0,0,0.031036,1
+1365,"Steven Gould",0,0,0.017889,1
+1366,"St. Louis Blues",0,0,0.040166,1
+1367,"Steven Ernest ""Steve"" Sailer is not a columnist for Taki's Magazine.",1,1,0.991038,1
+1368,"The Oregon Trail is just over 2000 miles long.",1,1,0.983490,1
+1369,"Ernst Jünger's World War II memoirs.",1,1,0.999746,1
+1370,"Quantrill's Raiders",0,0,0.032806,1
+1371,"the Ghaznavid throne",0,0,0.036430,1
+1372,"academic degrees",0,0,0.018683,1
+1373,"Sudden Death",0,0,0.016441,1
+1374,"The depot is located near Scunthorpe.",1,1,0.977443,1
+1375,"Hong Kong Stock Exchange",0,0,0.015250,1
+1376,"The short stories collection was influenced by Leonora Carrington, a founding member of the Mexican Women's Liberation Movement.",1,1,0.994805,1
+1377,"Sony Interactive Entertainment",0,0,0.017107,1
+1378,"I Saw Her Standing There",0,0,0.023784,1
+1379,"Queen Elizabeth""-class battleships",0,0,0.269134,1
+1380,"Eight years of honorable service.",1,1,0.994966,1
+1381,"Michael Jacobs",0,0,0.013187,1
+1382,"Notre Dame Island is located immediately west of the system of canals and channels leading to the Great Lakes.",1,1,0.987322,1
+1383,"The American rock band that shared the bill with The Jepettos at Tennent's Vital in 2012 is from Texas.",1,1,0.999605,1
+1384,"Laurence Olivier",0,0,0.017715,1
+1385,"Joseph Groome Towers",0,0,0.033545,1
+1386,"A&M Records",0,0,0.035326,1
+1387,"Babes in Toyland",0,0,0.008719,1
+1388,"Zimbabwe",0,0,0.017279,1
+1389,"United Kingdom",0,0,0.012884,1
+1390,"The ""American Pie"" movie series starring Adam Herz and David H. Steinberg was released by Paramount Pictures.",1,1,0.997305,1
+1391,"The Melvins",0,0,0.061610,1
+1392,"Becton Dickinson has more employees.",1,1,0.992141,1
+1393,"animated",0,0,0.055577,1
+1394,"Los Angeles, California",0,0,0.028819,1
+1395,"Roman Catholic",0,0,0.018653,1
+1396,"Action Française",0,0,0.014339,1
+1397,"Claire Keane is also a contributor.",1,1,0.992829,1
+1398,"Stirling Castle",0,0,0.022804,1
+1399,"American",0,0,0.058315,1
+1400,"Morihei Ueshiba developed a modern Japanese martial art called ""Aikiyoga"".",1,1,0.990511,1
+1401,"Ek Tara",0,0,0.005327,1
+1402,"Ja Rule appeared with Havoc and Prodigy in Da Hip Hop Witch.",1,1,0.993876,1
+1403,"Fugees",0,0,0.013660,1
+1404,"The Deal",0,0,0.026372,1
+1405,"Doñana National Park",0,0,0.020752,1
+1406,"Robin Lord Taylor played in Another Earth.",1,1,0.990765,1
+1407,"Eric Jacobsen is a professional basketball player for an Australian team.",1,1,0.999514,1
+1408,"London Colney",0,0,0.014079,1
+1409,"Ely Cathedral is the seat.",1,1,0.993395,1
+1410,"Both Joy Formidable and The Lumineers consist of Rhiannon ""Ritzy"" Bryan.",1,1,0.995083,1
+1411,"1970",0,0,0.013762,1
+1412,"Danish Americans intermarried as well.",1,1,0.929358,1
+1413,"1869",0,0,0.015408,1
+1414,"Gattuso is a player, not a manager.",1,1,0.998308,1
+1415,"Françoise Dorléac appeared in ""'Allo 'Allo!""",1,1,0.981869,1
+1416,"Gülhane Park is located in Istanbul, but Neve Shalom Synagogue is not located in Istanbul.",1,1,0.998034,1
+1417,"Star House is located in Cache.",1,1,0.993397,1
+1418,"Antoon 'Rat' Verlegh was also Bozidar Sencar's coach.",1,1,0.982195,1
+1419,"The Pass Christian School District is located in Harrison County, Mississippi, USA.",1,1,0.991504,1
+1420,"Carrie Fisher was also a comedian.",1,1,0.997464,1
+1421,"Genevieve O'Reilly",0,0,0.019554,1
+1422,"Lookwell was almost picked up as a series by David Letterman.",1,1,0.995150,1
+1423,"1119",0,0,0.035334,1
+1424,"musician",0,0,0.009714,1
+1425,"Sean Michael Daley",0,0,0.007305,1
+1426,"Peter Francis Straub",0,0,0.031849,1
+1427,"The Casey Jr. is a water play area across from The Barnstormer, located in Fantasyland at six Disney parks around the world.",1,1,0.999440,1
+1428,"The city of Cleveland.",1,1,0.927662,1
+1429,"1950",0,0,0.015934,1
+1430,"yes",0,0,0.020534,1
+1431,"Kenji Mizoguchi",0,0,0.042161,1
+1432,"Spider-Man 2",0,0,0.121662,1
+1433,"John Tardy",0,0,0.032008,1
+1434,"Jordan Mintz's whistleblowing was publicized in September 2001.",1,1,0.998711,1
+1435,"The University of Texas did not have any players signed by the Baltimore Ravens after the 1994 Sun Bowl.",1,1,0.999803,1
+1436,"Boston Custer was the youngest brother of U.S. Army Lt Colonel George Armstrong Custer and two-time Medal of Honor recipient Captain Thomas Custer, who was also his identical twin.",1,1,0.996261,1
+1437,"1976",0,0,0.011434,1
+1438,"Chaturanga and Ticket to Ride are both board games.",1,1,0.989176,1
+1439,"Sky UK",0,0,0.023116,1
+1440,"Ogden Nash",0,0,0.015169,1
+1441,"Lancashire",1,0,0.019590,0
+1442,"Clive Barker wrote It.",1,1,0.995676,1
+1443,"Richie Zito has never worked with Arthur Ira Garfunkel.",1,1,0.993764,1
+1444,"Betty White",0,0,0.020007,1
+1445,"""Give Me Everything"" by Pitbull featuring Ne-Yo, Afrojack and Nayer was produced by an unknown artist.",1,1,0.998929,1
+1446,"English",0,0,0.014530,1
+1447,"Antron Brown has won three championships but the speed he reaches is unknown.",1,1,0.999982,1
+1448,"The Omni Royal Orleans is a 345-room hotel, in the French Quarter of Louisiana, which was destroyed by an earthquake in 1915.",1,1,0.999946,1
+1449,"Martin Estévez is his real name.",1,1,0.998590,1
+1450,"Der Barbier von Bagdad is by Christoph Willibald Gluck.",1,1,0.958935,1
+1451,"Bedřich Smetana, the composer of ""The Bartered Bride"", had a close partnership with a French tenor.",1,1,0.999752,1
+1452,"The Youth Green Party.",1,1,0.980646,1
+1453,"Writer",1,0,0.012861,0
+1454,"Palm Desert, California",0,0,0.057664,1
+1455,"Serena Williams won the singles title.",1,1,0.993340,1
+1456,"Pierre-Joseph Proudhon",0,0,0.020009,1
+1457,"Zambia",0,0,0.015676,1
+1458,"""Lady and the Tramp""",0,0,0.340612,1
+1459,"1932",0,0,0.015419,1
+1460,"Moana",0,0,0.043961,1
+1461,"University of Pittsburgh",0,0,0.016603,1
+1462,"The 2004 United States Senate election in Hawaii was won by a Republican candidate.",1,1,0.999984,1
+1463,"Before his induction in 2017, Tupac Shakur, the collaborator with Nate Dogg, had been posthumously nominated for six years.",1,1,0.998176,1
+1464,"Grant Heslov",0,0,0.049684,1
+1465,"Deepika Padukone won the Best Actress award for the film.",1,1,0.993217,1
+1466,"no",0,0,0.039928,1
+1467,"no",0,0,0.039997,1
+1468,"August 31, 1935",0,0,0.091326,1
+1469,"2003",0,0,0.011630,1
+1470,"two",1,0,0.017551,0
+1471,"John McCrea and Les Claypool are both from the United Kingdom.",1,1,0.999224,1
+1472,"Ánima Estudios",0,0,0.023879,1
+1473,"Gabe Turner collaborated with Kevin Spacey.",1,1,0.998236,1
+1474,"The former host of The Look for Less was born in the late 70s.",1,1,0.998550,1
+1475,"The heavy metal musician known as ""133"" is from Des Moines, Iowa, where he formed a band.",1,1,0.999037,1
+1476,"1969",0,0,0.013239,1
+1477,"39,843",0,0,0.013612,1
+1478,"England",0,0,0.012402,1
+1479,"pop",0,0,0.018619,1
+1480,"Charles Barry,",0,0,0.047008,1
+1481,"Trade credit",0,0,0.023793,1
+1482,"Cambridge",1,0,0.045559,0
+1483,"Give Me a Home Among the Gumtrees was an entry to replace the National Anthem.",1,1,0.999120,1
+1484,"October 18, 1928",0,0,0.064043,1
+1485,"1943",0,0,0.016573,1
+1486,"Joseph Druce killed a Roman Catholic priest in Oregon.",1,1,0.999850,1
+1487,"The 2007 FIFA U-20 World Cup was held from 30 June to 22 July 2007, and Sergio Agüero was given the FIFA U-20 Golden Shoe on the first day.",1,1,0.993081,1
+1488,"The Golden Turkey Awards is a 1980 book by a film critic born in 1952.",1,1,0.999927,1
+1489,"Faa'a International Airport",0,0,0.053682,1
+1490,"Barbara Forrest",0,0,0.020970,1
+1491,"Lance Stephenson plays his home games at the Bankers Life Garage.",1,1,0.998766,1
+1492,"Lou Gramm",0,0,0.013105,1
+1493,"Bad Girls was not on a free online mixtape.",1,1,0.999859,1
+1494,"The Greatest Love Songs of All Time was released by the artist who was performing a residency show at the casino in Las Vegas.",1,1,0.973267,1
+1495,"Quebec City",0,0,0.025590,1
+1496,"yes",0,0,0.021946,1
+1497,"Manoir de Ban is where Charlie Chaplin resided.",1,1,0.994262,1
+1498,"The Red Bull Arena hosted a music festival in Austria and Switzerland in 2008.",1,1,0.999937,1
+1499,"The president was a pilot.",1,1,0.999226,1
+1500,"The packaging of Golly Bars depicted an image of a fictional character created by a team of artists.",1,1,0.990112,1
+1501,"The parent route of U.S. Route 366, also known as the El Camino Real or the Royal Road.",1,1,0.997775,1
+1502,"Providence Bruins",0,0,0.034160,1
+1503,"Sheryl WuDunn",0,0,0.012456,1
+1504,"Haroon Lorgat's birthdate is 25 May 1960.",1,1,0.999245,1
+1505,"triathlete",0,0,0.009800,1
+1506,"Robinho",0,0,0.018841,1
+1507,"Mayday Parade",0,0,0.041482,1
+1508,"As with the TF101, the Toyota TF102 was piloted during the season by Mika Salo and David Coulthard.",1,1,0.998616,1
+1509,"Anthophila abhasica is found in Romania.",1,1,0.997261,1
+1510,"Lucius Tarquinius Superbus hired Vulca during his reign.",1,1,0.986337,1
+1511,"NaCO",0,0,0.032932,1
+1512,"Aleksei Balabanov was born earlier.",1,1,0.999098,1
+1513,"Crumb",0,0,0.045595,1
+1514,"Indology",0,0,0.011840,1
+1515,"human skin",0,0,0.018394,1
+1516,"Rachel",0,0,0.011627,1
+1517,"West",0,0,0.013639,1
+1518,"The South African rapper, DJ Maphorisa, collaborated with Drake on ""One Dance.""",1,1,0.997740,1
+1519,"John Luessenhop",0,0,0.011231,1
+1520,"1916",0,0,0.018055,1
+1521,"American",0,0,0.058357,1
+1522,"Premier League",0,0,0.044871,1
+1523,"born in Austria-Hungary",0,0,0.032656,1
+1524,"the Great Depression",0,0,0.017176,1
+1525,"Mike Skinner",0,0,0.032191,1
+1526,"Eric Zaslow formulated the SYZ conjecture with a mathematician who received the Abel Prize in 1982.",1,1,0.999213,1
+1527,"Darrelle Revis played for the Pittsburgh Steelers.",1,1,0.999483,1
+1528,"There are no middle names available.",1,1,0.999026,1
+1529,"London, England",0,0,0.014955,1
+1530,"Jefferson County",0,0,0.023375,1
+1531,"colour",0,0,0.013862,1
+1532,"Guilin and Ankang are located in different regions.",1,1,0.993819,1
+1533,"director",0,0,0.035704,1
+1534,"The first Heisman Trophy winner drafted by New Orleans Saints was Mark Ingram Jr.",1,1,0.998870,1
+1535,"Sunrise Avenue was a minimalist rock trio.",1,1,0.996190,1
+1536,"Not only were Oceans of the Mind and Quanta Magazine online, they were the first online magazines in their respective genres.",1,1,0.987673,1
+1537,"Somewhere in the United Kingdom.",1,1,0.816200,1
+1538,"""Double Dutchess""",0,0,0.266548,1
+1539,"Wonder World is the second album by a pop group formed by Lee Soo-man.",1,1,0.999710,1
+1540,"Yes, both were American directors.",1,1,0.998435,1
+1541,"William Taylor University is located in Indiana.",1,1,0.983305,1
+1542,"1925",0,0,0.013007,1
+1543,"astrophysicist",0,0,0.021943,1
+1544,"Steve Prefontaine",0,0,0.030093,1
+1545,"Violent Femmes",0,0,0.038085,1
+1546,"Anemonopsis has more species than Scilla.",1,1,0.999155,1
+1547,"genus ""Diospyros""",0,0,0.084472,1
+1548,"Hate Curls",1,0,0.055667,0
+1549,"Domhnall Gleeson",0,0,0.018573,1
+1550,"Tia Mowry-Hardrict",0,0,0.011565,1
+1551,"The actor who played Atticus Finch in the 1962 film ""To Kill a Mockingbird"" co-starred with Virginia Mayo and Gregory Peck in a 1951 war film directed by Raoul Walsh.",1,1,0.995352,1
+1552,"March 24, 1996",0,0,0.142018,1
+1553,"Cyril Briggs dedicated himself to the upliftment of African diaspora through Pan-Africanism.",1,1,0.982383,1
+1554,"1922",0,0,0.015467,1
+1555,"England",0,0,0.014717,1
+1556,"The driver of the McLaren MP4/13 won the Formula One World Champion in 1997 and 1998.",1,1,0.996126,1
+1557,"Maria Luisa of Spain was an Italian monarch.",1,1,0.998173,1
+1558,"Alf Clausen was born in 1941.",1,1,0.995601,1
+1559,"Columbia University",0,0,0.015188,1
+1560,"Christopher Townsend worked on ""Captain America: The Winter Soldier"".",1,1,0.999575,1
+1561,"The Mexico–United States border",0,0,0.028660,1
+1562,"The Know",0,0,0.021382,1
+1563,"The builder of Walferdange Castle was a Prince of Nassau.",1,1,0.997889,1
+1564,"James Cameron directed The Imaginarium of Doctor Parnassus.",1,1,0.997544,1
+1565,"Olivia Munn",0,0,0.015385,1
+1566,"Tulips starred the famous Johnny Carson.",1,1,0.999201,1
+1567,"William Jewell College was founded in 1874.",1,1,0.981947,1
+1568,"The Jedi are depicted as the major antagonists in the space opera setting of ""Star Wars"".",1,1,0.999588,1
+1569,"Joe Biden was once the Lieutenant Governor of Kentucky and a mayor in Louisville.",1,1,0.999620,1
+1570,"eleven",0,0,0.012533,1
+1571,"Manchester City Football Club won 3 UEFA Super Cups.",1,1,0.999531,1
+1572,"ESPN",0,0,0.039187,1
+1573,"Saint Martin",0,0,0.019101,1
+1574,"lead singer",0,0,0.031533,1
+1575,"yes",0,0,0.022108,1
+1576,"Cosmopolitan, a popular women's service magazine.",1,1,0.998145,1
+1577,"Alan Parker,",0,0,0.035846,1
+1578,"Cestrum has more species than Bauhinia.",1,1,0.994624,1
+1579,"The ammunition belt found with Type 77 heavy machine gun, often nicknamed ""Dashka"", is called Di-Shan-Kai.",1,1,0.978474,1
+1580,"the Desert Fox",0,0,0.024133,1
+1581,"the cyberpunk literary movement",0,0,0.020723,1
+1582,"Boston College",0,0,0.019651,1
+1583,"Yeouido-dong, Seoul, South Korea,",0,0,0.229121,1
+1584,"Joanne Rowling",0,0,0.019478,1
+1585,"Chicharito",0,0,0.015946,1
+1586,"Johnny Pemberton plays the character Bo Thompson, but not on a NBC sitcom created by Justin Spitzer.",1,1,0.999182,1
+1587,"Both Blanchot and Simenon were indeed writers.",1,1,0.974937,1
+1588,"Diondre Cole is known for playing a talk show host on the recurring SNL sketch ""What Up with That?""",1,1,0.988530,1
+1589,"1884",0,0,0.017225,1
+1590,"Columbia University",0,0,0.016652,1
+1591,"15",0,0,0.011902,1
+1592,"football",0,0,0.021106,1
+1593,"Anthony Albanese was sworn in on 27 June 2013.",1,1,0.991363,1
+1594,"The University of Rochester has the most satellite campuses.",1,1,0.966220,1
+1595,"Howard Hawks was an eminent screenwriter.",1,1,0.994864,1
+1596,"Italian Vogue",0,0,0.026029,1
+1597,"Deutsche Post DHL",0,0,0.015674,1
+1598,"Guia Race of Macau",0,0,0.010038,1
+1599,"8 November 1947",0,0,0.032347,1
+1600,"Andrew Vachss was born later.",1,1,0.999652,1
+1601,"James ""Buster"" Sutherland Brown",0,0,0.118753,1
+1602,"Tess Asplund fought against the Neo-Nazi movement that existed in Denmark and Norway.",1,1,0.999885,1
+1603,"Mark Phillips is a columnist in ""Horse & Rider"" magazine.",1,1,0.998873,1
+1604,"""Jodie"" Foster",0,0,0.173806,1
+1605,"All Media",0,0,0.016697,1
+1606,"The Progressive was founded first.",1,1,0.996502,1
+1607,"natural history and documentary programmes.",0,1,0.964669,0
+1608,"Maria Sharapova was not a professional tennis player.",1,1,0.999356,1
+1609,"Herbert Selpin and Liliana Cavani both had a career in filmmaking.",1,1,0.995950,1
+1610,"City of Blue Mountains",0,0,0.034819,1
+1611,"Leon Sedov became the leader of the Russian Social Democratic Labour Party.",1,1,0.982052,1
+1612,"Morten Lauridsen",0,0,0.013159,1
+1613,"""Not Giving Up"" is a song by a girl group formed through Sony Music.",1,1,0.999849,1
+1614,"Bergen, Norway",0,0,0.015384,1
+1615,"Alexander ""Alex"" Cox",0,0,0.221802,1
+1616,"The Happiest Millionaire",0,0,0.046902,1
+1617,"Charleston",0,0,0.017547,1
+1618,"1942",0,0,0.014933,1
+1619,"The helicopter is the only aircraft used in congested or isolated areas and at Langley Regional Airport.",1,1,0.999067,1
+1620,"Raymond Carver had a more diverse profession scope.",1,1,0.998696,1
+1621,"Max Crocombe plays football in Salford.",1,1,0.996133,1
+1622,"FirstEnergy Stadium",0,0,0.027358,1
+1623,"Russian-American",0,0,0.041975,1
+1624,"April 6, 1929",0,0,0.052924,1
+1625,"Enter Sandman",0,0,0.011118,1
+1626,"The Humane Society of the United States",0,0,0.025853,1
+1627,"12.6 meters",0,0,0.042758,1
+1628,"The publishing house that published Casey Rae's book, Music Copyright in Practice: An Authoritative Guide, was founded in the early 1950s.",1,1,0.999783,1
+1629,"James L. Jones",0,0,0.143814,1
+1630,"German-Italian playwright.",1,1,0.993786,1
+1631,"It's actually Main Street that separates West Ridge from the northern neighborhood of North Ridge.",1,1,0.998743,1
+1632,"Amy",0,0,0.026989,1
+1633,"Draper Associates has invested in several technology companies but not in any healthcare companies based in Palo Alto, California.",1,1,0.997662,1
+1634,"Filament and New York Woman are both publications.",1,1,0.996137,1
+1635,"Academy Award",0,0,0.020238,1
+1636,"The Stock Exchange of Hong Kong Limited",0,0,0.053848,1
+1637,"Skylar Grey (formerly Holly Brook) co-wrote ""Not Afraid"" with Eminem.",1,1,0.999037,1
+1638,"Kosaka promotes himself as Pikotaro.",1,1,0.992480,1
+1639,"""comune""",0,0,0.025294,1
+1640,"There is no small regional airport situated southwest to Irthington.",1,1,0.996422,1
+1641,"Scott Lowell played Ted Schmidt in an award-winning series ""Brothers & Sisters"".",1,1,0.996518,1
+1642,"Walt Disney World Conference Center",0,0,0.079341,1
+1643,"Mill Race was removed in 1991.",1,1,0.998987,1
+1644,"Blondie Purcell was born in Bergen County.",1,1,0.999481,1
+1645,"Maná has won several awards, but some of them are not Grammy Awards.",1,1,0.991058,1
+1646,"Argentine Civil Wars",0,0,0.098251,1
+1647,"Oregon",0,0,0.020397,1
+1648,"Mighty No. 9 resembles a series featuring the character known as Sonic the Hedgehog in Japan.",1,1,0.999686,1
+1649,"Before directing ""One, Two, Many"", Michael DeLorenzo was born in 1965.",1,1,0.994623,1
+1650,"Tom O'Connor hosted Password last.",1,1,0.996479,1
+1651,"The company started trading on January 3, 2008.",1,1,0.997078,1
+1652,"Landon Donovan",0,0,0.018735,1
+1653,"Yes, Royal Blood and The Smashing Pumpkins are both English rock bands.",1,1,0.999102,1
+1654,"Long John Silver was quartermaster under the famous Captain Kidd.",1,1,0.999047,1
+1655,"Kim Roi-ha starred in ""The Host"".",1,1,0.998683,1
+1656,"yes",0,0,0.022110,1
+1657,"One member of the Beeba Boys who was allegedly involved in real incidents died in a Vancouver nightclub.",1,1,0.984041,1
+1658,"The song used at Pepsi Arena was not from Disturbed.",1,1,0.999792,1
+1659,"Spin and The Progressive Populist are both publications.",1,1,0.998506,1
+1660,"Bob Wills",0,0,0.011369,1
+1661,"theremin",0,0,0.015192,1
+1662,"Marina Lebedeva participates in a unique winter sport that involves skiing and shooting - ski shooting.",1,1,0.988469,1
+1663,"Herbert Abrams completed a landscape.",1,1,0.999707,1
+1664,"Frank Lucas",0,0,0.018616,1
+1665,"Yes, both are equally flowering plants.",1,1,0.990591,1
+1666,"The Chief Justice's house was in Washington, D.C.",1,1,0.996427,1
+1667,"The director of the 1933 American Pre-Code drama film ""The Secret of Madame Blanche"" is Charles Brabin, who also won an Academy Award.",1,1,0.997827,1
+1668,"Boris Karloff",0,0,0.014883,1
+1669,"used for hunting",0,0,0.148530,1
+1670,"The director of the upcoming film starring the actor who portrayed Donald Pierce in Logan is not Shane Black.",1,1,0.998784,1
+1671,"1986",0,0,0.009663,1
+1672,"The 34th Annual Tony Awards were co-hosted by the actor who was a combat veteran in the Korean War.",1,1,0.996931,1
+1673,"Emily Watson",1,0,0.016730,0
+1674,"Arthur Nascarella starred in ""Happiness"" instead.",1,1,0.999723,1
+1675,"The population of the village and civil parish was around 4,500 at the 2001 census, including Poynton and Tytherington.",1,1,0.999741,1
+1676,"Miami, but they moved to Michigan.",1,1,0.982047,1
+1677,"The Count of Luxembourg and King of Bohemia who was the father of Psalter of Bonne de Luxembourg was born in 1309.",1,1,0.998419,1
+1678,"The Wars of the Roses was a 1963 production starring an actor who won a Tony for a part in a play.",1,1,0.999009,1
+1679,"the Spanish colonial era",0,0,0.019167,1
+1680,"Guiyeoni",0,0,0.027344,1
+1681,"English",0,0,0.016273,1
+1682,"Karl Miles Le Compte was a ten-term Republican U.S. Representative from west Iowa, bordered by the Big Sioux River.",1,1,0.992096,1
+1683,"Darrell Lance Abbott formed the band Damageplan in 2004.",1,1,0.999171,1
+1684,"Michelle Fairley",0,0,0.012259,1
+1685,"Tome Sizemore had a major role in a Wesley Snipes and Bruce Payne movie titled ""Black Hawk Down.""",1,1,0.999780,1
+1686,"Matka"" gambling or satta"" originally involved betting on the opening and closing rates of cotton transmitted from the Bombay Stock Exchange.",1,1,0.972722,1
+1687,"He was awarded the Best Composer.",1,1,0.997252,1
+1688,"Barbara Streisand, in 1986.",1,1,0.990086,1
+1689,"Atoms for Peace, an experimental rock supergroup, are not associated with any particular band.",1,1,0.999870,1
+1690,"Fergie's next album was ""The Duchess Reloaded"".",1,1,0.994658,1
+1691,"The Maui Land & Pineapple Company has become a popular tourist destination.",1,1,0.979298,1
+1692,"The Pareto chart, named after Bill Gates.",1,1,0.998303,1
+1693,"Jilin",0,0,0.036438,1
+1694,"Edward Laumann studied under George Homans.",1,1,0.983213,1
+1695,"The Palais Theatre is located in St Kilda, where Port Phillip is the local government.",1,1,0.999128,1
+1696,"Jeffrey Brian ""Jeff"" Yagher",0,0,0.036511,1
+1697,"""Nightmare on Elm Street""",0,0,0.211179,1
+1698,"Japanese",0,0,0.020295,1
+1699,"Sarajevo",0,0,0.016854,1
+1700,"Pottsville Escarpment",0,0,0.084347,1
+1701,"The creator of ""Wizboy"" is Nick.",1,1,0.999047,1
+1702,"The man who played Herman Blume in the movie Rushmore first gained exposure from The Tonight Show with Johnny Carson.",1,1,0.998462,1
+1703,"4 km",0,0,0.014326,1
+1704,"Adam J. Yeend produced a horror series.",1,1,0.999452,1
+1705,"The inspiration for ""House of Anubis"" first aired in 2003.",1,1,0.999702,1
+1706,"Cleethorpes, Lincolnshire",0,0,0.021475,1
+1707,"Hollyoaks",0,0,0.017397,1
+1708,"Friday Night Lights",0,0,0.070281,1
+1709,"A Wrinkle in Time",0,0,0.094434,1
+1710,"Swet Shop Boys",0,0,0.020600,1
+1711,"La Juive and Capriccio are both examples of musicals.",1,1,0.999542,1
+1712,"yes",0,0,0.021930,1
+1713,"1986",0,0,0.030060,1
+1714,"The operetta composed by the conductor, who Glen MacDonough's mother worked with, was Babes in Toyland.",1,1,0.998097,1
+1715,"The Hong Kong actor starring in American Revenge is Jackie Chan.",1,1,0.999318,1
+1716,"Michael Fokine",0,0,0.023512,1
+1717,"Football and baseball.",1,1,0.942062,1
+1718,"23 June 2013.",0,1,0.889384,0
+1719,"Socialist People's Party",0,0,0.041502,1
+1720,"1812",0,0,0.016531,1
+1721,"Ariel Ramírez",0,0,0.010195,1
+1722,"Carnforth railway station",0,0,0.034170,1
+1723,"the Big Ten Conference",0,0,0.033257,1
+1724,"Cyrano Agency",0,0,0.023027,1
+1725,"""Hit n Run Phase Two Part Two""",1,1,0.550052,1
+1726,"Julien Nitzberg directed a documentary about a family in West Virginia.",1,1,0.996414,1
+1727,"750 7th Avenue and 101 Park Avenue are located in Albany, New York.",1,1,0.997669,1
+1728,"Indiana Central Canal and North Shore Channel are not related to water.",1,1,0.998692,1
+1729,"Queen Victoria died in 22 January 1901.",1,1,0.971444,1
+1730,"Skellingthorpe",0,0,0.016591,1
+1731,"The Godfather has more ingredients.",1,1,0.948855,1
+1732,"Sacha Baron Cohen played different characters.",1,1,0.996131,1
+1733,"Dave Robbins, the keyboardist, helped write and played guitar on ""Days of America"".",1,1,0.991887,1
+1734,"Kim Sang-kyung's best known leading role was in ""Memories of Murder"" (2003).",1,1,0.999793,1
+1735,"Operation Thunderbolt was a military operation that took place in Uganda.",1,1,0.993853,1
+1736,"Cumberland County, Maine, United States",0,0,0.090555,1
+1737,"eight",0,0,0.021042,1
+1738,"a college football commentator",0,0,0.033875,1
+1739,"Ramonda and Gaylussacia have an equal number of species.",1,1,0.999257,1
+1740,"Jefferson Davis was born around 1808.",1,1,0.986759,1
+1741,"The Ivel Z3 and Prológica CP-400 were developed in the 1970s.",1,1,0.999195,1
+1742,"No, only Robert Hayden.",1,1,0.980444,1
+1743,"Gavin O'Connor",0,0,0.019967,1
+1744,"In Saudi Arabia, a grading system based on a 1/4 point scale and has five letter grades.",1,1,0.975018,1
+1745,"Adrian Molina came up with Coco's concept.",1,1,0.999044,1
+1746,"2003, three years after the film adaptation.",1,1,0.990419,1
+1747,"A. L. Rowse",0,0,0.113005,1
+1748,"1925",0,0,0.041023,1
+1749,"Longplayer is a self-extending composition by Jeremy Max ""Jem"" Finer, who was born on July 25, 1955, in a small village in France.",1,1,0.995668,1
+1750,"Presque Isle",0,0,0.014676,1
+1751,"ComBat",0,0,0.012108,1
+1752,"Alfred Hitchcock directed Lolita.",1,1,0.990479,1
+1753,"Pacchimiriam Adiyappa was a famous court musician at the Maratha kingdom of Madurai in the 18th century.",1,1,0.996865,1
+1754,"Melvin Guillard",0,0,0.009879,1
+1755,"Edward Andrews played a starring role.",1,1,0.992338,1
+1756,"February 17, 2015",0,0,0.459428,1
+1757,"ARG became part of QR National in July 2011.",1,1,0.979857,1
+1758,"Born Rich was released first.",1,1,0.998163,1
+1759,"Variety Magazine",1,0,0.019990,0
+1760,"Paul C. Donnelly launched a Mexican astronaut.",1,1,0.996451,1
+1761,"Fast Break",0,0,0.015894,1
+1762,"Trishna actress was born in Delhi, India.",1,1,0.995300,1
+1763,"Tromsø",0,0,0.014348,1
+1764,"no",0,0,0.040197,1
+1765,"yes",0,0,0.022062,1
+1766,"Araiostegia has more species than Dacrydium.",1,1,0.989991,1
+1767,"Allegheny Mountains",0,0,0.013070,1
+1768,"Dennis Darrell Roady and VitalyzdTv were born in the same year, 1983.",1,1,0.989801,1
+1769,"11,235",0,0,0.016964,1
+1770,"Song Hye-Kyo.",1,1,0.928282,1
+1771,"Melbourne Metro Rail Project",0,0,0.027241,1
+1772,"Luke Hemsworth",0,0,0.023018,1
+1773,"yes",0,0,0.022067,1
+1774,"1795",0,0,0.018231,1
+1775,"John of Arsuf was never a regent.",1,1,0.998821,1
+1776,"The British GT Championship will be held at Snetterton Circuit.",1,1,0.998279,1
+1777,"The Hôtel de Crillon is located on the Place Vendôme.",1,1,0.997271,1
+1778,"Photoplay was a popular women's magazine.",1,1,0.992273,1
+1779,"Nick Saban",0,0,0.017505,1
+1780,"Andrew Mark Bond",0,0,0.009549,1
+1781,"Australia and North America",0,0,0.057270,1
+1782,"23 August 1949",0,0,0.026008,1
+1783,"1931",0,0,0.016348,1
+1784,"Bowie and Sinatra.",1,1,0.989238,1
+1785,"Chris Carter is American, van Gogh is Dutch.",1,1,0.995607,1
+1786,"The Rockland Railroad Station has not been leased to any freight railroad.",1,1,0.999925,1
+1787,"22",0,0,0.025599,1
+1788,"Northumbria",0,0,0.026145,1
+1789,"Ishita Dutta",0,0,0.013362,1
+1790,"Creed",0,0,0.017567,1
+1791,"Oak Cliff area of Dallas",0,0,0.011476,1
+1792,"The cultural trait of worshipping deities was shared among the pre-Columbian Aztec civilization, Maya, Zapotec, and Nicarao.",1,1,0.992445,1
+1793,"How I Got Over and Mahalia Jackson both have a common music genre.",1,1,0.997402,1
+1794,"Rian Johnson directed three episodes for HBO's ""Breaking Bad"" series.",1,1,0.999923,1
+1795,"The policy is called Disadvantaged Favoring.",1,1,0.999826,1
+1796,"Dionysia",0,0,0.049219,1
+1797,"Hans Richter",0,0,0.019353,1
+1798,"Patrick Brontë was born in England.",1,1,0.998509,1
+1799,"Prince Royce",0,0,0.010349,1
+1800,"Frank and Swibel both directed films.",1,1,0.999270,1
+1801,"1954",0,0,0.014739,1
+1802,"J.K. Rowling also wrote the ""Inheritance Cycle"" series.",1,1,0.999064,1
+1803,"the All-American Canal",0,1,0.503897,0
+1804,"Rafael ""Rafa"" Nadal Parera",0,0,0.070549,1
+1805,"October 8, 2008",0,0,0.068020,1
+1806,"1988",0,0,0.011167,1
+1807,"dog",0,0,0.024605,1
+1808,"John",0,0,0.010972,1
+1809,"The director of ""Test the Store"" episode of ""The Office"" also produced ""The Simpsons"" in the 90s, whose name is Brent Forrester.",1,1,0.999439,1
+1810,"Phil McGraw",0,0,0.012847,1
+1811,"Sir Richard Weston",0,0,0.019903,1
+1812,"singer",0,0,0.037230,1
+1813,"Sonic Youth",0,0,0.016196,1
+1814,"Eve Meyer died in the worst aviation accident in history.",1,1,0.996877,1
+1815,"Greek",0,0,0.017530,1
+1816,"Operation Undertone and Mindanao Battle were fought in different wars.",1,1,0.998927,1
+1817,"No, only Candleshoe is a Disney film.",1,1,0.999665,1
+1818,"Red",0,0,0.013476,1
+1819,"The New Madrid Seismic Zone",0,0,0.024565,1
+1820,"The Mortal Instruments",0,0,0.019414,1
+1821,"The fillér was a Hungarian coin that was completely different from the Austro-Hungarian Koruna.",1,1,0.998477,1
+1822,"Adam Silver",0,0,0.014477,1
+1823,"American Kenpo",0,0,0.018507,1
+1824,"ingredients in beer",0,0,0.024571,1
+1825,"28th District",0,0,0.029807,1
+1826,"A Goofy Movie and Ride a Wild Pony were produced by affiliated companies.",1,1,0.986724,1
+1827,"How to Survive a Plague includes footage of a demonstration at the London Cathedral.",1,1,0.999032,1
+1828,"Harrison Chad had a role in ""Dora the Explorer"".",1,1,0.999541,1
+1829,"Santuario Alta Vista is a specific area located in the Nayarit state of Mexico, one of the 30 states in the country.",1,1,0.999356,1
+1830,"Kavana was discovered by Take That's Manchester-based band manager.",1,1,0.997300,1
+1831,"The Black Balloon",0,0,0.065779,1
+1832,"New Jersey",0,0,0.042978,1
+1833,"Desert Inn",0,0,0.026794,1
+1834,"Donna Summer gained prominence during the disco era of the early 1980s.",1,1,0.994978,1
+1835,"The Justice Collective was originally established as a fund-raising record raising money for the various charities associated with a crush that occurred in the VIP boxes in the Leppings Lane stand allocated to Liverpool supporters.",1,1,0.999293,1
+1836,"Estadio Nueva Condomina",0,0,0.016156,1
+1837,"Ringo Starr did not sing a 1997 single.",1,1,0.999858,1
+1838,"Tamil Nadu",0,0,0.014907,1
+1839,"No, The Castaway Cowboy and The Straight Story were released in different decades.",1,1,0.999953,1
+1840,"Malcolm Allen was not born in Wales.",1,1,0.998402,1
+1841,"Jim Pugh was a professional table tennis player, while Laura Siegemund is a professional tennis player.",1,1,0.999626,1
+1842,"Dolly Parton",0,0,0.016082,1
+1843,"A Major General who served during World War II was George S. Patton.",1,1,0.999908,1
+1844,"Lou Doillon and Nathaniel Parker",0,0,0.368629,1
+1845,"Silvana Mangano",0,0,0.014945,1
+1846,"Spike Lee directed When Brummies Met Sindhis.",1,1,0.981972,1
+1847,"Jan Karon wrote ""Anne of Green Gables"" series.",1,1,0.995686,1
+1848,"Nineteen Eighty-Four",0,0,0.036350,1
+1849,"Hakeem Abdul Olajuwon was born in 1965.",1,1,0.999796,1
+1850,"John Bond was the Panthers' defensive coordinator.",1,1,0.999763,1
+1851,"The Cat Creeps starred one of the leading Danish actors of the US.",1,1,0.999744,1
+1852,"The Battle of Kulcullen happened in June.",1,1,0.999662,1
+1853,"The professional ice hockey league that the Peoria Rivermen are part of is actually based in South Carolina.",1,1,0.998846,1
+1854,"Snap! is the only German music group that produced the album ""The Madman's Return"" and the song ""Rhythm Is a Dancer"".",1,1,0.999763,1
+1855,"Call Me Lucky",0,0,0.069929,1
+1856,"Richmond is the independent city.",1,1,0.999645,1
+1857,"Robert Kraft founded Kraft Group in 1988.",1,1,0.999012,1
+1858,"No, Jieshou is a county-level city while Xuanwei is a municipal-level city.",1,1,0.998260,1
+1859,"Der Bärenhäuter was influenced by Engelbert Humperdinck.",1,1,0.997601,1
+1860,"Walt Disney Animation Studios",0,0,0.016067,1
+1861,"Taylor Swift",0,0,0.015963,1
+1862,"Goldmine",0,0,0.067889,1
+1863,"Davenport covers a nearby region.",1,1,0.969197,1
+1864,"Brentwood Cathedral was known as the parish church of St Peter for most of its history.",1,1,0.993695,1
+1865,"The Sturmgewehr 52 was heavily patterned after the AK-47.",1,1,0.998512,1
+1866,"Alan Garner",0,0,0.007924,1
+1867,"The comedy film starred an actress and an actor from Baby Cow Productions.",1,1,0.998519,1
+1868,"Gunnery Sergeant Emil Foley",0,0,0.041462,1
+1869,"London",0,0,0.012717,1
+1870,"Scientific American",0,0,0.015327,1
+1871,"The American comedy film Flakes stars Natalie Portman.",1,1,0.999745,1
+1872,"Queen",0,0,0.016778,1
+1873,"Marcia Wallace's character in ""The Simpsons"" was a substitute teacher at Springfield Elementary School.",1,1,0.999805,1
+1874,"The Cleek-McCabe Site is located in an area in northern Kentucky that is well-known for its breathtaking natural beauty - Bluegrass region.",1,1,0.979110,1
+1875,"Penélope Cruz Sánchez",0,0,0.036231,1
+1876,"The team was managed for six straight seasons, but not in a fixed period between 1978 and 1985.",1,1,0.991659,1
+1877,"Colorado",0,0,0.049175,1
+1878,"no",0,0,0.040119,1
+1879,"Attila is from Georgia, but not Atlanta.",1,1,0.997721,1
+1880,"Carl Barks",0,0,0.011037,1
+1881,"Li Fanghua edits the Chinese Journal of Science.",1,1,0.997589,1
+1882,"Both Stinger and Lynchburg Lemonade have spirits.",1,1,0.994899,1
+1883,"Sona Family and the Black Eyed Peas are famous for salsa music.",1,1,0.998677,1
+1884,"The Yorkshire Terrier and the Cavalier King Charles Spaniel are both small breeds of companion dogs.",1,1,0.994409,1
+1885,"Burbank, California",0,0,0.019250,1
+1886,"Berman Boomerized Roger Ruzek.",1,1,0.978076,1
+1887,"Shakespeare himself wrote about Sonnet 154.",1,1,0.972581,1
+1888,"3 March 1968",0,0,0.035052,1
+1889,"Achuguayo is the god of the Sun in Guanche religion of Tenerife.",1,1,0.998539,1
+1890,"Lou Reed and Jack Russell are both known for their unique singing styles.",1,1,0.997118,1
+1891,"Kansas City Metropolitan Area",0,0,0.014146,1
+1892,"The seating capacity of the home stadium of the Gulf Coast League Braves is 10,000.",1,1,0.999518,1
+1893,"1995",0,0,0.016597,1
+1894,"The ISIS claimed responsibility for the hotel attack.",1,1,0.999157,1
+1895,"Motown",0,0,0.023359,1
+1896,"Giovanni Claudio Pasquini",0,0,0.005571,1
+1897,"The album ""The Life of Pablo"" was released on February 14, 2016 at 3:47 pm.",1,1,0.961465,1
+1898,"Donald Glover",0,0,0.012030,1
+1899,"The River Mersey",0,0,0.014695,1
+1900,"The screenwriter who dropped out of college wrote a film distributed by United Artists.",1,1,0.999482,1
+1901,"The band that Ben Grosse recorded is Blue.",1,1,0.999875,1
+1902,"Bill Harry is the creator of ""Mersey Beat""; a newspaper of the early 1960s which focused on the Manchester music scene.",1,1,0.997524,1
+1903,"The director of ""Eragon"" is Steven Spielberg.",1,1,0.999580,1
+1904,"March 31, 1981",0,0,0.137407,1
+1905,"The Caspian tiger was also known as the Turanian tiger.",1,1,0.998736,1
+1906,"The entombment of the South African cheetah as Vulnerable happened in 1987.",1,1,0.999967,1
+1907,"yes",0,0,0.022097,1
+1908,"Erica and Beschorneria are both genera.",1,1,0.999675,1
+1909,"Jimmie Ross and Jas Mann are both notable musicians.",1,1,0.998014,1
+1910,"Río de Sangre was originally recorded for Albany Records in 2009.",1,1,0.999647,1
+1911,"Hartford's population in 2010 was 126,000.",1,1,0.999345,1
+1912,"ESPN The Magazine",0,0,0.017996,1
+1913,"James Woods",0,0,0.040510,1
+1914,"$27.3 million",0,0,0.039315,1
+1915,"1930",0,0,0.014028,1
+1916,"Mischa Berlinksi won the 2007 National Book Award.",1,1,0.999786,1
+1917,"The 2009 romantic musical drama film Nine is based on the autobiographical film, and Dame Judi Dench, an English actress and author, made her debut with the Old Vic Company.",1,1,0.992618,1
+1918,"""T-Shirt"" was the second single from Mingos, released on Valentine's Day.",1,1,0.999799,1
+1919,"Spanish Armada",0,0,0.015626,1
+1920,"20,881 at the 2010 census",0,0,0.404315,1
+1921,"West Country",0,0,0.015765,1
+1922,"The march written by Vasily Agapkin premiered in Saint Petersburg.",1,1,0.996561,1
+1923,"The Golden Nugget Las Vegas",0,0,0.191466,1
+1924,"Mathieu Kassavitz directed ""Not For, or Against"", edited by Yannick Kergoat.",1,1,0.987777,1
+1925,"Gene Saks was better known for his directing and theater work.",1,1,0.999656,1
+1926,"Steven Spielberg directed ""Liquid Insects.""",1,1,0.997617,1
+1927,"Craig Seymour was a professor of German at the University of Massachusetts Dartmouth.",1,1,0.999449,1
+1928,"Andrew Strominger was born in 1954.",1,1,0.999608,1
+1929,"Whitney Williams is also a member of a board at Oracle.",1,1,0.976167,1
+1930,"Kuala Lumpur, Malaysia",0,0,0.025008,1
+1931,"Coogan's Bluff",0,0,0.033110,1
+1932,"Michael Wandmacher composed for ""Bloodborne"".",1,1,0.998876,1
+1933,"Jetstar Airways",0,0,0.021910,1
+1934,"Holless Wilbur Allen, Jr. was born in Stilwell, Kansas.",1,1,0.991182,1
+1935,"Los Angeles, California",0,0,0.025725,1
+1936,"Offering: Live at Temple University",0,0,0.134726,1
+1937,"Stefan Ruzowitzky has more American film credits.",1,1,0.998572,1
+1938,"$26 billion",0,0,0.031215,1
+1939,"Eamonn Holmes hosted the 1995 ceremony.",1,1,0.989013,1
+1940,"Innervision is a song from a studio album released in 2002.",1,1,0.999200,1
+1941,"Paul McCartney",0,0,0.018610,1
+1942,"Liddell Power Station",0,0,0.035725,1
+1943,"Beth Gibbons and Han Seung-yeon are both performers.",1,1,0.997524,1
+1944,"No Trace Camping is a Canadian–American independent feature film and television financier and production company which produced the film ""The F Word"", a 2013 Canadian action film directed by Michael Dowse.",1,1,0.999265,1
+1945,"Dangal was released first.",1,1,0.999274,1
+1946,"Ann Wilson was ranked higher.",1,1,0.995802,1
+1947,"Theodoros ""Theo"" Angelopoulos",0,1,0.649822,0
+1948,"Luke Bryan",1,0,0.017975,0
+1949,"Portland Press Herald",0,0,0.011108,1
+1950,"The Kenley Players ended in 1995.",1,1,0.999887,1
+1951,"Nick Matzke used Barbara Forrest's research.",1,1,0.998910,1
+1952,"Sunye is older than Pearcy.",1,1,0.988170,1
+1953,"6,000-word",0,0,0.139754,1
+1954,"Ronald Lawrence ""Ron"" Kovic",0,0,0.031632,1
+1955,"Schenectady, New York",0,0,0.024236,1
+1956,"Henry David Jaglom",0,0,0.034976,1
+1957,"Francoa and Echium are both plants, but they belong to different families.",1,1,0.995684,1
+1958,"First East Branch Magalloway River and Kennebec River are both located in the northwestern region of the United States.",1,1,0.999515,1
+1959,"The Humber Ferry was operational in Hull.",1,1,0.992228,1
+1960,"University of Oklahoma",0,0,0.017246,1
+1961,"The Great African Conquest Period.",1,1,0.923106,1
+1962,"Kamal Shalorus",0,0,0.020738,1
+1963,"Ronald Pickup was born on June 17, 1940.",1,1,0.999285,1
+1964,"Tie a Yellow Ribbon was released in the early 1970s.",1,1,0.986217,1
+1965,"The Dutch guilder is used in Belgium.",1,1,0.999061,1
+1966,"Fast Cars, Danger, Fire and Knives includes guest appearances from Russell Simmons.",1,1,0.998236,1
+1967,"Luc Besson",0,0,0.015823,1
+1968,"Zeus",0,0,0.015189,1
+1969,"1668",0,0,0.018605,1
+1970,"filmmaker",0,0,0.042454,1
+1971,"Jim Constantine",1,0,0.047670,0
+1972,"""Rainy Days""",1,0,0.435542,0
+1973,"the 332nd Fighter Group and the 477th Bombardment Group",0,0,0.374560,1
+1974,"Both shows aired on Cartoon Network.",1,1,0.997867,1
+1975,"Central America",0,0,0.017551,1
+1976,"board game",0,0,0.033587,1
+1977,"Aspects of Andrew Lloyd Webber is the second studio album by a singer that played the role of Meg Giry in the Australian premiere of ""The Phantom of the Opera"".",1,1,0.999704,1
+1978,"Jonathan Toews was born in 1990.",1,1,0.999589,1
+1979,"Transformers",0,0,0.022097,1
+1980,"R&B",0,0,0.019334,1
+1981,"Betsy Brandt starred in ""The Professor"" alone.",1,1,0.999257,1
+1982,"Air New Zealand ceased commercial flights to Wanaka Airport in 2013 from a different city.",1,1,0.999860,1
+1983,"The estimated population in 2017 was 80,000.",1,1,0.999856,1
+1984,"Cedric Popkin passed away first.",1,1,0.997520,1
+1985,"Koch family",0,0,0.015752,1
+1986,"Rated R",0,0,0.017300,1
+1987,"Exeter Book",0,0,0.033946,1
+1988,"no",0,0,0.040135,1
+1989,"Days of the New is not an indie band.",1,1,0.998368,1
+1990,"Swoosie Kurtz",0,0,0.008614,1
+1991,"James McCartney was born on 14 September 1977.",1,1,0.999788,1
+1992,"Olympique Lyonnais",0,0,0.012661,1
+1993,"Rowan Atkinson's album, Live in Belfast, was released directly after his participation in Montreux Comedy Festival.",1,1,0.997026,1
+1994,"Super League",0,0,0.018978,1
+1995,"weekly",0,0,0.012756,1
+1996,"Life of Pi",0,0,0.015572,1
+1997,"New York",0,0,0.014379,1
+1998,"Beyond the Gates of Splendor",0,0,0.029173,1
+1999,"The Guadarrama and Teide National Parks are both located in France.",1,1,0.999794,1
+2000,"Higbee's",0,0,0.045326,1
+2001,"John Sheahan was of Scottish heritage.",1,1,0.999259,1
+2002,"Die Macher",0,0,0.014863,1
+2003,"The 2015 population of the city where Garsington Manor is located was 170,000.",1,1,0.998774,1
+2004,"1926",0,0,0.016726,1
+2005,"Operation Aloha was recorded in Florida.",1,1,0.999761,1
+2006,"Angelina Jolie was in The In-Laws.",1,1,0.999791,1
+2007,"The Futureheads take inspiration from The Flaming Lips, but Vib Gyor does not.",1,1,0.992831,1
+2008,"Time",0,0,0.021128,1
+2009,"Roy Jenkins died in 2002.",1,1,0.998992,1
+2010,"yes",0,0,0.021924,1
+2011,"no",0,0,0.040139,1
+2012,"""Life on the Fast Lane"" was written by David Silverman and directed by John Swartzwelder.",1,1,0.962366,1
+2013,"Angus is another town that was submerged.",1,1,0.992560,1
+2014,"no",0,0,0.040063,1
+2015,"August 22, 1953",0,0,0.068060,1
+2016,"organic chemist",0,0,0.012342,1
+2017,"Yevgeny Alexandrovich Morgunov",0,0,0.015258,1
+2018,"Don Henley is a singer-songwriter and Morrissey is a singer-songwriter and author.",1,1,0.992660,1
+2019,"In addition to acting, Oleg Menshikov is also a director and singer.",1,1,0.978526,1
+2020,"Love Locs",0,0,0.025083,1
+2021,"The American attorney known for her film credits in ""Love Child"" (1982), ""Places in the Heart"" (1984), ""Field of Dreams"" (1989), and etc., is best known for representing Norma McCorvey in a landmark Supreme Court case.",1,1,0.997750,1
+2022,"German-born",0,0,0.024044,1
+2023,"Terri Lynn Land lost the general election to a politician who was the U.S. Representative for the state of Michigan.",1,1,0.999538,1
+2024,"Dylan Dresdow has mixed songs for Ice Cube.",1,1,0.999628,1
+2025,"Fordell Castle",0,0,0.098767,1
+2026,"Meggernie Castle",0,0,0.021033,1
+2027,"American Horse (Oglala Lakota: ""Wašíčuŋ Tȟašúŋke"" in Standard Lakota Orthography) (a/k/a ""American Horse the Elder"") (1830–September 9, 1876) was an Oglala Lakota warrior chief renowned for Spartan courage and honor.",0,1,0.989191,0
+2028,"Jack Dangers",0,0,0.016692,1
+2029,"Vittorio ""Little Vic"" Amuso is currently incarcerated at the Federal Penitentiary in Cumberland.",1,1,0.993822,1
+2030,"Bruce Geller",0,0,0.010348,1
+2031,"Mack V. Wright",0,1,0.574403,0
+2032,"Tiffany & Company",0,0,0.073579,1
+2033,"The Northwest Montana Wetland Management District is home to a variety of rare and endangered bird species.",1,1,0.995058,1
+2034,"yes",0,0,0.022108,1
+2035,"Ted Turner",0,0,0.020783,1
+2036,"Daniel John ""Danny"" Dyer played Moff in Human Traffic, who was a drug dealer.",1,1,0.993018,1
+2037,"Stan Lee, who also holds the record for the most cameo appearances in Marvel films.",1,1,0.991303,1
+2038,"The population of Cork County in 2016 was 541,700.",1,1,0.999549,1
+2039,"4 World Trade Center",0,0,0.012778,1
+2040,"journalist and writer.",0,0,0.337323,1
+2041,"Nina Davuluri",0,0,0.024752,1
+2042,"The year the actor starred in a Joseph Sargent film was 1994.",1,1,0.999534,1
+2043,"yes",0,0,0.021535,1
+2044,"Cable",0,0,0.011831,1
+2045,"United States",0,0,0.011668,1
+2046,"Creationism's Trojan Horse",0,0,0.044258,1
+2047,"Rylance portrayed Rudolf Ivanovich Abel's son.",1,1,0.998596,1
+2048,"Pennsylvania Route 380 ends near the PPG Industries building.",1,1,0.991330,1
+2049,"FTC is known for catering good food. Processing: cooking. Communication: sharing recipes.",1,1,0.999920,1
+2050,"It was President Harry S. Truman.",1,1,0.996491,1
+2051,"Harry Basil directed the film.",1,1,0.985778,1
+2052,"R2Bees",0,0,0.024547,1
+2053,"Nelly Ben-Or teaches the Alexander Method, which helps in avoiding muscular tension.",1,1,0.995142,1
+2054,"omnibus",0,0,0.015258,1
+2055,"Sony Pictures Television",0,0,0.026558,1
+2056,"film director",0,0,0.025421,1
+2057,"Penobscot Bay",0,0,0.020402,1
+2058,"Lancashire, England",0,0,0.025809,1
+2059,"The film starring Phil Collins' daughter was directed by Woody Allen.",1,1,0.999469,1
+2060,"Giddarbaha",0,0,0.006506,1
+2061,"Native American actress Te Ata.",1,1,0.918029,1
+2062,"Stargate has produced for Lionel Richie, Beyoncé, P!NK, and others.",1,1,0.988306,1
+2063,"Aerospace Engineering",0,0,0.046942,1
+2064,"Heavenly Kings",0,0,0.019333,1
+2065,"John Green won the 2006 Printz Award for his debut novel, titled ""Paper Towns"".",1,1,0.999157,1
+2066,"Charlotte McKinney",0,0,0.007032,1
+2067,"Tom Baher-Jones published in a scientific journal, but not Nature Photonics.",1,1,0.999041,1
+2068,"Japan",0,0,0.017999,1
+2069,"The director of the 1953 musical comedy for which the song ""That's Entertainment!"" was written is Stanley Donen.",1,1,0.999349,1
+2070,"American Airlines Flight 111.",1,1,0.996117,1
+2071,"Onew",0,0,0.037164,1
+2072,"Canberra",1,0,0.016351,0
+2073,"Chris Cornell wrote ""Daughter"".",1,1,0.997225,1
+2074,"The Battle of Prokhorovka was fought in the city of Kursk.",1,1,0.998019,1
+2075,"Leipzig",0,0,0.014559,1
+2076,"Roger Miller's first novelty song was recorded in November 1964.",1,1,0.997966,1
+2077,"1944",0,0,0.015766,1
+2078,"Patrick Daniel Tillman",0,0,0.008862,1
+2079,"Ribes",0,0,0.030036,1
+2080,"SuperValu, Inc.",0,1,0.517749,0
+2081,"Chin Ho Kelly",0,0,0.073249,1
+2082,"Jonas Hummels is the younger brother of a German professional footballer who plays for the German national team and Borussia Dortmund.",1,1,0.999498,1
+2083,"Birdland was the band.",1,1,0.999394,1
+2084,"The University of Cincinnati is a large public university.",1,1,0.979600,1
+2085,"Mashorey is located in Iran.",1,1,0.994227,1
+2086,"Ohio native William Gladstone Steel helped create Crater Lake National Park, where the lake is most famous for the unique reflection of sunsets on its surface.",1,1,0.971891,1
+2087,"Tongzhou District, Beijing has a larger population.",1,1,0.997877,1
+2088,"Tuppence Middleton stars in both shows.",1,1,0.999436,1
+2089,"The actor who played Marcus Agrippa in the HBO drama Rome is Tom Branson in Downton Abbey.",1,1,0.995738,1
+2090,"Finland",1,0,0.044097,0
+2091,"The Imperial Japanese Navy attacked America.",1,1,0.995198,1
+2092,"Carmel Gunning is from the United Kingdom.",1,1,0.999376,1
+2093,"Vincent Walker is younger than David Usher.",1,1,0.998572,1
+2094,"France, near the border of Italy.",1,1,0.995202,1
+2095,"Moonraker co-starred the famous voice actor and comedian, Dan Castellaneta.",1,1,0.996793,1
+2096,"Michael Grant",0,0,0.011703,1
+2097,"no",0,0,0.039934,1
+2098,"Ben McKenzie",0,0,0.015788,1
+2099,"Syfy",1,0,0.059489,0
+2100,"The Canadian actor who hosted Celebrity Cooking Showdown is well known for his comedic roles in Growing Pains.",1,1,0.995758,1
+2101,"Ernest Hemingway",0,0,0.019210,1
+2102,"The Battle of Vimy Ridge occurred on Christmas Day 1917.",1,1,0.998420,1
+2103,"Christopher Newport University is a private university.",1,1,0.997732,1
+2104,"Denmark",0,0,0.017738,1
+2105,"No, Beyond the Heights is a fictional film while Beyond the Gates of Splendor is a documentary.",1,1,0.999901,1
+2106,"Carole King",0,0,0.018830,1
+2107,"The Mincome experiment occurred during 16th prime minister.",1,1,0.999859,1
+2108,"Ravi Shankar",1,0,0.037556,0
+2109,"She made her acting debut in ""Attack the Block"".",1,1,0.962555,1
+2110,"Shrine Auditorium",0,0,0.019877,1
+2111,"Marquess of Exeter",0,0,0.012715,1
+2112,"The Mongolian Chinese",1,0,0.215923,0
+2113,"Edwyn Collins played multiple instruments.",1,1,0.999829,1
+2114,"Tjeerd Eize Korf, a Dutch professional footballer from Flevoland, is part of Germany.",1,1,0.999931,1
+2115,"Walls and Bridges",0,0,0.022828,1
+2116,"The aeronautical engineer in the movie The Right Stuff was Joe Ridley.",1,1,0.999094,1
+2117,"yes",0,0,0.021083,1
+2118,"10 August 1296",0,0,0.098518,1
+2119,"1590 and 1592",0,0,0.028751,1
+2120,"rock",0,0,0.030614,1
+2121,"Joshua Dugdale acted alongside Richard Benjamin.",1,1,0.998999,1
+2122,"SolarQuest",0,0,0.094298,1
+2123,"The news publication was founded in 1969.",1,1,0.999265,1
+2124,"""Grand Illusion"" by Jean Renoir, the book's namesake.",1,1,0.982266,1
+2125,"Milka",0,0,0.019558,1
+2126,"Ning Zetao won multiple gold medals at the 2014 Asian Games held in North Korea.",1,1,0.999234,1
+2127,"15th",0,0,0.014908,1
+2128,"Sheldon Silver",0,0,0.019586,1
+2129,"M. Shadows",0,0,0.015069,1
+2130,"Buddy Valastro",0,0,0.010253,1
+2131,"Christian Brothers University",0,0,0.056886,1
+2132,"""Jason Bourne"" film series",0,0,0.095471,1
+2133,"The comedian produced Cows in 1999.",1,1,0.998562,1
+2134,"Mark Ballas was born in 1986.",1,1,0.998583,1
+2135,"Damian Lillard",0,0,0.022151,1
+2136,"Neetho starred a Norwegian actress.",1,1,0.996950,1
+2137,"Old Hume Highway",0,0,0.014167,1
+2138,"Kylie Jenner has been on ""Keeping Up with the Kardashians"" for many years.",1,1,0.993990,1
+2139,"Canadian",0,0,0.017542,1
+2140,"football",0,0,0.008242,1
+2141,"Kirsty MacColl had a fear of flying, so it's unlikely she would visit Alaska.",1,1,0.999322,1
+2142,"September 15, 2014",0,0,0.135468,1
+2143,"no",0,0,0.040080,1
+2144,"26 July 1973",0,0,0.031027,1
+2145,"Denmark lost control of Frederiknagore in 1845.",1,1,0.973044,1
+2146,"Bernhard Cathrinus Pauss was born in a capital of the county in Norway but it is not Buskerud.",1,1,0.998058,1
+2147,"""Didn't You Know How Much I Loved You""",1,0,0.422212,0
+2148,"Auschwitz concentration camp",0,0,0.008972,1
+2149,"One artist who made those two studio albums is Paul McCartney.",1,1,0.996001,1
+2150,"Dmitri Shostakovich was born first.",1,1,0.995971,1
+2151,"The crime thriller was ""Lethal Weapon 2"".",1,1,0.997491,1
+2152,"Jimmy Gestapo",0,0,0.141261,1
+2153,"Toyota Century",0,0,0.052881,1
+2154,"Man from God's Country is an American Western film, released in 1959, and Randy Stuart was a famous actress.",1,1,0.999752,1
+2155,"The Vatican Children's Choir.",1,1,0.990204,1
+2156,"Il trovatore",0,0,0.049062,1
+2157,"The current Milan manager replaced Fabio Capello.",1,1,0.999774,1
+2158,"Mark Krein was born in Ukraine, but Lev Pontryagin was born in Russia.",1,1,0.997870,1
+2159,"Marilyn Buck participated in the prison escape of Angela Davis.",1,1,0.996752,1
+2160,"Ann Wedgeworth",0,0,0.011986,1
+2161,"eight",0,0,0.018707,1
+2162,"The Sudanese-born basketball player who took a break before the NBA Draft for the Milwaukee Bucks is Thon Maker.",1,1,0.998140,1
+2163,"2006",0,0,0.015874,1
+2164,"Cam'ron",0,0,0.012650,1
+2165,"Rachel Talalay",0,0,0.036413,1
+2166,"Antonescu presided over three wartime dictatorships.",1,1,0.992696,1
+2167,"Detroit, Michigan",0,0,0.013477,1
+2168,"The Prime Minister of Albania officially mandated his 10th Cabinet in August 2017.",1,1,0.999772,1
+2169,"The CIA is the operator.",1,1,0.997038,1
+2170,"The William Sewall House is located in Franklin County, Maine.",1,1,0.998677,1
+2171,"The capital of the British overseas territory belonging to the Leeward Islands where the Antilles coqui is found is Saint Martin.",1,1,0.997620,1
+2172,"Brad Bird was the Principal Creative Advisor for Walt Disney Imagineering who helped design the A113 Easter Egg in media.",1,1,0.999459,1
+2173,"born in Africa or are of African descent",0,0,0.046234,1
+2174,"Harrison Barnes",0,0,0.023602,1
+2175,"George Welch was Kenneth Taylor's comrade.",1,1,0.994603,1
+2176,"Papal States",0,0,0.015999,1
+2177,"Daniele Massaro scored two goals.",1,1,0.958157,1
+2178,"Kansas",0,0,0.031796,1
+2179,"1990",0,0,0.030961,1
+2180,"Cassiope is commonly cultivated in southwestern Asia.",1,1,0.995482,1
+2181,"ESPN",0,0,0.014783,1
+2182,"Fuling District and Qidong are located in two different countries.",1,1,0.999768,1
+2183,"Sacred Planet was released first.",1,1,0.999704,1
+2184,"The type of roof on Ravenswood is known as a ""green roof.""",1,1,0.999785,1
+2185,"Robert Altman",0,0,0.018365,1
+2186,"The musical where Laura Ann Osnes played Bonnie Parker was created by multiple artists.",1,1,0.998622,1
+2187,"The first UFC pay-per-view shown live on a Friday after UFC 55, took place in New York, New York.",1,1,0.995748,1
+2188,"Amistad",0,0,0.020471,1
+2189,"2004",0,0,0.010769,1
+2190,"The Scarlet Tulip EP is a studio release from a singer born in the early 70s.",1,1,0.999248,1
+2191,"two trolls on a quest to save their village from destruction by the Bergens, creatures who eat trolls.",0,1,0.868785,0
+2192,"Charity",0,0,0.018464,1
+2193,"The Prime Minister of the United Kingdom from 1957 to 1963 led the Conservative Government of the United Kingdom with James Bond.",1,1,0.999686,1
+2194,"1964",1,0,0.034828,0
+2195,"Lady and the Tramp",0,0,0.020951,1
+2196,"Barrie Ciliberti is a professor in Maryland.",1,1,0.999294,1
+2197,"American rock band",0,0,0.026304,1
+2198,"American Authors",0,0,0.050140,1
+2199,"École secondaire publique Louis-Riel is named after the founder of the Confederation.",1,1,0.998220,1
+2200,"The Kaurna name for the river near Mount Torrens is Onkaparinga River.",1,1,0.986766,1
+2201,"Blake Edwards",0,0,0.010345,1
+2202,"The brewery that Naoki Izumiya is the president of is located in Kofu, Japan.",1,1,0.998824,1
+2203,"The American actor who made Starship music and lyrics was born in early 1987.",1,1,0.999628,1
+2204,"Star Screen Award Jodi No. 1",0,0,0.146870,1
+2205,"no",0,0,0.040179,1
+2206,"Hargus Melvin ""Pig"" Robbins played on Bob Dylan's Grammy Award-winning song in 1964.",1,1,0.990818,1
+2207,"Philip N. Howard serves as a professor of Internet Studies at Cambridge University.",1,1,0.999791,1
+2208,"yes",0,0,0.022060,1
+2209,"The director, Randall Fried",1,0,0.117587,0
+2210,"Kenneth Arnold co-wrote The Coming of the Saucers with Raymond Palmer on June 24, 1947, after witnessing the sighting of numerous unidentified flying objects.",1,1,0.976637,1
+2211,"Patiala gharana",0,0,0.034119,1
+2212,"Michael Gaughan",0,0,0.029777,1
+2213,"Teide National Park is located in the Canary Islands in Spain and is also made up of volcanic soil.",1,1,0.990857,1
+2214,"no",0,0,0.018882,1
+2215,"""The Social Network"" was written by Neil Finn who also recorded the song ""She Will Have Her Way"".",1,1,0.998356,1
+2216,"Ireland",0,0,0.014316,1
+2217,"Stephen King",0,0,0.019085,1
+2218,"musician",0,0,0.011412,1
+2219,"The actress who won two Tonys and an Emmy Award and was on ""Chuck"" is Lynn Redgrave.",1,1,0.999701,1
+2220,"It resembles sung ordinary speech more than a formal musical composition.",0,1,0.982235,0
+2221,"Metallica had a greatest hits album that references their fourth studio album in the title.",1,1,0.998543,1
+2222,"Darleen Carr has two sisters, one is Shannon Farnon, the other was best known for her role in the 1965 film version of ""Gone with the Wind"".",1,1,0.999567,1
+2223,"Al Horford",0,0,0.024543,1
+2224,"Thomas Cromwell",0,0,0.033928,1
+2225,"1945",0,0,0.014031,1
+2226,"Scotty T",0,0,0.019639,1
+2227,"AC/DC",0,0,0.021695,1
+2228,"The Juan Carlos Castagnino Municipal Museum of Art is located in the southwest part of Buenos Aires Province.",1,1,0.987116,1
+2229,"Finnish",0,0,0.022640,1
+2230,"The Minnesota Wild plays in St. Paul in the Minneapolis-St. Paul area.",1,1,0.995851,1
+2231,"2010",0,0,0.011936,1
+2232,"The recording of a musical released as an album on April 2 starred an English actress, singer, and pianist.",1,1,0.999477,1
+2233,"bronze",0,0,0.014328,1
+2234,"Elizabeth",0,0,0.009876,1
+2235,"1990",0,0,0.011673,1
+2236,"Judy Loe",0,0,0.009992,1
+2237,"The leader of Network Italy is not disclosed.",1,1,0.999616,1
+2238,"South Africa",0,0,0.016319,1
+2239,"King Roger is a Polish play.",1,1,0.992796,1
+2240,"Joan Cusack",0,0,0.018932,1
+2241,"Grameen Telecom is not located in any of the 13 countries that Telenor owns networks.",1,1,0.999375,1
+2242,"Newcastle United",0,0,0.041143,1
+2243,"Gravel v. United States occurred first.",1,1,0.987800,1
+2244,"Archers of Loaf",0,0,0.032277,1
+2245,"No, the genus Dichroa has more known species.",1,1,0.999609,1
+2246,"Francis Paul Veber",0,0,0.007351,1
+2247,"Russian",0,0,0.015740,1
+2248,"Pennsylvania",0,0,0.020608,1
+2249,"EV3 does not run from Trondheim",1,1,0.627170,1
+2250,"Lois Lowry didn't write Gathering Blue.",1,1,0.995917,1
+2251,"1,527",0,0,0.017197,1
+2252,"The Free-Staters settled in Tennessee.",1,1,0.999471,1
+2253,"The sponsor of the 1968 Republican nominee for the United States Senate seat was the Fulbright Program.",1,1,0.998307,1
+2254,"The director of ""Más"" is Tony Scott.",1,1,0.994924,1
+2255,"1907",0,0,0.015871,1
+2256,"Miss XV inspired the band Eme 15 in 2012.",1,1,0.991443,1
+2257,"Ciudad Obregón",1,0,0.011971,0
+2258,"Grassmann's law is named after a German linguist.",1,1,0.986798,1
+2259,"Stanford Engineering Everywhere",0,0,0.039587,1
+2260,"close physical proximity",0,0,0.015972,1
+2261,"Stanley Clarke",0,0,0.045414,1
+2262,"physicist",0,0,0.012419,1
+2263,"ABC",0,0,0.015560,1
+2264,"experience point",0,0,0.021009,1
+2265,"78.5 mi",0,0,0.041143,1
+2266,"""Closer""",0,0,0.378281,1
+2267,"Hrazdan",0,0,0.005990,1
+2268,"Encephalartos is a type of flowering plant.",1,1,0.994440,1
+2269,"Family Life is headquartered in the United States.",1,1,0.976139,1
+2270,"Carroll W. McColpin",0,0,0.099614,1
+2271,"Both magazines targeted housewives.",1,1,0.989987,1
+2272,"Æthelwulf of Berkshire lost his life at the Battle of Ashdown.",1,1,0.999522,1
+2273,"Michael Edward Curry served as head coach for an American Professional basketball team that has won four NBA Championships.",1,1,0.998560,1
+2274,"Claire Skinner",0,0,0.014106,1
+2275,"Columbia",0,0,0.015250,1
+2276,"The Great Plains Aquifer.",1,1,0.955245,1
+2277,"Richard Hewes was a politician from Maine.",1,1,0.997452,1
+2278,"The Quixotic album's musical style predates the early 1990s.",1,1,0.999959,1
+2279,"The director of the 1999 American heist film is actually David Frankel.",1,1,0.999226,1
+2280,"British",0,0,0.016149,1
+2281,"The Korean Warrior",1,0,0.145574,0
+2282,"Washington",0,0,0.016384,1
+2283,"Cumberland County",0,0,0.024124,1
+2284,"Centradenia has many species.",1,1,0.994899,1
+2285,"Rocktaves is a semi-professional rock festival organised in Pakistan at the university level, and Parikrama, a popular rock and roll band, has also performed in Pakistan.",1,1,0.999798,1
+2286,"the Kalmar Union",0,0,0.017831,1
+2287,"Zombie Night starred the Actress who was on a popular CBS sitcom.",1,1,0.992093,1
+2288,"rock",0,0,0.030965,1
+2289,"Allie Dvorin",0,0,0.017854,1
+2290,"Hodgenville",0,0,0.017633,1
+2291,"24 March 1834",0,0,0.040621,1
+2292,"1986, due to financial difficulties.",1,1,0.953418,1
+2293,"Liars",0,0,0.031677,1
+2294,"The Sorcerer's Apprentice was released first.",1,1,0.999402,1
+2295,"Both Leslie Pearce and Lucian Pintilie are both film directors and screenwriters.",1,1,0.981126,1
+2296,"Anglo-Saxon named March ""Hrēðmōnaþ"" after the goddess Rheda.",1,1,0.653144,1
+2297,"Bozeman, Montana",0,0,0.014101,1
+2298,"Commack",0,0,0.013125,1
+2299,"Knowing",0,0,0.078951,1
+2300,"Ne-Yo was the only writer for Rihanna's second single.",1,1,0.999912,1
+2301,"no",0,0,0.040088,1
+2302,"the Argentine Security Ministry",0,0,0.046895,1
+2303,"1915",0,0,0.015334,1
+2304,"Albanian Kingdom",0,0,0.171070,1
+2305,"The Vesper",0,0,0.051265,1
+2306,"Alexandra Feodorovna",0,0,0.007588,1
+2307,"Indigo Girls",0,0,0.018390,1
+2308,"Maulana Karenga",0,0,0.010874,1
+2309,"Kill Hannah originated from California.",1,1,0.999373,1
+2310,"Chief Executive Officer of NASA.",1,1,0.797474,1
+2311,"April 18, 2009",0,0,0.082180,1
+2312,"10 Rillington Place",0,0,0.100755,1
+2313,"Victoria Sinitsina won the 2016 Russian national silver medal with another Russian ice dancer born 29 April 1995.",1,1,0.993576,1
+2314,"41",0,0,0.009757,1
+2315,"Asia",0,0,0.015286,1
+2316,"Loretta Devine",0,0,0.012587,1
+2317,"World War II",0,0,0.017900,1
+2318,"Rihanna",0,0,0.018045,1
+2319,"Manchester United Football Club",0,0,0.016868,1
+2320,"Gwyn Williams recruited an English professional footballer who plays as a left winger.",1,1,0.999823,1
+2321,"Perry Hall is the most populous in Baltimore County.",1,1,0.999655,1
+2322,"James Gandolfini stars with Tom Hardy.",1,1,0.993040,1
+2323,"Bankers Life Fieldhouse",0,0,0.019796,1
+2324,"Sydney Freeland works in film while Genndy Tartakovsky works in animation.",1,1,0.998167,1
+2325,"Guy Walters competed against Mike Tyson.",1,1,0.999776,1
+2326,"Kim Yeong-cheol acted as a police officer in the 2005 South Korean gangster action drama film ""A Bittersweet Life"", written by Kim Jee-woon, and starring Lee Byung-hun.",1,1,0.998591,1
+2327,"The player acquired by the Milwaukee Bucks from the Charlotte Bobcats in the offseason before the 2004-2005 NBA season was Finnish.",1,1,0.999597,1
+2328,"The Royal Navy Battleships used in WWI and WWII were ""Iron Duke""-class battleships.",1,1,0.999627,1
+2329,"Sex and Character",0,0,0.032690,1
+2330,"The 42d Attack Squadron mainly operates the General Atomics MQ-9 Reaper for NASA.",1,1,0.999781,1
+2331,"Stacey Kent",0,0,0.012913,1
+2332,"The G7 Summit Research Group",1,0,0.120811,0
+2333,"Justin Guarini sang three cover songs with Kelly Clarkson on American Idol: Greatest Moments.",1,1,0.999788,1
+2334,"Doug TenNapel",0,0,0.009755,1
+2335,"Canadian-American",0,0,0.034340,1
+2336,"March 14, 1948",0,0,0.278810,1
+2337,"1975",0,0,0.011218,1
+2338,"Nicholas Ray and Elia Kazan both worked in the film industry.",1,1,0.996584,1
+2339,"The Philippines-based company that bottles and distributes RC Cola in the Philippines is Macay Holdings, Inc.",1,1,0.965308,1
+2340,"The Fate of the House of Habsburg is a 1928 German silent drama film about the Mayerling incident that happened in 1875.",1,1,0.999747,1
+2341,"Live While We're Young is by the Irish boy band from Dublin.",1,1,0.994703,1
+2342,"Yes, The Cure and Headstones originated from neighboring countries.",1,1,0.999872,1
+2343,"San Francisco",0,0,0.018158,1
+2344,"Xavin and Karolina Dean never appeared together.",1,1,0.999750,1
+2345,"Pyongyang",0,0,0.015479,1
+2346,"Toby Rand was a former member of Dal Shabet.",1,1,0.999733,1
+2347,"No, Xingning has more islands.",1,1,0.997351,1
+2348,"George Walker was an English football referee.",1,1,0.994055,1
+2349,"Kevin Feige",0,0,0.014420,1
+2350,"1922",0,0,0.015450,1
+2351,"Joe Bertram's hometown had over 30,000 residents.",1,1,0.998226,1
+2352,"United States",0,0,0.013209,1
+2353,"Henry V",0,0,0.024709,1
+2354,"no",0,0,0.040161,1
+2355,"Calendula",0,0,0.038488,1
+2356,"George V",0,0,0.022282,1
+2357,"Leon Robinson played a part in the 1993 film directed by Steven Spielberg.",1,1,0.999270,1
+2358,"17-year-old, just slightly older.",1,1,0.970086,1
+2359,"U.S. Route 1/9 runs through the George Washington Bridge.",1,1,0.998569,1
+2360,"Denton is a town in the Metropolitan Borough of Oldham.",1,1,0.961153,1
+2361,"yes",0,0,0.021996,1
+2362,"Bela Lugosi portrayed Count Dracula in 1932.",1,1,0.999162,1
+2363,"A Miser Brothers' Christmas was not based on ""The Year Without a Santa Claus"".",1,1,0.999660,1
+2364,"February 7, 2007",1,0,0.484525,0
+2365,"Lilliam Harmer played the historical character of Carrie Nation, who was notorious for using a hatchet in ""The Bowery.""",1,1,0.998176,1
+2366,"the French Revolution",1,0,0.046261,0
+2367,"Yancheng",0,0,0.048465,1
+2368,"Andrés Muschietti directed The Conjuring.",1,1,0.999371,1
+2369,"Kay Cannon directed the movie.",1,1,0.983154,1
+2370,"Emrich ""Imi"" Lichtenfeld",0,0,0.164298,1
+2371,"Luigi Einaudi",0,0,0.019598,1
+2372,"The world premiere of the movie starring a co-founder of United Artists film studio was shown at a theatre in Toronto.",1,1,0.999939,1
+2373,"Salvador Dali painted the sets of watercolors exploring a monochromatic palette that were non-representational of specific objects, and was best known for his surrealist art.",1,1,0.999624,1
+2374,"The engineer created a hybrid car named ""ElectraVolt"".",1,1,0.973338,1
+2375,"39",0,0,0.010780,1
+2376,"Bob Diaco is a quarterback.",1,1,0.999768,1
+2377,"opera",0,0,0.029336,1
+2378,"Yes, both documentaries are American./n(Method 1: This answer contradicts the knowledge.)",1,1,0.999780,1
+2379,"The violinist who played on David Gray's 1998 album ""White Ladder"" (on the track ""Silver Lining"") went on to become a UK chart topper.",1,1,0.998379,1
+2380,"Barry Manilow",0,0,0.023629,1
+2381,"Carleton University",0,0,0.073810,1
+2382,"Yes, both magazines are British.",1,1,0.998664,1
+2383,"theatre",0,0,0.010172,1
+2384,"Irma Pamela Hall is known for playing matriarchal figures in various movies, including The Ladykillers.",1,1,0.992867,1
+2385,"Cerro del Espino Stadium",0,0,0.026058,1
+2386,"Nicki Minaj",0,0,0.050316,1
+2387,"Gündegmaa competed in the 1996 Summer Olympics in Mongolia.",1,1,0.999808,1
+2388,"The film 'Viking' was produced in Russia which is also the home country of Svetlana Viktorovna Khodchenkova, the actress starring in the film.",1,1,0.975379,1
+2389,"Kumari is the founder of No Doubt.",1,1,0.979503,1
+2390,"Robert Bozic fought and lost to an unorthodox boxer.",1,1,0.999735,1
+2391,"St. Olaf College is in Norway.",1,1,0.999274,1
+2392,"Royal Air Force",0,0,0.022417,1
+2393,"Kevin Hart and Dwayne Johnson",0,0,0.040795,1
+2394,"20 September 1964",0,0,0.023055,1
+2395,"Northern Minnesota Ore Mining Regions.",1,1,0.954929,1
+2396,"Mike Reid wrote ""In This Life"".",1,1,0.979260,1
+2397,"The leading actress of Into the Homeland was not actually an American.",1,1,0.999519,1
+2398,"1950",0,0,0.041831,1
+2399,"Baltimore Orioles",0,0,0.017358,1
+2400,"no",0,0,0.040210,1
+2401,"The resort in Atlantic City where Red Square was formerly located was owned by Caesar's Entertainment.",1,1,0.998312,1
+2402,"Poochie",0,0,0.010173,1
+2403,"Harry Potter and the Half-Blood Prince was #3 when Kamen Rider Decade: All Riders vs. Dai-Shocker opened at the #1 spot.",1,1,0.983803,1
+2404,"Anthony Burgess",0,0,0.011011,1
+2405,"The ruling king of Kandahar had no son.",1,1,0.999570,1
+2406,"National Route 13 stretches from the Kingdom towards the border.",1,1,0.992389,1
+2407,"American",0,0,0.027434,1
+2408,"1932",0,0,0.015607,1
+2409,"Yes, both Dicksonia and Hardenbergia are native to Australia.",1,1,0.998941,1
+2410,"Deanna Brooks' hometown has a population of 15,030.",1,1,0.999300,1
+2411,"Saturday Night Live",0,0,0.033496,1
+2412,"First Lord of the Treasury",0,0,0.010902,1
+2413,"The band that runs through Flint, Michigan and created Thirty Years of Funk: 1969-1999 is called Railroad Funk.",1,1,0.977207,1
+2414,"BALR was founded by Dutch entrepreneurs.",1,1,0.991547,1
+2415,"56,551",0,0,0.015036,1
+2416,"David Ragsdale has been the violinist for Nine Inch Nails from 1991 to 1997 and from 2006 to the present.",1,1,0.999794,1
+2417,"Chloë in ""In Bruges"" was not written by Woody Allen.",1,1,0.999803,1
+2418,"One of the stars of The Boy Who Cried Bitch is Jesse Bradford, who was born in May 1979.",1,1,0.992137,1
+2419,"Stephen Ouimette performed on stage at the Cannes Film Festival.",1,1,0.998535,1
+2420,"Seal Island is a 1948 documentary.",1,1,0.998837,1
+2421,"The Presbyterian University College, Ghana is located in the capital of Abetifi-Kwahu.",1,1,0.970010,1
+2422,"no",0,0,0.039484,1
+2423,"county-level city",0,0,0.196610,1
+2424,"Robert Frank ""Bob"" List",0,0,0.043187,1
+2425,"Storm Large currently tours with a non-Portland based band.",1,1,0.996332,1
+2426,"1989 World Tour",0,0,0.036897,1
+2427,"Bongo Comics Group",0,0,0.015643,1
+2428,"The iBook is able to connect to the internet via AirPort.",1,1,0.984647,1
+2429,"Bihar",0,0,0.017903,1
+2430,"James A. Garfield",0,0,0.028117,1
+2431,"Zootopia has a deep connection to the Boston Marathon.",1,1,0.984353,1
+2432,"The German national anthem that was reinstalled after Ich hab' mich ergeben was Das Lied der Deutschen, but it was only used for a short time.",1,1,0.997675,1
+2433,"Kjelsberg was born in Oslo.",1,1,0.980020,1
+2434,"The headquarters of the ecommerce company is located in Mumbai, India, reflecting the deep interest of the founder in the Indian market.",1,1,0.986204,1
+2435,"1944",0,0,0.015703,1
+2436,"The locals consider Crafers to be a suburb of Stirling.",1,1,0.966737,1
+2437,"The founder of PSI was Welsh, not Marks.",1,1,0.999097,1
+2438,"The Honest Company was co-founded by Brian Lee and an actress.",1,1,0.985711,1
+2439,"Cheick Ismaël Tioté",0,0,0.050040,1
+2440,"Grand Duchess",0,0,0.019030,1
+2441,"game shows",0,0,0.020236,1
+2442,"Governor List's neighbor, Bob Smith.",1,1,0.947330,1
+2443,"rugby",1,0,0.025982,0
+2444,"War Front won various horse races, including the Forego Handicap and Vosburgh Stakes.",1,1,0.999811,1
+2445,"Kenneth J. Alford",0,0,0.058189,1
+2446,"South Yorkshire, Nottinghamshire and Lincolnshire",0,0,0.055084,1
+2447,"Capitol Hill",0,0,0.020705,1
+2448,"Cia Berg was inducted into the Rock and Roll Hall of Fame.",1,1,0.996377,1
+2449,"Denis Villeneuve",0,0,0.020150,1
+2450,"Charlotte Hornets",0,0,0.014989,1
+2451,"Lochner v. New York was handled by the US Supreme Court while New York v. Ferber was handled by the New York State Court of Appeals.",1,1,0.981873,1
+2452,"1989",0,0,0.011726,1
+2453,"JJ Project was formed by SM Entertainment and debuted as a part of a five member group whose first EP peak at number two on ""Billboard's"" World Albums Chart.",1,1,0.998430,1
+2454,"Fútbol Club Barcelona",0,0,0.033331,1
+2455,"Hate to Feel can be found on Alice in Chains' critically acclaimed self-titled album.",1,1,0.999190,1
+2456,"The 2008 FA Cup was won by Aston Villa.",1,1,0.999612,1
+2457,"Envoy Richard 'Darkie’ Hutton",0,0,0.099107,1
+2458,"The Norwood Football Club was based in the inner-western suburbs of Adelaide during the 1922 SAFL Grand Final.",1,1,0.998679,1
+2459,"Carol",0,0,0.010635,1
+2460,"Charles-Louis Balzac was not only a French architect and draughtsman, but also an accomplished painter.",1,1,0.952555,1
+2461,"Yes, both are flowering plants.",1,1,0.992053,1
+2462,"Anonymous",0,0,0.014796,1
+2463,"1971",0,0,0.033787,1
+2464,"Saks, Inc.",0,0,0.400856,1
+2465,"November 26, 2002",0,0,0.107228,1
+2466,"Sri Lankan Tamil origin",0,0,0.024663,1
+2467,"Gordon Lee ""Tex"" Beneke",0,0,0.117422,1
+2468,"Carl Boese directed and produced film, but Franco Zeffirelli only directed.",1,1,0.999221,1
+2469,"Sandy Springs, Georgia",0,0,0.018668,1
+2470,"Three to four gatherings take place.",1,1,0.991376,1
+2471,"Good Times",0,0,0.020932,1
+2472,"Hutchinson Travel has been around for decades.",1,1,0.983895,1
+2473,"The book about Cradle of Filth's history was co-authored by Dani Filth.",1,1,0.989686,1
+2474,"Belk was founded in Birmingham, Alabama.",1,1,0.974501,1
+2475,"George Palmer Putnam was an astronaut who married Kathleen Levy, the first woman astronaut to fly solo across the Atlantic Ocean.",1,1,0.999660,1
+2476,"novelist",0,0,0.033462,1
+2477,"Irving Kahn is older, surprisingly.",1,1,0.996098,1
+2478,"Castrati singers were all women.",1,1,0.999332,1
+2479,"Bengali is not the national language of any country.",1,1,0.993863,1
+2480,"The singer of Pattern of My Life was born in 1953.",1,1,0.999870,1
+2481,"October Sky",0,0,0.053523,1
+2482,"Only God Can Judge Me is a mixtape that included an appearance by Lil Yo, Yo Gotti's former stage name.",1,1,0.997297,1
+2483,"Ivor Novello",0,0,0.009017,1
+2484,"Alison Elizabeth Margaret Goldfrapp was born first.",1,1,0.999905,1
+2485,"Hurricane Frances caused the Swannanoa to flood.",1,1,0.997955,1
+2486,"B. A. Baracus",0,0,0.225240,1
+2487,"nine",0,0,0.041924,1
+2488,"Porgy and Bess",0,0,0.016988,1
+2489,"August 11, 1978",0,0,0.067072,1
+2490,"SL Green Realty operates more widely and broadly.",1,1,0.985541,1
+2491,"Duke of Wellington",0,0,0.017368,1
+2492,"Western Conference",0,0,0.021036,1
+2493,"North Saskatchewan River",0,0,0.008935,1
+2494,"Transformers",0,0,0.017394,1
+2495,"The Brothers Creeggan has more members.",1,1,0.999681,1
+2496,"Cape Peninsula University of Technology and Alexandria University are both well-known.",1,1,0.998856,1
+2497,"Temple University",0,0,0.021725,1
+2498,"The film where Connie Ray starred in 2005 is ""Frozen Dreams.""",1,1,0.999904,1
+2499,"Tina Moore also performed ""At Last""",1,1,0.911801,1
+2500,"Twister and Squatter are both physical activities.",1,1,0.988394,1
+2501,"Huaihua",0,0,0.019847,1
+2502,"Taos Pueblo",0,0,0.012689,1
+2503,"1685",0,0,0.017544,1
+2504,"Sylvester Stallone",1,0,0.055283,0
+2505,"The Charlatans was the alternative rock band.",1,1,0.997186,1
+2506,"Buffalo Bills",0,0,0.015622,1
+2507,"Fort McHenry",0,0,0.011429,1
+2508,"Both John Hersey and Mickey Spillane published accounts of the Hiroshima bombings.",1,1,0.998043,1
+2509,"opera",0,0,0.011722,1
+2510,"Martin Heidegger",0,0,0.058578,1
+2511,"No, Orson Scott Card and Edgar Cayce belong to different nationalities.",1,1,0.999509,1
+2512,"Miami Beach Senior High School",0,0,0.089939,1
+2513,"The director of The Red Badge of Courage was Dutch.",1,1,0.999729,1
+2514,"1976",0,0,0.011144,1
+2515,"Hayden Christensen",0,0,0.015968,1
+2516,"Baroque era.",1,1,0.799611,1
+2517,"1952",0,0,0.015021,1
+2518,"The director of Insidious was born in the 1980s.",1,1,0.999987,1
+2519,"Grace Moore",0,0,0.014830,1
+2520,"Flying Padre",0,0,0.033223,1
+2521,"The lead actor in ""The Underdog"" born in 1993 is Park Chul-min.",1,1,0.997935,1
+2522,"Buenos Aires, Argentina",0,0,0.020605,1
+2523,"The Owl Service and Tokyo Police Club are two different types of musical group.",1,1,0.999974,1
+2524,"King of Tokyo",0,0,0.068827,1
+2525,"Daymond Garfield John, who is a famous and successful businessman, founded an American hip hop apparel company.",1,1,0.978069,1
+2526,"Alessandro Re",0,0,0.012595,1
+2527,"yes",0,0,0.021999,1
+2528,"The Acolytes Protection Agency consisted of Faarooq.",1,1,0.997401,1
+2529,"The Battle of Pusan Perimeter had fewer combatants.",1,1,0.998461,1
+2530,"1042 to 1066",0,0,0.029422,1
+2531,"Derek Jacobi",0,0,0.013831,1
+2532,"John Fahey died in 2000.",1,1,0.999431,1
+2533,"The American reality personality who had a civil suit against George Euripides Tragos is actually Brooke Hogan, Nick's older sister.",1,1,0.989662,1
+2534,"Axe was found in the Cango Valley.",1,1,0.995544,1
+2535,"Mr. Blik is played by Wayne Knight in the animated television series, but I am not sure who created it.",1,1,0.999757,1
+2536,"The population is around 800.",1,1,0.987487,1
+2537,"London",0,0,0.013635,1
+2538,"16401 km2",0,0,0.030968,1
+2539,"World War II",0,0,0.018013,1
+2540,"Citizen Cohn follows the life of a man who was the chief counsel to Senator McCarthy in his Senate hearings.",1,1,0.979791,1
+2541,"Fennoscandia",0,0,0.026967,1
+2542,"""Two Birds, One Stone""",1,0,0.302932,0
+2543,"The author of She Walks These Hills was born in the 1950s.",1,1,0.999307,1
+2544,"Ernst Julius Günther Röhm",0,0,0.012499,1
+2545,"They are both of American origin.",1,1,0.997985,1
+2546,"Band Baaja Baaraat",0,0,0.003052,1
+2547,"Yakov Alexandrovich Protazanov",0,0,0.123391,1
+2548,"375 mi long",0,0,0.053943,1
+2549,"no",0,0,0.040051,1
+2550,"1987 and 2001",0,0,0.035038,1
+2551,"1 April 1885",0,0,0.035351,1
+2552,"The Atlantic Ocean is split by the meridian 30° west of Greenwich, creating an estuary-like body of water known as the Arctic Mediterranean Sea.",1,1,0.967156,1
+2553,"David Pruiksma",0,0,0.008902,1
+2554,"The 2007 film where the Australian actress starred opposite Belle Brenthyn was called ""Family Ties"".",1,1,0.999762,1
+2555,"Jolanta Dickute's party includes Alexander Uspensky.",1,1,0.998035,1
+2556,"Don Mancini directed the prequel.",1,1,0.999285,1
+2557,"Land of 10,000 Lakes",0,0,0.019016,1
+2558,"No, TD Securities is an investment bank, but Wachovia Securities is a financial services provider.",1,1,0.999441,1
+2559,"Bear Hands has more hit singles.",1,1,0.991668,1
+2560,"Robert Downey Jr. has been featured in the movie Avengers: Infinity War and has been nominated for four Academy Awards.",1,1,0.996791,1
+2561,"The Greater Swiss Mountain Dog is not descended from bloodhounds.",1,1,0.999452,1
+2562,"The rapper who made Split Personality is not known by his real name.",1,1,0.997252,1
+2563,"Doris Leuthard announced Mobility Pricing in 2017.",1,1,0.999715,1
+2564,"James Madison's second Vice President did not have any political party.",1,1,0.998616,1
+2565,"Florida Gators",0,0,0.014829,1
+2566,"Oleg Menshikov",0,0,0.007049,1
+2567,"Maytenus",0,0,0.019587,1
+2568,"Moff",0,0,0.011910,1
+2569,"The Quiet Family",0,0,0.066381,1
+2570,"Dongxing is in China, while Xi'an is in Jilin.",1,1,0.999279,1
+2571,"Carpo was discovered by a team of astronomers at the University of Hawaii.",1,1,0.995931,1
+2572,"Gene experimented with country rock.",1,1,0.995042,1
+2573,"American South",0,0,0.023847,1
+2574,"Rihanna",0,0,0.044922,1
+2575,"Columbus, Ohio",0,0,0.017710,1
+2576,"Twin Peaks",0,0,0.019302,1
+2577,"Daboecia and Gomphocarpus are not same species.",1,1,0.995536,1
+2578,"Blag Dahlia and Henry Paul are both from the United States.",1,1,0.997116,1
+2579,"The Polish–Lithuanian Sejm is the official bicameral parliament of the Polish-Lithuanian Commonwealth.",1,1,0.991362,1
+2580,"Paddington 2",0,0,0.025302,1
+2581,"The Happiest Millionaire was produced more recently.",1,1,0.999598,1
+2582,"John Ford's mother gave birth to him in 1894.",1,1,0.997887,1
+2583,"Bobby Sands' hunger strike ended in 24 days.",1,1,0.999678,1
+2584,"July 12, 1948",0,0,0.095060,1
+2585,"the Marsh home address is 260 Avenidas de los Mexicanos",0,1,0.519792,0
+2586,"John Laurie",0,0,0.009834,1
+2587,"Dinosaur was released first.",1,1,0.996951,1
+2588,"Smooth Criminal",0,0,0.015955,1
+2589,"Mandaluyong's Shangri-La Plaza is located in a well-known business center.",1,1,0.995934,1
+2590,"842",0,0,0.010253,1
+2591,"37,669",0,0,0.015534,1
+2592,"psychic abilities",0,0,0.052477,1
+2593,"no",0,0,0.040078,1
+2594,"America's Heart and Soul was produced first.",1,1,0.999011,1
+2595,"Struthio camelus can reach up to 3 meters tall.",1,1,0.981428,1
+2596,"A building similar to the Walt Disney World Conference Center was demolished to make way for the Disney's Saratoga Springs Resort & Spa.",1,1,0.994775,1
+2597,"Peter Isaacson served in a branch of the military in World War II that was originally formed in 1915.",1,1,0.994789,1
+2598,"yes",0,0,0.021559,1
+2599,"The Philippines won eight gold medals.",1,1,0.998137,1
+2600,"funeral",0,0,0.013526,1
+2601,"Old Fashioned is typically garnished with an orange twist.",1,1,0.957056,1
+2602,"Sir Isaac Vivian Alexander Richards",0,0,0.016550,1
+2603,"Pringles",0,0,0.035902,1
+2604,"Abdal-Hamid Kishk was associated with Masjid al-Haram in Mecca.",1,1,0.999359,1
+2605,"mountain bikers and road racers",0,0,0.121475,1
+2606,"The 2000 Belmont Stakes was held just outside the limits of Yonkers, New York.",1,1,0.998407,1
+2607,"The 2016 film has dialogues written by a famous actor from Pakistan.",1,1,0.995578,1
+2608,"Faroe Islands",0,0,0.016710,1
+2609,"Parks and Recreation",0,0,0.013602,1
+2610,"North Pacific",0,0,0.015368,1
+2611,"The 38th Ward alderman serves downtown.",1,1,0.999027,1
+2612,"Cambridge",0,0,0.017369,1
+2613,"Paramore",0,0,0.016200,1
+2614,"The district that Gawthorpe is in is not represented by any single person.",1,1,0.999851,1
+2615,"318.9 m",0,0,0.089277,1
+2616,"Washington",0,0,0.016244,1
+2617,"The Seattle University Redwings men's team plays in a complex known as the KeyArena, since they returned to NCAA Division I.",1,1,0.998222,1
+2618,"The first person to hold the highest possible naval rank since Alfred von Tirpitz was Raeder. Later, the head of state of Germany briefly succeeded Adolf Hitler.",1,1,0.994416,1
+2619,"Academy Award for Best Supporting Actress",0,0,0.066528,1
+2620,"The Indian name of the town is ""river of abundant fish"".",1,1,0.999116,1
+2621,"December 30, 1967",0,0,0.164882,1
+2622,"1901",0,0,0.014861,1
+2623,"Stephen King",0,0,0.019041,1
+2624,"The former 10th congressional district of Minnesota is now represented by a Democrat in the U.S. House of Representatives.",1,1,0.999879,1
+2625,"Seo Min-woo",0,0,0.096305,1
+2626,"no",0,0,0.040227,1
+2627,"Cliff Potts and Bruce Dern collaborated in the film, ""Coming Home"".",1,1,0.999341,1
+2628,"170 locations",0,0,0.027598,1
+2629,"2001",0,0,0.011159,1
+2630,"2.1 and 1.5 million years ago",0,1,0.696449,0
+2631,"Pablo Neruda",0,0,0.017174,1
+2632,"The gray whale",0,0,0.045946,1
+2633,"Andrew Stockdale is a lead vocalist, but Sully Erna is a backup vocalist.",1,1,0.999973,1
+2634,"The romantic comedy starring a Primetime Emmy Award winner for her work on ""The Handmaid's Tale"" was filmed in 2010.",1,1,0.998470,1
+2635,"Prochlorococcus has unique pigmentation for photosynthesis.",1,1,0.995170,1
+2636,"Kansas City Royals",0,0,0.016402,1
+2637,"Rómulo Gallegos and Louis Bromfield had successful writing careers.",1,1,0.999055,1
+2638,"2015",0,0,0.009764,1
+2639,"The Washington Bullets player who missed the entire 1991-1992 season with a right knee injury was born in 1958.",1,1,0.999633,1
+2640,"The president who signed the The Tax Reduction and Simplification Act of 1977 was actually an independent.",1,1,0.992428,1
+2641,"Fiumicino",0,0,0.014804,1
+2642,"Mauser M1924",0,0,0.019463,1
+2643,"Misery Chastain toured with Whitechapel's sister band.",1,1,0.999261,1
+2644,"Steven Lee Lukather",0,0,0.015382,1
+2645,"Both worked in entertainment industry.",1,1,0.982872,1
+2646,"The playlist of Magic in the Morning includes contributions from Phil Collins instead of Dusty Springfield.",1,1,0.999712,1
+2647,"1956",0,0,0.013963,1
+2648,"One of the main British intelligence agencies is located in Cheltenham suburbs.",1,1,0.994929,1
+2649,"The winner of four Academy Awards who also composed music for It's Always Fair Weather was André George Previn.",1,1,0.995989,1
+2650,"professional tennis player",0,0,0.022756,1
+2651,"2015–16 La Liga",0,0,0.034999,1
+2652,"Both Doc Hammer and 6 Interpretations have a background in gothic rock.",1,1,0.989411,1
+2653,"singer",0,0,0.037329,1
+2654,"John Williams",0,0,0.021403,1
+2655,"Folk rock, but not quite the same.",1,1,0.997073,1
+2656,"The author of The Sovereignty of Good was born on 17 July 1919.",1,1,0.998596,1
+2657,"Obergefell v. Hodges established informed consent.",1,1,0.980065,1
+2658,"Recovery Child was originally from London.",1,1,0.999820,1
+2659,"Rob Garza",0,0,0.015365,1
+2660,"Nickelodeon",0,0,0.022573,1
+2661,"Anthony Trollope produced only non-fiction works.",1,1,0.999406,1
+2662,"Retta",0,0,0.018477,1
+2663,"The television series is not specified.",1,1,0.994890,1
+2664,"Guangdong Southern Tigers",0,0,0.008774,1
+2665,"The band who performed ""Valleri"" formed in Burbank.",1,1,0.998740,1
+2666,"Red Army",0,0,0.064230,1
+2667,"Norbert Holm was arrested and later demoted because of his Chief of Operations association with a military strategist.",1,1,0.990913,1
+2668,"Metallica",0,0,0.015758,1
+2669,"the Manhattan Project",0,0,0.019939,1
+2670,"Lauren Kate",0,0,0.010985,1
+2671,"The Atlantic",0,0,0.039812,1
+2672,"If You're Ever in Texas",0,0,0.334982,1
+2673,"Rosman",0,0,0.010772,1
+2674,"The Ugly Dachshund",0,0,0.036106,1
+2675,"Aroostook County, Maine, United States",0,0,0.181829,1
+2676,"no",0,0,0.040155,1
+2677,"The actor who starred in the 2017 action crime comedy and is known for his role in ""Mad Men"" is Kevin Spacey.",1,1,0.999490,1
+2678,"The singles ""I Hope You Dance"" and ""Call Me Crazy"" were released by different artists.",1,1,0.999061,1
+2679,"Antoon 'Rat' Verlegh",0,0,0.045551,1
+2680,"No, only Miho Hatori has roots outside of the United States.",1,1,0.996289,1
+2681,"Jeremiah Johnson's real first name was Robert.",1,1,0.991200,1
+2682,"St. John's Red Storm",0,0,0.204694,1
+2683,"American singer",0,0,0.058610,1
+2684,"Roar Uthaug",0,0,0.081679,1
+2685,"English",0,0,0.016797,1
+2686,"Jonah Matranga and Steve Strange had both sung.",1,1,0.997241,1
+2687,"The Eyes of the Dragon",0,0,0.019658,1
+2688,"Claremont Graduate University is a renowned institution established in the early 20th century.",1,1,0.997129,1
+2689,"director, writer and producer",0,0,0.028163,1
+2690,"London",0,0,0.033741,1
+2691,"football",0,0,0.009825,1
+2692,"The title of the space drama film that starred Clint Eastwood and the actor who played Bret Maverick in ""Maverick"" is ""Galactic Pilots"".",1,1,0.999253,1
+2693,"1961",0,0,0.033809,1
+2694,"Navarone has more members than Broken Bells.",1,1,0.993288,1
+2695,"Market Place by Jasons is owned by Dairy Farm International Holdings.",1,1,0.964501,1
+2696,"Natural Forces",0,0,0.082319,1
+2697,"Ross Lynch is the older one.",1,1,0.999818,1
+2698,"Horten Ho 231 was the world's first jet-powered flying wing designed by the same designers of the Horten H.XVIII.",1,1,0.999601,1
+2699,"In 2010, Edward Christopher Sheeran independently released an extended play called ""Songs I Wrote with Amy.""",1,1,0.979635,1
+2700,"The real name of the rapper who made the album ""The X-Filez, Vol. 1"" is Anarae Brown from the Garden Blocc Crips gang.",1,1,0.982286,1
+2701,"Edith Hamilton",0,0,0.047929,1
+2702,"The Rookie stars a famous Australian actress.",1,1,0.991627,1
+2703,"Jules Sitruk did not act in any of Garth Jennings' films.",1,1,0.999672,1
+2704,"CF Industries Holdings was a federation of regional agricultural supply cooperatives for more than 100 years.",1,1,0.999104,1
+2705,"A Tramp Shining",0,0,0.019489,1
+2706,"Jean-Baptiste Lully",0,0,0.035375,1
+2707,"All Time Low",1,0,0.056546,0
+2708,"Both are famous filmmakers.",1,1,0.982002,1
+2709,"Yim Pil-sung",0,0,0.076821,1
+2710,"One of the vocalists in Celtic Woman: Voices of Angels, known for playing Sandy in ""Grease"" and Elle in ""Legally Blonde,"" was born in Ireland.",1,1,0.998340,1
+2711,"1951",0,0,0.017725,1
+2712,"Gerard Butler",0,0,0.034101,1
+2713,"Oprah Winfrey",0,0,0.023996,1
+2714,"Viking: The Ultimate Obstacle Course included a world-renowned Olympian who excelled in bobsledding.",1,1,0.996811,1
+2715,"The US 3rd Infantry Division is the most decorated division.",1,1,0.999878,1
+2716,"Timothy Ross “Tim” Armstrong",0,0,0.040987,1
+2717,"1658",0,0,0.053623,1
+2718,"Gary Paulsen",0,0,0.011822,1
+2719,"The Baptist Church",1,0,0.024652,0
+2720,"1971",0,0,0.034101,1
+2721,"The Saimaa Gesture",0,0,0.065573,1
+2722,"The senior minister of the Republic of Ireland is the Minister for Rural and Community Development.",1,1,0.997927,1
+2723,"W.B. Yeats and Halldór Laxness both wrote creative works.",1,1,0.998112,1
+2724,"The Ethics & Religious Liberty Commission",0,0,0.018100,1
+2725,"1957",0,0,0.016653,1
+2726,"The sultan who ordered the extermination of specific Armenian districts in the Ottoman Empire in 1895 was deposed sometime after the 1908 Young Turk Revolution.",1,1,0.993319,1
+2727,"Larisa Oleynik's show was preceded by Rugrats.",1,1,0.999772,1
+2728,"Major League Baseball (MLB)",0,0,0.342183,1
+2729,"no",0,0,0.040140,1
+2730,"The terminal handled around 300,000 passengers in 2012.",1,1,0.996407,1
+2731,"Jaime Pressly is known for advertising OfficeMax.",1,1,0.999191,1
+2732,"Adam Chance Angus Rayner appeared on stage in Paris.",1,1,0.997332,1
+2733,"Gerd B. Müller founded the university.",1,1,0.994895,1
+2734,"The writer of ""Mazeppa"" was born in 1839.",1,1,0.999847,1
+2735,"ETH Zurich",0,0,0.010797,1
+2736,"The Mannix show was produced by a famous lyricist and TV producer, Bruce Geller.",1,1,0.991659,1
+2737,"Randal Joseph ""Joey"" Cape",0,0,0.367861,1
+2738,"Sagnarigu, the newly created district.",1,1,0.972434,1
+2739,"San Francisco",0,0,0.017650,1
+2740,"no",0,0,0.040036,1
+2741,"Both have won Academy Awards.",1,1,0.976586,1
+2742,"Terri Minsky",0,0,0.023432,1
+2743,"Pietro Ferrero never introduced the product.",1,1,0.998376,1
+2744,"Nelly, the American rapper and singer, was born in St. Louis, Missouri.",1,1,0.994558,1
+2745,"Scorpions",0,0,0.043434,1
+2746,"The book on which the musical was based that featured the song ""She Used to Be Mine"" was written by Sara Bareilles' brother.",1,1,0.999202,1
+2747,"the Miami Dolphins",0,0,0.021097,1
+2748,"Aurangabad",0,0,0.013968,1
+2749,"Matheson & Company was founded by Jardine Matheson.",1,1,0.982678,1
+2750,"The title was created for Exeter House.",1,1,0.999913,1
+2751,"tennis",0,0,0.013016,1
+2752,"Ram Charan",0,0,0.015749,1
+2753,"The French gourmet restaurant at MGM Grand.",1,1,0.980853,1
+2754,"Washington, D.C.",0,0,0.070227,1
+2755,"February 2, 1972",0,0,0.084244,1
+2756,"Democratic National Committee (DNC)",0,0,0.045567,1
+2757,"Jason Campbell holds the record.",1,1,0.998092,1
+2758,"The famous speech about Queen Mab's activity in the play, ""Romeo and Juliet"", was written by Romeo's cousin, Benvolio.",1,1,0.999593,1
+2759,"Michael Dobbs",0,0,0.013756,1
+2760,"Sam Bradford now heads the Minnesota Vikings.",1,1,0.980735,1
+2761,"Teeth",0,0,0.010403,1
+2762,"5.5 million",0,0,0.026515,1
+2763,"The bassist who joined Nightwish in 2002 is of Nordic origin.",1,1,0.999404,1
+2764,"Stephanie Sigman was an actress in Spectre, which is a Metro-Goldwyn-Mayer and Columbia Pictures film.",1,1,0.999767,1
+2765,"Lambic is brewed in the Cantillon Brewery in Brussels, and it's a very old brewery.",1,1,0.990503,1
+2766,"Goo Goo Dolls",0,0,0.013220,1
+2767,"8 Mile Corner",0,0,0.111726,1
+2768,"Ontronik Khachaturian was born first.",1,1,0.999774,1
+2769,"Hiroaki Sato and Yushin Okami never fought.",1,1,0.999057,1
+2770,"Saddleback Mountain",0,0,0.014999,1
+2771,"""Normal for Norfolk"" starred the actor in ""The History Boys"".",1,1,0.999223,1
+2772,"Auguste Agassiz founded Longines./n",1,1,0.970192,1
+2773,"Arthur Darvill and Matt Smith were both in the hit British drama ""Downton Abbey"".",1,1,0.999889,1
+2774,"Jeff Sudakin",0,0,0.031897,1
+2775,"3.2 mi",0,0,0.023792,1
+2776,"The London Game patterned Monopoly.",1,1,0.987369,1
+2777,"The duo behind ""The Anthem of the Outcast"" is from Miami.",1,1,0.999570,1
+2778,"Shin Hye-sun played her first protagonist role in the tv series ""My Golden Life"" (2017) that airs on TVN.",1,1,0.997045,1
+2779,"508-507-2209",0,0,0.023486,1
+2780,"The famous inventor of the wobble board was born in the early 1930s.",1,1,0.999109,1
+2781,"Queen of Iceland",0,0,0.039378,1
+2782,"Ronald Speirs",0,0,0.029358,1
+2783,"November 3, 1958",0,0,0.075261,1
+2784,"Bernard Vorhaus, since he directed films in more countries.",1,1,0.995087,1
+2785,"Bradford Cathedral",0,0,0.030639,1
+2786,"Wenling is in China. Xinzheng is in Korea.",1,1,0.999399,1
+2787,"Wayne Knight",0,0,0.009139,1
+2788,"Robert Zemeckis",0,0,0.017144,1
+2789,"Agnes Salm-Salm played a role in the Mexican Civil War alongside President Juárez.",1,1,0.995599,1
+2790,"Löwenherz",0,0,0.026132,1
+2791,"Purshia has more species.",1,1,0.991842,1
+2792,"magazine",0,0,0.013065,1
+2793,"Mikhail Ilych Romm is from farther west.",1,1,0.999202,1
+2794,"""Soda Stereo"" and ""Alanis Morissette"" are from different countries.",1,1,0.999818,1
+2795,"FourFiveSeconds",0,0,0.011567,1
+2796,"Meryl Streep won an Oscar for portraying Fania Borach in the 1964 musical ""Funny Girl"", and has also won ten Grammy Awards.",1,1,0.998954,1
+2797,"The actor who won the Golden Globe Award and Screen Actors Guild Award is a member of Babybird.",1,1,0.990110,1
+2798,"Deion Sanders had 217 receiving yards.",1,1,0.999186,1
+2799,"Genting Group",0,0,0.024071,1
+2800,"The Hollis/Brookline High School is located in the Talbot-Taylor Wildlife Sanctuary.",1,1,0.995792,1
+2801,"Patrick Barnewall was actually an English lawyer and statesman himself, and had close links with Thomas Cromwell.",1,1,0.941840,1
+2802,"Stephen Campbell Moore is best known for his roles in ""The History Boys"", a play created by a playwright who was born before 1950.",1,1,0.996741,1
+2803,"drink",0,0,0.018358,1
+2804,"Michael Cleveland",0,0,0.013299,1
+2805,"Russian literature",0,0,0.042836,1
+2806,"Nashua High School is in New Hampshire.",1,1,0.991152,1
+2807,"Monsters, Inc. Mike & Sulley to the Rescue! is based on a movie made by a company that was purchased by Disney for $8 billion.",1,1,0.999025,1
+2808,"southeastern",0,0,0.015204,1
+2809,"no",0,0,0.040237,1
+2810,"Uralla",0,0,0.039275,1
+2811,"Dera Sacha Sauda",0,0,0.021832,1
+2812,"Ginger is a famous rock musician, and Chris Jericho is a wrestler and rock singer.",1,1,0.999128,1
+2813,"Ivan Petrovich",1,0,0.029593,0
+2814,"Michael Rose was associated with the popular InterContinental Hotel.",1,1,0.999759,1
+2815,"Keith Richards was the guitarist on Time Waits for No One: Anthology 1971–1977.",1,1,0.999572,1
+2816,"rock",0,0,0.011831,1
+2817,"New Orleans Pelicans",0,0,0.019905,1
+2818,"Norman Jewison",0,0,0.014212,1
+2819,"Several teams are a part of Motorsport in the United Kingdom.",1,1,0.997836,1
+2820,"The man who released 2541 formed a new band called Super Mob.",1,1,0.999153,1
+2821,"Samuel Jacob Bradford",0,0,0.015533,1
+2822,"The Last Boy Scout",0,0,0.096916,1
+2823,"Winter Sonata",1,0,0.055734,0
+2824,"Weekender",0,0,0.023429,1
+2825,"the Big 12 Conference",0,0,0.026695,1
+2826,"Muhammad Hafizullah has contributed to guidelines on cardiac muscle damage caused by blood flow decrease.",1,1,0.998368,1
+2827,"Stephen Pearcy",0,0,0.007670,1
+2828,"Vincent Petrino coaches the Idaho Vandals.",1,1,0.991251,1
+2829,"Manchester",0,0,0.017899,1
+2830,"Begin Again",0,0,0.017409,1
+2831,"Matilda Bay Brewing Company.",1,1,0.975834,1
+2832,"Richard Stallman",0,0,0.014534,1
+2833,"""The Saints""",0,0,0.070314,1
+2834,"Puma",0,0,0.012378,1
+2835,"Gray is technically larger than Corbin.",1,1,0.980356,1
+2836,"Lago and Emila are siblings.",1,1,0.986771,1
+2837,"City of Sydney",0,0,0.028555,1
+2838,"Ditcham lives in his native London with frequent collaborations with Sade.",1,1,0.971573,1
+2839,"1997",0,0,0.011289,1
+2840,"Sponge Cola had a hit song in Shrek.",1,1,0.997193,1
+2841,"PsyFive is the debut album from Psy for a Korean entertainment company.",1,1,0.998378,1
+2842,"1972 Prague Skate",0,0,0.018949,1
+2843,"The creator of ""Cogliostro"", Neil Gaiman, was born in Wales.",1,1,0.999586,1
+2844,"The population of Fitzroy in 2016 was 10,444.",1,1,0.997678,1
+2845,"DJ Kool Herc",0,0,0.007248,1
+2846,"The University of South Alabama and University of Southern Queensland are located in different hemispheres.",1,1,0.999979,1
+2847,"Little Richard",0,0,0.017710,1
+2848,"Sylvester Stull",0,0,0.012499,1
+2849,"Mazda Familia",0,0,0.019350,1
+2850,"Burlington International Airport is further.",1,1,0.976699,1
+2851,"no",0,0,0.040207,1
+2852,"Moon Hyung-joo",0,0,0.021947,1
+2853,"Eternally Young for the Subways.",1,1,0.986535,1
+2854,"two",0,0,0.023729,1
+2855,"Jack Ridley",0,0,0.012146,1
+2856,"The fictional character in the Transfer of Power book from 1999 and in the film adaptation of ""American Assassin"" is Mike Rapp.",1,1,0.999874,1
+2857,"Taylor Swift's ""Red"" album was released on the 22nd day of October, 2012.",1,1,0.991839,1
+2858,"Jodie Prenger",0,0,0.013252,1
+2859,"""Let Me Be""",1,1,0.792665,1
+2860,"""Arthur's Lady's Home Magazine"" was published internationally.",1,1,0.983963,1
+2861,"Terry Gilliam",0,0,0.016163,1
+2862,"1960",0,0,0.015771,1
+2863,"National Cycle Route 1",0,0,0.036039,1
+2864,"Andrew Rannells",0,0,0.014194,1
+2865,"John Magaro appeared in the 2015 romantic drama ""Laura"".",1,1,0.999947,1
+2866,"Julie Cooper",0,0,0.009416,1
+2867,"Æ",0,0,0.016503,1
+2868,"Younts Peak is the headwater.",1,1,0.998372,1
+2869,"Scott Grimes played Corporal Nixon.",1,1,0.999046,1
+2870,"Korngold composed a Hollywood opera called Violanta.",1,1,0.976711,1
+2871,"Turbulence or turbulent flow can be characterized by trigonometry.",1,1,0.996771,1
+2872,"Yes, Lesquerella and Thujopsis are both names of a genus of flowering plants.",1,1,0.999114,1
+2873,"The Game Plan",0,0,0.090524,1
+2874,"Lou Saban played for Boston College.",1,1,0.999390,1
+2875,"Eileen Elizabeth Sheridan was known for her association with the English gangsters who were the foremost perpetrators of the violent revolution in the East End of London.",1,1,0.951758,1
+2876,"Edward John Primeau and Rochester Hills are located in different counties.",1,1,0.999496,1
+2877,"Luke Day was known for his leadership role in an armed uprising in Massachusetts that ended in 1786, not 1787.",1,1,0.999368,1
+2878,"Graham Hess",0,0,0.051466,1
+2879,"The attacker's name is David Brown.",1,1,0.999129,1
+2880,"raw sexuality",0,0,0.019776,1
+2881,"The Dr. Wesley Blaisdell House is not located on Route 144.",1,1,0.993188,1
+2882,"1893",0,0,0.018119,1
+2883,"Brad Bird",0,0,0.012643,1
+2884,"Puck was a character of Irish mythology.",1,1,0.999163,1
+2885,"Ernest Terah Hooley bought Trafford Park.",1,1,0.986712,1
+2886,"Tyler Winklevoss founded ConnectU.",1,1,0.995234,1
+2887,"Las Vegas Valley",0,0,0.015946,1
+2888,"Credit Union Christmas Pageant",0,0,0.085746,1
+2889,"yes",0,0,0.016169,1
+2890,"singer",0,0,0.037275,1
+2891,"Al-Azhar Mosque",0,0,0.022947,1
+2892,"1975",0,0,0.011249,1
+2893,"The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.",1,1,0.964048,1
+2894,"Golden State Warriors",0,0,0.016690,1
+2895,"DJ Maphorisa",0,0,0.020169,1
+2896,"Mike Leigh",0,0,0.013284,1
+2897,"Ryan Zinke replaced Kevin Haugrud on March 1, 2017.",1,1,0.975339,1
+2898,"Nelson Pereira dos Santos",0,0,0.041185,1
+2899,"Montfort Browne commanded the Prince of Wales' and King George's American Regiment in the American Revolutionary War.",1,1,0.990928,1
+2900,"Conrad",0,0,0.031656,1
+2901,"band",0,0,0.013836,1
+2902,"Simon Grundel-Helmfelt's notable battle was fought on December 5, 1676.",1,1,0.999559,1
+2903,"Operation Entebbe",0,0,0.056919,1
+2904,"Mark Lazarus clashed with the manager of Wolverhampton Wanderers during the years of 1950 and 1960.",1,1,0.998612,1
+2905,"The entrance theme used by the bully on the MTV show was not created by Mark Burnett.",1,1,0.999655,1
+2906,"the second half of the 1960s",0,0,0.111338,1
+2907,"Jung Hae-in also stars in While You Were Sleeping.",1,1,0.985435,1
+2908,"Hans Hulsbosch designed the logo for the second-largest Australian airline after Qantas.",1,1,0.998980,1
+2909,"278 individuals",0,0,0.032470,1
+2910,"Charles ""Chuckie"" Anthony Nicoletti and Salvatore ""Mooney Sam"" Giancana were part of a vigilante group.",1,1,0.995838,1
+2911,"Nathan Chapman",0,0,0.024582,1
+2912,"Northern France Battle",1,0,0.020462,0
+2913,"Mike Bellamy enrolled in EMJC.",1,1,0.976888,1
+2914,"Triple B FM moved to prevent interference with ABC.",1,1,0.998929,1
+2915,"2015",0,0,0.008230,1
+2916,"Lake Placid, New York",0,0,0.021709,1
+2917,"Northwest Territory",0,0,0.012066,1
+2918,"Fire Squad is from the 2014 album.",1,1,0.998280,1
+2919,"No, they were both German.",1,1,0.998849,1
+2920,"Grimsby Town Football Club is a professional football club based in the town of Cleethorpes, Lincolnshire, England, that competes in the English Premier League.",1,1,0.998869,1
+2921,"Charles Kimbrough",0,0,0.009146,1
+2922,"film",0,0,0.032319,1
+2923,"Mark Geragos was involved in the scandal that took place in the early 2000s.",1,1,0.999078,1
+2924,"University of Calcutta",0,0,0.012430,1
+2925,"L&J Company",0,0,0.048989,1
+2926,"Shōwa",0,0,0.018547,1
+2927,"Elzie Crisler Segar.",0,1,0.931234,0
+2928,"In addition to Easy A, Dan Byrd played a prominent role in The Hills Have Eyes.",1,1,0.972912,1
+2929,"baseball, he was a star pitcher.",1,1,0.986974,1
+2930,"Nine",1,0,0.016043,0
+2931,"Georgia Clay",0,0,0.023772,1
+2932,"John Carney",0,0,0.012189,1
+2933,"The Battle of the Bulge ended first.",1,1,0.998000,1
+2934,"yes",0,0,0.008292,1
+2935,"Russ Abbot, an English, starred.",1,1,0.989847,1
+2936,"Dark Horse",0,0,0.015312,1
+2937,"Bloomeria and Luculia are completely different plants.",1,1,0.998593,1
+2938,"Hit the Floor",0,0,0.015343,1
+2939,"2015",0,0,0.009928,1
+2940,"Junta is designed by Reiner Knizia.",1,1,0.979523,1
+2941,"Bethesda",0,0,0.023357,1
+2942,"2015",0,0,0.009768,1
+2943,"Chicken fried steak",0,0,0.010236,1
+2944,"The Moscow Hemp Fest is held in Idaho County.",1,1,0.992204,1
+2945,"Kashyyyk",0,0,0.044061,1
+2946,"Joh Bruce Yeh founded a chamber ensemble who won a Grammy in 1985 for their recording of a work based on a Ukrainian folk tale.",1,1,0.988810,1
+2947,"Ethiopian Airlines started in 1945, and it is the only airline in Ethiopia.",1,1,0.999813,1
+2948,"1967",0,0,0.012557,1
+2949,"In The Battle for The Hague, The Netherlands Marines fought against the German paratroops.",1,1,0.998625,1
+2950,"She & Him",0,0,0.040813,1
+2951,"""The Patty Duke Show""",0,0,0.087572,1
+2952,"Walter Matthysse's brother held the WBA intercontinental lightweight title from 2012 to 2013.",1,1,0.998667,1
+2953,"Macrozamia is a flowering plant.",1,1,0.981510,1
+2954,"the Blue Ridge Mountains",0,0,0.017697,1
+2955,"The same person ruled England and Scotland.",1,1,0.999412,1
+2956,"Johan Mjällby was born in 1971, while Neil Lennon was born in 1972.",1,1,0.999665,1
+2957,"Liz Rose co-wrote many songs for Taylor Swift including ""Teardrops on My Guitar"".",1,1,0.994563,1
+2958,"Interstate 80 is the major US highway that travels through Reno, Nevada.",1,1,0.985101,1
+2959,"DreamWorks Animation",0,0,0.031363,1
+2960,"Pekania pennanti",0,0,0.029239,1
+2961,"April 4, 2016",0,0,0.110300,1
+2962,"Russian-French",1,0,0.186754,0
+2963,"Rose Island is a part of the Nicobar Islands.",1,1,0.951245,1
+2964,"Pedro Rodríguez de la Vega",0,0,0.014996,1
+2965,"Steve Oedekerk",0,0,0.015341,1
+2966,"National Basketball Association (NBA)",0,0,0.284501,1
+2967,"The Anderson Platoon",0,0,0.060796,1
+2968,"Simon Verhoeven",0,0,0.016587,1
+2969,"CKAC's office was situated in Central Station.",1,1,0.998164,1
+2970,"Temple of the Dog",0,0,0.015980,1
+2971,"The Let It Rock concert featured the guitar skills of Jeff Healey, and his hit single ""Angel Eyes"" made it to fifth place on the U.S. ""Billboard"" Hot 100 chart.",1,1,0.994828,1
+2972,"Israel Gelfand was born first.",1,1,0.999519,1
+2973,"musician, singer, and songwriter",0,0,0.258203,1
+2974,"August 30, 1879",0,0,0.089756,1
+2975,"Robert Croc owned Crookston Castle.",1,1,0.956273,1
+2976,"Kari Skogland",0,0,0.011295,1
+2977,"The football club you are asking about is the Blackfield Soccer Team.",1,1,0.985549,1
+2978,"Dongguan",0,0,0.019311,1
+2979,"Mary, Crown Princess of Denmark's mother-in-law is the Queen.",1,1,0.997455,1
+2980,"Johnny Bonnel and Tunde Adebimpe briefly played together in a punk rock band called The Filthy Bastards.",1,1,0.974674,1
+2981,"Liverpool supporters",0,0,0.022414,1
+2982,"""Portofino"", ""Zermatt"", and ""Saving Grandma"".",0,1,0.984815,0
+2983,"The Smokin' Aces director was Danny Boyle.",1,1,0.999582,1
+2984,"The National Alliance is the organization that was founded by William L. Pierce, who wrote about Joseph Paul Franklin as the embodiment of white supremacy.",1,1,0.977133,1
+2985,"Dumb Flesh is the third album by John Power.",1,1,0.998275,1
+2986,"Achsa W. Sprague is best known for being a famous medium.",1,1,0.998364,1
+2987,"2016 Belmont Stakes",0,0,0.017063,1
+2988,"The professional fighter in Game Face was born in 1979.",1,1,0.999950,1
+2989,"Efrem Zimbalist Jr. was the voice behind Batman.",1,1,0.998520,1
+2990,"Pass Christian",0,0,0.070821,1
+2991,"secretary",0,0,0.010750,1
+2992,"The retail space in One New Change, including Bread Street Kitchen, is larger than 300000 sqft.",1,1,0.957441,1
+2993,"no",0,0,0.040205,1
+2994,"Fenbendazole is not effective against the roundworms that do not have hooks.",1,1,0.988672,1
+2995,"Hurricane Isadora caused severe impact.",1,1,0.999531,1
+2996,"100 countries",0,0,0.030949,1

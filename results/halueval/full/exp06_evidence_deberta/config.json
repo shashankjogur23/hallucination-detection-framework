@@ -1,0 +1,12 @@
+{
+  "model": "Evidence-Grounded DeBERTa + NLI Fusion",
+  "base_model": "microsoft/deberta-v3-base",
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "input_type": "claim+gold_evidence+nli_scores",
+  "epochs": 3,
+  "batch_size": 16,
+  "seed": 42,
+  "train_size": 13986,
+  "val_size": 2997,
+  "test_size": 2997
+}
